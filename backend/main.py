@@ -8,8 +8,8 @@ from contextlib import asynccontextmanager
 import joblib, json, pandas as pd
 from pathlib import Path
 
-from .ml import load_models
-from .routes import router
+from ml import load_models
+from routes import router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):

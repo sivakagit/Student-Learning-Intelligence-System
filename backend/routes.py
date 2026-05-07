@@ -10,8 +10,8 @@ import numpy as np
 import pandas as pd
 from fastapi import APIRouter, HTTPException
 
-from .ml import get_regressor, get_classifier, get_features
-from .schemas import (
+from ml import get_regressor, get_classifier, get_features
+from schemas import (
     PredictRequest, PredictResponse,
     RecommendationsResponse, StudentSummary, StudentDetail, DashboardSummary
 )
