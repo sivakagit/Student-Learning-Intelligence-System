@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-const API = 'https://student-learning-intelligence-system.onrender.com';  // CRA proxy handles /students → localhost:8000
+const API = 'https://student-learning-intelligence-system.onrender.com';
 
 /* ── Global CSS ───────────────────────────────────────────────────── */
 const globalCSS = `
@@ -117,11 +117,38 @@ function StudentPanel({ studentId, onClose }) {
 
   useEffect(() => {
     if (!studentId) return;
-    setLoading(true); setStudent(null); setRecs(null); setAiText(null); setTab('overview');
+    setLoading(true);
+    setStudent(null);
+    setRecs(null);
+    setAiText(null);
+    setTab('overview');
+    console.log("API =", API);
+    console.log("Student =", studentId);
     Promise.all([
-      fetch(`${API}/students/${studentId}`).then(r => r.json()),
-      fetch(`${API}/recommendations/${studentId}`).then(r => r.json()),
-    ]).then(([s, r]) => { setStudent(s); setRecs(r); setLoading(false); });
+      fetch(`${API}/students/${studentId}`)
+        .then(r => r.json())
+        .catch(err => {
+          console.error("Student fetch failed:", err);
+          return null;
+        }),
+      fetch(`${API}/recommendations/${studentId}`)
+        .then(r => r.json())
+        .catch(err => {
+          console.error("Recommendations fetch failed:", err);
+          return { rule_based: [] };
+        }),
+    ])
+      .then(([s, r]) => {
+        console.log("Student data:", s);
+        console.log("Recommendations:", r);
+        setStudent(s);
+        setRecs(r);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error("Promise.all failed:", err);
+        setLoading(false);
+      });
   }, [studentId]);
 
   const fetchAI = () => {
@@ -340,7 +367,7 @@ export default function App() {
   const [students, setStudents]     = useState([]);
   const [loading, setLoading]       = useState(true);
   const [selected, setSelected]     = useState(null);
-  const [filter, setFilter]         = useState('all');   // all | risk | safe
+  const [filter, setFilter]         = useState('all');
   const [search, setSearch]         = useState('');
   const [sortKey, setSortKey]       = useState('student_id');
   const [sortDir, setSortDir]       = useState('asc');
