@@ -306,7 +306,8 @@ Student Profile:
 
         return (
             f"Gemini API HTTP error: "
-            f"{e.response.status_code}"
+            f"{e.response.status_code} — "
+            f"{e.response.text}"
         )
 
     except Exception as e:
