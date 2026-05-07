@@ -5,14 +5,22 @@ Rule-based logic + Google Gemini AI for personalized student recommendations.
 
 import os
 import json
+from pathlib import Path
+
 import requests
 import pandas as pd
 from dotenv import load_dotenv
 
+# ---------------------------------------------------
+# Environment setup
+# ---------------------------------------------------
+
 load_dotenv()
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-CLEAN_DIR = "data/cleaned"
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+CLEAN_DIR = BASE_DIR / "data" / "cleaned"
 
 
 # ══════════════════════════════════════════════════════
@@ -20,71 +28,194 @@ CLEAN_DIR = "data/cleaned"
 # ══════════════════════════════════════════════════════
 
 def rule_based_recommendations(student: dict) -> list[dict]:
+
     recs = []
 
     attendance_rate = student.get("attendance_rate", 1.0)
-    avg_score       = student.get("avg_score", 100)
-    total_sessions  = student.get("total_sessions", 0)
-    unique_days     = student.get("unique_days_active", 0)
-    weak_subjects   = student.get("weak_subjects", [])
-    std_score       = student.get("std_score", 0)
-    at_risk         = student.get("at_risk", 0)
+    avg_score = student.get("avg_score", 100)
+    total_sessions = student.get("total_sessions", 0)
+    unique_days = student.get("unique_days_active", 0)
+    weak_subjects = student.get("weak_subjects", [])
+    std_score = student.get("std_score", 0)
+    at_risk = student.get("at_risk", 0)
 
+    # ---------------------------------------------
     # Attendance rules
+    # ---------------------------------------------
+
     if attendance_rate < 0.50:
-        recs.append({"category": "Attendance", "priority": "Critical",
-            "message": f"Attendance is critically low at {attendance_rate*100:.1f}%. Immediate intervention required. Meet with your academic advisor this week."})
+
+        recs.append({
+            "category": "Attendance",
+            "priority": "Critical",
+            "message":
+                f"Attendance is critically low at "
+                f"{attendance_rate * 100:.1f}%. "
+                f"Immediate intervention required. "
+                f"Meet with your academic advisor this week."
+        })
+
     elif attendance_rate < 0.65:
-        recs.append({"category": "Attendance", "priority": "High",
-            "message": f"Attendance is {attendance_rate*100:.1f}%, below the 65% risk threshold. Aim to attend every class for the next 4 weeks to recover your standing."})
+
+        recs.append({
+            "category": "Attendance",
+            "priority": "High",
+            "message":
+                f"Attendance is {attendance_rate * 100:.1f}%, "
+                f"below the 65% risk threshold. "
+                f"Aim to attend every class consistently."
+        })
+
     elif attendance_rate < 0.80:
-        recs.append({"category": "Attendance", "priority": "Medium",
-            "message": f"Attendance is {attendance_rate*100:.1f}%. Try to maintain above 80% to stay in good academic standing."})
 
+        recs.append({
+            "category": "Attendance",
+            "priority": "Medium",
+            "message":
+                f"Attendance is {attendance_rate * 100:.1f}%. "
+                f"Try maintaining above 80% for stronger performance."
+        })
+
+    # ---------------------------------------------
     # Score rules
-    if avg_score < 40:
-        recs.append({"category": "Academic Performance", "priority": "Critical",
-            "message": f"Average score of {avg_score:.1f}% is critically low. Enroll in tutoring support immediately and review all past exam papers."})
-    elif avg_score < 55:
-        recs.append({"category": "Academic Performance", "priority": "High",
-            "message": f"Average score of {avg_score:.1f}% needs improvement. Set aside dedicated daily study time and attempt practice tests each week."})
+    # ---------------------------------------------
 
+    if avg_score < 40:
+
+        recs.append({
+            "category": "Academic Performance",
+            "priority": "Critical",
+            "message":
+                f"Average score of {avg_score:.1f}% is critically low. "
+                f"Seek tutoring support immediately."
+        })
+
+    elif avg_score < 55:
+
+        recs.append({
+            "category": "Academic Performance",
+            "priority": "High",
+            "message":
+                f"Average score of {avg_score:.1f}% needs improvement. "
+                f"Schedule daily revision sessions and practice tests."
+        })
+
+    # ---------------------------------------------
     # Weak subject rules
+    # ---------------------------------------------
+
     if isinstance(weak_subjects, str):
+
         try:
-            weak_subjects = json.loads(weak_subjects.replace("'", '"'))
+            weak_subjects = json.loads(
+                weak_subjects.replace("'", '"')
+            )
+
         except Exception:
             weak_subjects = []
-    for subject in weak_subjects:
-        recs.append({"category": "Subject Support", "priority": "High",
-            "message": f"Scoring below 50% in {subject}. Seek extra help — attend office hours or join a study group for {subject}."})
 
+    for subject in weak_subjects:
+
+        recs.append({
+            "category": "Subject Support",
+            "priority": "High",
+            "message":
+                f"Scoring below 50% in {subject}. "
+                f"Attend extra support sessions for {subject}."
+        })
+
+    # ---------------------------------------------
     # Engagement rules
+    # ---------------------------------------------
+
     if total_sessions < 30:
-        recs.append({"category": "Engagement", "priority": "High",
-            "message": f"Only {total_sessions} platform sessions recorded. Log in daily to access course materials, attempt quizzes, and track progress."})
+
+        recs.append({
+            "category": "Engagement",
+            "priority": "High",
+            "message":
+                f"Only {total_sessions} platform sessions recorded. "
+                f"Increase LMS engagement and daily logins."
+        })
+
     elif total_sessions < 60:
-        recs.append({"category": "Engagement", "priority": "Medium",
-            "message": f"Platform engagement is low ({total_sessions} sessions). Aim for at least 3 active sessions per week."})
+
+        recs.append({
+            "category": "Engagement",
+            "priority": "Medium",
+            "message":
+                f"Platform engagement is low "
+                f"({total_sessions} sessions). "
+                f"Aim for at least 3 sessions weekly."
+        })
+
+    # ---------------------------------------------
+    # Consistency rules
+    # ---------------------------------------------
 
     if unique_days < 20:
-        recs.append({"category": "Consistency", "priority": "Medium",
-            "message": f"Active on only {unique_days} unique days. Consistent daily engagement is more effective than occasional long sessions."})
+
+        recs.append({
+            "category": "Consistency",
+            "priority": "Medium",
+            "message":
+                f"Only active on {unique_days} days. "
+                f"Consistent study habits improve retention."
+        })
 
     if std_score > 20:
-        recs.append({"category": "Consistency", "priority": "Medium",
-            "message": f"High variability in scores (std dev: {std_score:.1f}). Performance is inconsistent — focus on weaker areas regularly."})
 
+        recs.append({
+            "category": "Consistency",
+            "priority": "Medium",
+            "message":
+                f"High score variability detected "
+                f"(std dev: {std_score:.1f}). "
+                f"Focus on regular preparation."
+        })
+
+    # ---------------------------------------------
     # Positive reinforcement
-    if attendance_rate >= 0.90 and avg_score >= 75:
-        recs.append({"category": "Encouragement", "priority": "Info",
-            "message": "Excellent attendance and strong scores! Consider mentoring peers or taking on advanced coursework."})
-    elif at_risk == 0 and avg_score >= 60:
-        recs.append({"category": "Encouragement", "priority": "Info",
-            "message": "You are on track. Keep up the consistent effort and engagement."})
+    # ---------------------------------------------
 
-    priority_order = {"Critical": 0, "High": 1, "Medium": 2, "Info": 3}
-    recs.sort(key=lambda r: priority_order.get(r["priority"], 99))
+    if attendance_rate >= 0.90 and avg_score >= 75:
+
+        recs.append({
+            "category": "Encouragement",
+            "priority": "Info",
+            "message":
+                "Excellent academic consistency and attendance. "
+                "Keep up the strong performance."
+        })
+
+    elif at_risk == 0 and avg_score >= 60:
+
+        recs.append({
+            "category": "Encouragement",
+            "priority": "Info",
+            "message":
+                "You are performing well overall. "
+                "Maintain your current learning habits."
+        })
+
+    # ---------------------------------------------
+    # Sort priorities
+    # ---------------------------------------------
+
+    priority_order = {
+        "Critical": 0,
+        "High": 1,
+        "Medium": 2,
+        "Info": 3,
+    }
+
+    recs.sort(
+        key=lambda r: priority_order.get(
+            r["priority"],
+            99
+        )
+    )
+
     return recs
 
 
@@ -93,20 +224,31 @@ def rule_based_recommendations(student: dict) -> list[dict]:
 # ══════════════════════════════════════════════════════
 
 def ai_recommendations(student: dict) -> str:
+
     if not GEMINI_API_KEY:
-        return "AI recommendations unavailable: GEMINI_API_KEY not set in .env"
+
+        return (
+            "AI recommendations unavailable: "
+            "GEMINI_API_KEY not configured."
+        )
 
     weak_subjects = student.get("weak_subjects", [])
+
     if isinstance(weak_subjects, str):
+
         try:
-            weak_subjects = json.loads(weak_subjects.replace("'", '"'))
+            weak_subjects = json.loads(
+                weak_subjects.replace("'", '"')
+            )
+
         except Exception:
             weak_subjects = []
 
-    summary = f"""Student Profile:
+    summary = f"""
+Student Profile:
 - Department: {student.get('department', 'N/A')}
 - Enrollment Year: {student.get('enrollment_year', 'N/A')}
-- Attendance Rate: {student.get('attendance_rate', 0)*100:.1f}%
+- Attendance Rate: {student.get('attendance_rate', 0) * 100:.1f}%
 - Average Score: {student.get('avg_score', 0):.1f}%
 - Min Score: {student.get('min_score', 0):.1f}%
 - Score Std Dev: {student.get('std_score', 0):.1f}
@@ -115,46 +257,105 @@ def ai_recommendations(student: dict) -> str:
 - Unique Active Days: {student.get('unique_days_active', 0)}
 - Weak Subjects: {', '.join(weak_subjects) if weak_subjects else 'None'}
 - At-Risk: {'Yes' if student.get('at_risk', 0) == 1 else 'No'}
-- Predicted Score: {student.get('predicted_score', 'N/A')}"""
+- Predicted Score: {student.get('predicted_score', 'N/A')}
+"""
 
     prompt = (
-        "You are an academic advisor AI for a university student learning system.\n"
-        "Based on the following student data, provide 3-5 specific, actionable, and encouraging "
-        "recommendations to help this student improve their academic performance.\n"
-        "Be concise, empathetic, and practical. Format each recommendation as a numbered point.\n\n"
-        f"{summary}\n\nRecommendations:"
+        "You are an academic advisor AI.\n"
+        "Provide concise, practical, actionable advice.\n"
+        "Return 3-5 numbered recommendations.\n\n"
+        f"{summary}"
     )
 
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
-f"gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+        f"gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     )
 
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {
+                        "text": prompt
+                    }
+                ]
+            }
+        ]
+    }
+
     try:
-        response = requests.post(url, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=20)
+
+        response = requests.post(
+            url,
+            json=payload,
+            timeout=20,
+        )
+
         response.raise_for_status()
+
         data = response.json()
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+
+        return (
+            data["candidates"][0]
+            ["content"]["parts"][0]["text"]
+            .strip()
+        )
+
     except requests.exceptions.HTTPError as e:
-        return f"Gemini API HTTP error: {e.response.status_code} — {e.response.text}"
+
+        return (
+            f"Gemini API HTTP error: "
+            f"{e.response.status_code}"
+        )
+
     except Exception as e:
-        return f"Gemini API error: {str(e)}"
+
+        return (
+            f"Gemini API error: {str(e)}"
+        )
 
 
 # ══════════════════════════════════════════════════════
-# COMBINED — called by FastAPI backend
+# COMBINED ENGINE
 # ══════════════════════════════════════════════════════
 
-def get_recommendations(student: dict, use_ai: bool = True) -> dict:
+def get_recommendations(
+    student: dict,
+    use_ai: bool = False
+) -> dict:
+
     rule_recs = rule_based_recommendations(student)
+
     result = {
-        "student_id": student.get("student_id", "unknown"),
-        "at_risk": bool(student.get("at_risk", 0)),
+        "student_id": student.get(
+            "student_id",
+            "unknown"
+        ),
+
+        "at_risk": bool(
+            student.get("at_risk", 0)
+        ),
+
         "rule_based": rule_recs,
+
         "ai_powered": None,
     }
+
+    # Optional AI call
     if use_ai:
-        result["ai_powered"] = ai_recommendations(student)
+
+        try:
+            result["ai_powered"] = (
+                ai_recommendations(student)
+            )
+
+        except Exception as e:
+
+            result["ai_powered"] = (
+                f"AI unavailable: {str(e)}"
+            )
+
     return result
 
 
@@ -163,44 +364,53 @@ def get_recommendations(student: dict, use_ai: bool = True) -> dict:
 # ══════════════════════════════════════════════════════
 
 if __name__ == "__main__":
+
     try:
-        master   = pd.read_csv(f"{CLEAN_DIR}/master_features.csv")
-        scores   = pd.read_csv(f"{CLEAN_DIR}/scores_summary.csv")
-        profiles = pd.read_csv(f"{CLEAN_DIR}/student_profiles_clean.csv")
 
-        merged = master.merge(scores[["student_id", "weak_subjects"]], on="student_id", how="left")
-        merged = merged.merge(profiles[["student_id", "department"]], on="student_id", how="left")
+        master = pd.read_csv(
+            CLEAN_DIR / "master_features.csv"
+        )
 
-        test_student = merged[merged["at_risk"] == 1].iloc[0].to_dict()
+        scores = pd.read_csv(
+            CLEAN_DIR / "scores_summary.csv"
+        )
 
-        print(f"\nStudent : {test_student['student_id']}")
-        print(f"Attendance: {test_student['attendance_rate']*100:.1f}% | Avg Score: {test_student['avg_score']:.1f}%\n")
+        profiles = pd.read_csv(
+            CLEAN_DIR / "student_profiles_clean.csv"
+        )
 
-        result = get_recommendations(test_student, use_ai=bool(GEMINI_API_KEY))
+        merged = master.merge(
+            scores[
+                ["student_id", "weak_subjects"]
+            ],
+            on="student_id",
+            how="left",
+        )
 
-        print("── Rule-Based Recommendations ───────────────────")
-        for rec in result["rule_based"]:
-            print(f"\n[{rec['priority']}] {rec['category']}")
-            print(f"  {rec['message']}")
+        merged = merged.merge(
+            profiles[
+                ["student_id", "department"]
+            ],
+            on="student_id",
+            how="left",
+        )
 
-        if result["ai_powered"]:
-            print("\n── AI Recommendations (Gemini) ──────────────────")
-            print(result["ai_powered"])
+        test_student = merged[
+            merged["at_risk"] == 1
+        ].iloc[0].to_dict()
 
-        print("\n✓ Recommendation engine working correctly.")
+        result = get_recommendations(
+            test_student,
+            use_ai=False,
+        )
 
-    except FileNotFoundError:
-        demo = {
-            "student_id": "STU0001", "attendance_rate": 0.55, "avg_score": 42.0,
-            "min_score": 28.0, "std_score": 18.5, "total_sessions": 25,
-            "unique_days_active": 15, "total_minutes": 420,
-            "weak_subjects": ["Math", "Physics"], "enrollment_year": 2023,
-            "department": "Computer Science", "at_risk": 1,
-        }
-        result = get_recommendations(demo, use_ai=False)
-        print(f"\nDemo student: {demo['student_id']}")
-        print("── Rule-Based Recommendations ───────────────────")
-        for rec in result["rule_based"]:
-            print(f"\n[{rec['priority']}] {rec['category']}")
-            print(f"  {rec['message']}")
-        print("\n✓ Recommendation engine working correctly.")
+        print(json.dumps(
+            result,
+            indent=2
+        ))
+
+    except Exception as e:
+
+        print(
+            f"Standalone test failed: {str(e)}"
+        )
