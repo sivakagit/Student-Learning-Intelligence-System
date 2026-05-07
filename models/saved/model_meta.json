@@ -1,0 +1,50 @@
+{
+  "features": [
+    "age",
+    "gender_encoded",
+    "dept_encoded",
+    "enrollment_year",
+    "attendance_rate",
+    "min_score",
+    "std_score",
+    "total_sessions",
+    "total_minutes",
+    "unique_days_active"
+  ],
+  "best_regressor": "Ridge Regression",
+  "best_classifier": "Random Forest",
+  "reg_metrics": {
+    "Ridge Regression": {
+      "RMSE": 2.9312,
+      "MAE": 2.2517,
+      "R2": 0.9646,
+      "CV_R2": 0.9519
+    },
+    "Random Forest": {
+      "RMSE": 3.2533,
+      "MAE": 2.466,
+      "R2": 0.9564,
+      "CV_R2": 0.9329
+    },
+    "XGBoost": {
+      "RMSE": 3.4083,
+      "MAE": 2.5542,
+      "R2": 0.9521,
+      "CV_R2": 0.9217
+    }
+  },
+  "clf_metrics": {
+    "Logistic Regression": {
+      "AUC": 0.9857,
+      "CV_AUC": 0.9971
+    },
+    "Random Forest": {
+      "AUC": 1.0,
+      "CV_AUC": 1.0
+    },
+    "XGBoost": {
+      "AUC": 1.0,
+      "CV_AUC": 1.0
+    }
+  }
+}

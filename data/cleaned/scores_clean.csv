@@ -1,0 +1,3601 @@
+student_id,subject,exam_type,score,max_score,score_pct
+STU0001,Math,quiz,67,100,67.0
+STU0001,Math,midterm,61,100,61.0
+STU0001,Math,final,71,100,71.0
+STU0001,Physics,quiz,63,100,63.0
+STU0001,Physics,midterm,59,100,59.0
+STU0001,Physics,final,53,100,53.0
+STU0001,Programming,quiz,72,100,72.0
+STU0001,Programming,midterm,64,100,64.0
+STU0001,Programming,final,66,100,66.0
+STU0001,Data Structures,quiz,73,100,73.0
+STU0001,Data Structures,midterm,60,100,60.0
+STU0001,Data Structures,final,53,100,53.0
+STU0001,English,quiz,65,100,65.0
+STU0001,English,midterm,67,100,67.0
+STU0001,English,final,62,100,62.0
+STU0001,Statistics,quiz,76,100,76.0
+STU0001,Statistics,midterm,44,100,44.0
+STU0001,Statistics,final,73,100,73.0
+STU0002,Math,quiz,100,100,100.0
+STU0002,Math,midterm,100,100,100.0
+STU0002,Math,final,73,100,73.0
+STU0002,Physics,quiz,100,100,100.0
+STU0002,Physics,midterm,91,100,91.0
+STU0002,Physics,final,95,100,95.0
+STU0002,Programming,quiz,98,100,98.0
+STU0002,Programming,midterm,100,100,100.0
+STU0002,Programming,final,100,100,100.0
+STU0002,Data Structures,quiz,100,100,100.0
+STU0002,Data Structures,midterm,100,100,100.0
+STU0002,Data Structures,final,100,100,100.0
+STU0002,English,quiz,100,100,100.0
+STU0002,English,midterm,91,100,91.0
+STU0002,English,final,93,100,93.0
+STU0002,Statistics,quiz,100,100,100.0
+STU0002,Statistics,midterm,100,100,100.0
+STU0002,Statistics,final,100,100,100.0
+STU0003,Math,quiz,67,100,67.0
+STU0003,Math,midterm,78,100,78.0
+STU0003,Math,final,62,100,62.0
+STU0003,Physics,quiz,79,100,79.0
+STU0003,Physics,midterm,69,100,69.0
+STU0003,Physics,final,84,100,84.0
+STU0003,Programming,quiz,59,100,59.0
+STU0003,Programming,midterm,85,100,85.0
+STU0003,Programming,final,68,100,68.0
+STU0003,Data Structures,quiz,68,100,68.0
+STU0003,Data Structures,midterm,72,100,72.0
+STU0003,Data Structures,final,65,100,65.0
+STU0003,English,quiz,70,100,70.0
+STU0003,English,midterm,65,100,65.0
+STU0003,English,final,65,100,65.0
+STU0003,Statistics,quiz,75,100,75.0
+STU0003,Statistics,midterm,64,100,64.0
+STU0003,Statistics,final,65,100,65.0
+STU0004,Math,quiz,61,100,61.0
+STU0004,Math,midterm,68,100,68.0
+STU0004,Math,final,83,100,83.0
+STU0004,Physics,quiz,66,100,66.0
+STU0004,Physics,midterm,67,100,67.0
+STU0004,Physics,final,74,100,74.0
+STU0004,Programming,quiz,69,100,69.0
+STU0004,Programming,midterm,90,100,90.0
+STU0004,Programming,final,71,100,71.0
+STU0004,Data Structures,quiz,75,100,75.0
+STU0004,Data Structures,midterm,80,100,80.0
+STU0004,Data Structures,final,80,100,80.0
+STU0004,English,quiz,74,100,74.0
+STU0004,English,midterm,71,100,71.0
+STU0004,English,final,89,100,89.0
+STU0004,Statistics,quiz,72,100,72.0
+STU0004,Statistics,midterm,69,100,69.0
+STU0004,Statistics,final,67,100,67.0
+STU0005,Math,quiz,74,100,74.0
+STU0005,Math,midterm,95,100,95.0
+STU0005,Math,final,69,100,69.0
+STU0005,Physics,quiz,88,100,88.0
+STU0005,Physics,midterm,86,100,86.0
+STU0005,Physics,final,100,100,100.0
+STU0005,Programming,quiz,73,100,73.0
+STU0005,Programming,midterm,81,100,81.0
+STU0005,Programming,final,87,100,87.0
+STU0005,Data Structures,quiz,86,100,86.0
+STU0005,Data Structures,midterm,84,100,84.0
+STU0005,Data Structures,final,87,100,87.0
+STU0005,English,quiz,78,100,78.0
+STU0005,English,midterm,91,100,91.0
+STU0005,English,final,69,100,69.0
+STU0005,Statistics,quiz,88,100,88.0
+STU0005,Statistics,midterm,83,100,83.0
+STU0005,Statistics,final,96,100,96.0
+STU0006,Math,quiz,100,100,100.0
+STU0006,Math,midterm,93,100,93.0
+STU0006,Math,final,100,100,100.0
+STU0006,Physics,quiz,93,100,93.0
+STU0006,Physics,midterm,88,100,88.0
+STU0006,Physics,final,100,100,100.0
+STU0006,Programming,quiz,100,100,100.0
+STU0006,Programming,midterm,96,100,96.0
+STU0006,Programming,final,100,100,100.0
+STU0006,Data Structures,quiz,98,100,98.0
+STU0006,Data Structures,midterm,95,100,95.0
+STU0006,Data Structures,final,85,100,85.0
+STU0006,English,quiz,94,100,94.0
+STU0006,English,midterm,100,100,100.0
+STU0006,English,final,95,100,95.0
+STU0006,Statistics,quiz,100,100,100.0
+STU0006,Statistics,midterm,99,100,99.0
+STU0006,Statistics,final,89,100,89.0
+STU0007,Math,quiz,55,100,55.0
+STU0007,Math,midterm,64,100,64.0
+STU0007,Math,final,61,100,61.0
+STU0007,Physics,quiz,68,100,68.0
+STU0007,Physics,midterm,59,100,59.0
+STU0007,Physics,final,60,100,60.0
+STU0007,Programming,quiz,74,100,74.0
+STU0007,Programming,midterm,66,100,66.0
+STU0007,Programming,final,60,100,60.0
+STU0007,Data Structures,quiz,65,100,65.0
+STU0007,Data Structures,midterm,76,100,76.0
+STU0007,Data Structures,final,68,100,68.0
+STU0007,English,quiz,70,100,70.0
+STU0007,English,midterm,59,100,59.0
+STU0007,English,final,73,100,73.0
+STU0007,Statistics,quiz,84,100,84.0
+STU0007,Statistics,midterm,59,100,59.0
+STU0007,Statistics,final,56,100,56.0
+STU0008,Math,quiz,68,100,68.0
+STU0008,Math,midterm,74,100,74.0
+STU0008,Math,final,66,100,66.0
+STU0008,Physics,quiz,58,100,58.0
+STU0008,Physics,midterm,66,100,66.0
+STU0008,Physics,final,72,100,72.0
+STU0008,Programming,quiz,64,100,64.0
+STU0008,Programming,midterm,72,100,72.0
+STU0008,Programming,final,76,100,76.0
+STU0008,Data Structures,quiz,69,100,69.0
+STU0008,Data Structures,midterm,67,100,67.0
+STU0008,Data Structures,final,73,100,73.0
+STU0008,English,quiz,60,100,60.0
+STU0008,English,midterm,59,100,59.0
+STU0008,English,final,65,100,65.0
+STU0008,Statistics,quiz,63,100,63.0
+STU0008,Statistics,midterm,60,100,60.0
+STU0008,Statistics,final,81,100,81.0
+STU0009,Math,quiz,89,100,89.0
+STU0009,Math,midterm,68,100,68.0
+STU0009,Math,final,72,100,72.0
+STU0009,Physics,quiz,70,100,70.0
+STU0009,Physics,midterm,80,100,80.0
+STU0009,Physics,final,82,100,82.0
+STU0009,Programming,quiz,57,100,57.0
+STU0009,Programming,midterm,75,100,75.0
+STU0009,Programming,final,61,100,61.0
+STU0009,Data Structures,quiz,85,100,85.0
+STU0009,Data Structures,midterm,75,100,75.0
+STU0009,Data Structures,final,65,100,65.0
+STU0009,English,quiz,69,100,69.0
+STU0009,English,midterm,69,100,69.0
+STU0009,English,final,75,100,75.0
+STU0009,Statistics,quiz,80,100,80.0
+STU0009,Statistics,midterm,62,100,62.0
+STU0009,Statistics,final,86,100,86.0
+STU0010,Math,quiz,64,100,64.0
+STU0010,Math,midterm,44,100,44.0
+STU0010,Math,final,51,100,51.0
+STU0010,Physics,quiz,65,100,65.0
+STU0010,Physics,midterm,61,100,61.0
+STU0010,Physics,final,48,100,48.0
+STU0010,Programming,quiz,57,100,57.0
+STU0010,Programming,midterm,75,100,75.0
+STU0010,Programming,final,52,100,52.0
+STU0010,Data Structures,quiz,46,100,46.0
+STU0010,Data Structures,midterm,52,100,52.0
+STU0010,Data Structures,final,53,100,53.0
+STU0010,English,quiz,47,100,47.0
+STU0010,English,midterm,54,100,54.0
+STU0010,English,final,41,100,41.0
+STU0010,Statistics,quiz,46,100,46.0
+STU0010,Statistics,midterm,57,100,57.0
+STU0010,Statistics,final,37,100,37.0
+STU0011,Math,quiz,100,100,100.0
+STU0011,Math,midterm,83,100,83.0
+STU0011,Math,final,85,100,85.0
+STU0011,Physics,quiz,95,100,95.0
+STU0011,Physics,midterm,100,100,100.0
+STU0011,Physics,final,100,100,100.0
+STU0011,Programming,quiz,99,100,99.0
+STU0011,Programming,midterm,97,100,97.0
+STU0011,Programming,final,100,100,100.0
+STU0011,Data Structures,quiz,92,100,92.0
+STU0011,Data Structures,midterm,100,100,100.0
+STU0011,Data Structures,final,89,100,89.0
+STU0011,English,quiz,100,100,100.0
+STU0011,English,midterm,98,100,98.0
+STU0011,English,final,92,100,92.0
+STU0011,Statistics,quiz,100,100,100.0
+STU0011,Statistics,midterm,100,100,100.0
+STU0011,Statistics,final,100,100,100.0
+STU0012,Math,quiz,84,100,84.0
+STU0012,Math,midterm,96,100,96.0
+STU0012,Math,final,91,100,91.0
+STU0012,Physics,quiz,100,100,100.0
+STU0012,Physics,midterm,100,100,100.0
+STU0012,Physics,final,100,100,100.0
+STU0012,Programming,quiz,91,100,91.0
+STU0012,Programming,midterm,100,100,100.0
+STU0012,Programming,final,85,100,85.0
+STU0012,Data Structures,quiz,83,100,83.0
+STU0012,Data Structures,midterm,87,100,87.0
+STU0012,Data Structures,final,96,100,96.0
+STU0012,English,quiz,100,100,100.0
+STU0012,English,midterm,73,100,73.0
+STU0012,English,final,100,100,100.0
+STU0012,Statistics,quiz,98,100,98.0
+STU0012,Statistics,midterm,84,100,84.0
+STU0012,Statistics,final,98,100,98.0
+STU0013,Math,quiz,48,100,48.0
+STU0013,Math,midterm,44,100,44.0
+STU0013,Math,final,48,100,48.0
+STU0013,Physics,quiz,28,100,28.0
+STU0013,Physics,midterm,36,100,36.0
+STU0013,Physics,final,32,100,32.0
+STU0013,Programming,quiz,53,100,53.0
+STU0013,Programming,midterm,44,100,44.0
+STU0013,Programming,final,62,100,62.0
+STU0013,Data Structures,quiz,36,100,36.0
+STU0013,Data Structures,midterm,34,100,34.0
+STU0013,Data Structures,final,38,100,38.0
+STU0013,English,quiz,50,100,50.0
+STU0013,English,midterm,36,100,36.0
+STU0013,English,final,40,100,40.0
+STU0013,Statistics,quiz,40,100,40.0
+STU0013,Statistics,midterm,40,100,40.0
+STU0013,Statistics,final,34,100,34.0
+STU0014,Math,quiz,75,100,75.0
+STU0014,Math,midterm,75,100,75.0
+STU0014,Math,final,76,100,76.0
+STU0014,Physics,quiz,84,100,84.0
+STU0014,Physics,midterm,90,100,90.0
+STU0014,Physics,final,69,100,69.0
+STU0014,Programming,quiz,73,100,73.0
+STU0014,Programming,midterm,70,100,70.0
+STU0014,Programming,final,78,100,78.0
+STU0014,Data Structures,quiz,72,100,72.0
+STU0014,Data Structures,midterm,78,100,78.0
+STU0014,Data Structures,final,85,100,85.0
+STU0014,English,quiz,56,100,56.0
+STU0014,English,midterm,80,100,80.0
+STU0014,English,final,72,100,72.0
+STU0014,Statistics,quiz,80,100,80.0
+STU0014,Statistics,midterm,69,100,69.0
+STU0014,Statistics,final,86,100,86.0
+STU0015,Math,quiz,71,100,71.0
+STU0015,Math,midterm,68,100,68.0
+STU0015,Math,final,70,100,70.0
+STU0015,Physics,quiz,57,100,57.0
+STU0015,Physics,midterm,58,100,58.0
+STU0015,Physics,final,69,100,69.0
+STU0015,Programming,quiz,57,100,57.0
+STU0015,Programming,midterm,75,100,75.0
+STU0015,Programming,final,61,100,61.0
+STU0015,Data Structures,quiz,67,100,67.0
+STU0015,Data Structures,midterm,80,100,80.0
+STU0015,Data Structures,final,58,100,58.0
+STU0015,English,quiz,64,100,64.0
+STU0015,English,midterm,72,100,72.0
+STU0015,English,final,71,100,71.0
+STU0015,Statistics,quiz,61,100,61.0
+STU0015,Statistics,midterm,59,100,59.0
+STU0015,Statistics,final,62,100,62.0
+STU0016,Math,quiz,95,100,95.0
+STU0016,Math,midterm,82,100,82.0
+STU0016,Math,final,84,100,84.0
+STU0016,Physics,quiz,80,100,80.0
+STU0016,Physics,midterm,90,100,90.0
+STU0016,Physics,final,85,100,85.0
+STU0016,Programming,quiz,76,100,76.0
+STU0016,Programming,midterm,76,100,76.0
+STU0016,Programming,final,68,100,68.0
+STU0016,Data Structures,quiz,77,100,77.0
+STU0016,Data Structures,midterm,90,100,90.0
+STU0016,Data Structures,final,94,100,94.0
+STU0016,English,quiz,89,100,89.0
+STU0016,English,midterm,88,100,88.0
+STU0016,English,final,83,100,83.0
+STU0016,Statistics,quiz,90,100,90.0
+STU0016,Statistics,midterm,86,100,86.0
+STU0016,Statistics,final,98,100,98.0
+STU0017,Math,quiz,77,100,77.0
+STU0017,Math,midterm,88,100,88.0
+STU0017,Math,final,85,100,85.0
+STU0017,Physics,quiz,84,100,84.0
+STU0017,Physics,midterm,62,100,62.0
+STU0017,Physics,final,85,100,85.0
+STU0017,Programming,quiz,77,100,77.0
+STU0017,Programming,midterm,74,100,74.0
+STU0017,Programming,final,66,100,66.0
+STU0017,Data Structures,quiz,78,100,78.0
+STU0017,Data Structures,midterm,78,100,78.0
+STU0017,Data Structures,final,67,100,67.0
+STU0017,English,quiz,66,100,66.0
+STU0017,English,midterm,82,100,82.0
+STU0017,English,final,85,100,85.0
+STU0017,Statistics,quiz,79,100,79.0
+STU0017,Statistics,midterm,87,100,87.0
+STU0017,Statistics,final,77,100,77.0
+STU0018,Math,quiz,80,100,80.0
+STU0018,Math,midterm,73,100,73.0
+STU0018,Math,final,68,100,68.0
+STU0018,Physics,quiz,96,100,96.0
+STU0018,Physics,midterm,90,100,90.0
+STU0018,Physics,final,70,100,70.0
+STU0018,Programming,quiz,82,100,82.0
+STU0018,Programming,midterm,80,100,80.0
+STU0018,Programming,final,79,100,79.0
+STU0018,Data Structures,quiz,78,100,78.0
+STU0018,Data Structures,midterm,84,100,84.0
+STU0018,Data Structures,final,87,100,87.0
+STU0018,English,quiz,84,100,84.0
+STU0018,English,midterm,80,100,80.0
+STU0018,English,final,80,100,80.0
+STU0018,Statistics,quiz,88,100,88.0
+STU0018,Statistics,midterm,84,100,84.0
+STU0018,Statistics,final,81,100,81.0
+STU0019,Math,quiz,94,100,94.0
+STU0019,Math,midterm,98,100,98.0
+STU0019,Math,final,91,100,91.0
+STU0019,Physics,quiz,100,100,100.0
+STU0019,Physics,midterm,86,100,86.0
+STU0019,Physics,final,91,100,91.0
+STU0019,Programming,quiz,100,100,100.0
+STU0019,Programming,midterm,86,100,86.0
+STU0019,Programming,final,82,100,82.0
+STU0019,Data Structures,quiz,95,100,95.0
+STU0019,Data Structures,midterm,81,100,81.0
+STU0019,Data Structures,final,84,100,84.0
+STU0019,English,quiz,100,100,100.0
+STU0019,English,midterm,93,100,93.0
+STU0019,English,final,100,100,100.0
+STU0019,Statistics,quiz,85,100,85.0
+STU0019,Statistics,midterm,94,100,94.0
+STU0019,Statistics,final,98,100,98.0
+STU0020,Math,quiz,50,100,50.0
+STU0020,Math,midterm,68,100,68.0
+STU0020,Math,final,64,100,64.0
+STU0020,Physics,quiz,47,100,47.0
+STU0020,Physics,midterm,59,100,59.0
+STU0020,Physics,final,63,100,63.0
+STU0020,Programming,quiz,55,100,55.0
+STU0020,Programming,midterm,48,100,48.0
+STU0020,Programming,final,62,100,62.0
+STU0020,Data Structures,quiz,77,100,77.0
+STU0020,Data Structures,midterm,57,100,57.0
+STU0020,Data Structures,final,72,100,72.0
+STU0020,English,quiz,54,100,54.0
+STU0020,English,midterm,61,100,61.0
+STU0020,English,final,66,100,66.0
+STU0020,Statistics,quiz,60,100,60.0
+STU0020,Statistics,midterm,57,100,57.0
+STU0020,Statistics,final,65,100,65.0
+STU0021,Math,quiz,95,100,95.0
+STU0021,Math,midterm,82,100,82.0
+STU0021,Math,final,76,100,76.0
+STU0021,Physics,quiz,78,100,78.0
+STU0021,Physics,midterm,100,100,100.0
+STU0021,Physics,final,81,100,81.0
+STU0021,Programming,quiz,75,100,75.0
+STU0021,Programming,midterm,71,100,71.0
+STU0021,Programming,final,65,100,65.0
+STU0021,Data Structures,quiz,83,100,83.0
+STU0021,Data Structures,midterm,85,100,85.0
+STU0021,Data Structures,final,76,100,76.0
+STU0021,English,quiz,80,100,80.0
+STU0021,English,midterm,70,100,70.0
+STU0021,English,final,81,100,81.0
+STU0021,Statistics,quiz,84,100,84.0
+STU0021,Statistics,midterm,75,100,75.0
+STU0021,Statistics,final,93,100,93.0
+STU0022,Math,quiz,66,100,66.0
+STU0022,Math,midterm,75,100,75.0
+STU0022,Math,final,79,100,79.0
+STU0022,Physics,quiz,72,100,72.0
+STU0022,Physics,midterm,71,100,71.0
+STU0022,Physics,final,61,100,61.0
+STU0022,Programming,quiz,83,100,83.0
+STU0022,Programming,midterm,71,100,71.0
+STU0022,Programming,final,77,100,77.0
+STU0022,Data Structures,quiz,78,100,78.0
+STU0022,Data Structures,midterm,68,100,68.0
+STU0022,Data Structures,final,71,100,71.0
+STU0022,English,quiz,83,100,83.0
+STU0022,English,midterm,64,100,64.0
+STU0022,English,final,90,100,90.0
+STU0022,Statistics,quiz,67,100,67.0
+STU0022,Statistics,midterm,63,100,63.0
+STU0022,Statistics,final,74,100,74.0
+STU0023,Math,quiz,85,100,85.0
+STU0023,Math,midterm,52,100,52.0
+STU0023,Math,final,66,100,66.0
+STU0023,Physics,quiz,71,100,71.0
+STU0023,Physics,midterm,67,100,67.0
+STU0023,Physics,final,70,100,70.0
+STU0023,Programming,quiz,61,100,61.0
+STU0023,Programming,midterm,62,100,62.0
+STU0023,Programming,final,66,100,66.0
+STU0023,Data Structures,quiz,58,100,58.0
+STU0023,Data Structures,midterm,67,100,67.0
+STU0023,Data Structures,final,64,100,64.0
+STU0023,English,quiz,63,100,63.0
+STU0023,English,midterm,70,100,70.0
+STU0023,English,final,53,100,53.0
+STU0023,Statistics,quiz,65,100,65.0
+STU0023,Statistics,midterm,86,100,86.0
+STU0023,Statistics,final,59,100,59.0
+STU0024,Math,quiz,56,100,56.0
+STU0024,Math,midterm,46,100,46.0
+STU0024,Math,final,41,100,41.0
+STU0024,Physics,quiz,35,100,35.0
+STU0024,Physics,midterm,47,100,47.0
+STU0024,Physics,final,57,100,57.0
+STU0024,Programming,quiz,42,100,42.0
+STU0024,Programming,midterm,45,100,45.0
+STU0024,Programming,final,54,100,54.0
+STU0024,Data Structures,quiz,48,100,48.0
+STU0024,Data Structures,midterm,33,100,33.0
+STU0024,Data Structures,final,46,100,46.0
+STU0024,English,quiz,58,100,58.0
+STU0024,English,midterm,45,100,45.0
+STU0024,English,final,24,100,24.0
+STU0024,Statistics,quiz,49,100,49.0
+STU0024,Statistics,midterm,44,100,44.0
+STU0024,Statistics,final,31,100,31.0
+STU0025,Math,quiz,55,100,55.0
+STU0025,Math,midterm,77,100,77.0
+STU0025,Math,final,63,100,63.0
+STU0025,Physics,quiz,61,100,61.0
+STU0025,Physics,midterm,68,100,68.0
+STU0025,Physics,final,64,100,64.0
+STU0025,Programming,quiz,70,100,70.0
+STU0025,Programming,midterm,67,100,67.0
+STU0025,Programming,final,59,100,59.0
+STU0025,Data Structures,quiz,65,100,65.0
+STU0025,Data Structures,midterm,72,100,72.0
+STU0025,Data Structures,final,69,100,69.0
+STU0025,English,quiz,68,100,68.0
+STU0025,English,midterm,84,100,84.0
+STU0025,English,final,75,100,75.0
+STU0025,Statistics,quiz,76,100,76.0
+STU0025,Statistics,midterm,67,100,67.0
+STU0025,Statistics,final,70,100,70.0
+STU0026,Math,quiz,73,100,73.0
+STU0026,Math,midterm,82,100,82.0
+STU0026,Math,final,75,100,75.0
+STU0026,Physics,quiz,78,100,78.0
+STU0026,Physics,midterm,77,100,77.0
+STU0026,Physics,final,76,100,76.0
+STU0026,Programming,quiz,99,100,99.0
+STU0026,Programming,midterm,71,100,71.0
+STU0026,Programming,final,71,100,71.0
+STU0026,Data Structures,quiz,82,100,82.0
+STU0026,Data Structures,midterm,71,100,71.0
+STU0026,Data Structures,final,74,100,74.0
+STU0026,English,quiz,67,100,67.0
+STU0026,English,midterm,80,100,80.0
+STU0026,English,final,80,100,80.0
+STU0026,Statistics,quiz,73,100,73.0
+STU0026,Statistics,midterm,82,100,82.0
+STU0026,Statistics,final,61,100,61.0
+STU0027,Math,quiz,79,100,79.0
+STU0027,Math,midterm,83,100,83.0
+STU0027,Math,final,75,100,75.0
+STU0027,Physics,quiz,71,100,71.0
+STU0027,Physics,midterm,82,100,82.0
+STU0027,Physics,final,90,100,90.0
+STU0027,Programming,quiz,95,100,95.0
+STU0027,Programming,midterm,80,100,80.0
+STU0027,Programming,final,91,100,91.0
+STU0027,Data Structures,quiz,90,100,90.0
+STU0027,Data Structures,midterm,94,100,94.0
+STU0027,Data Structures,final,82,100,82.0
+STU0027,English,quiz,70,100,70.0
+STU0027,English,midterm,85,100,85.0
+STU0027,English,final,77,100,77.0
+STU0027,Statistics,quiz,79,100,79.0
+STU0027,Statistics,midterm,82,100,82.0
+STU0027,Statistics,final,82,100,82.0
+STU0028,Math,quiz,85,100,85.0
+STU0028,Math,midterm,90,100,90.0
+STU0028,Math,final,81,100,81.0
+STU0028,Physics,quiz,87,100,87.0
+STU0028,Physics,midterm,84,100,84.0
+STU0028,Physics,final,91,100,91.0
+STU0028,Programming,quiz,82,100,82.0
+STU0028,Programming,midterm,83,100,83.0
+STU0028,Programming,final,81,100,81.0
+STU0028,Data Structures,quiz,83,100,83.0
+STU0028,Data Structures,midterm,78,100,78.0
+STU0028,Data Structures,final,77,100,77.0
+STU0028,English,quiz,90,100,90.0
+STU0028,English,midterm,75,100,75.0
+STU0028,English,final,81,100,81.0
+STU0028,Statistics,quiz,92,100,92.0
+STU0028,Statistics,midterm,81,100,81.0
+STU0028,Statistics,final,91,100,91.0
+STU0029,Math,quiz,69,100,69.0
+STU0029,Math,midterm,65,100,65.0
+STU0029,Math,final,61,100,61.0
+STU0029,Physics,quiz,84,100,84.0
+STU0029,Physics,midterm,65,100,65.0
+STU0029,Physics,final,80,100,80.0
+STU0029,Programming,quiz,66,100,66.0
+STU0029,Programming,midterm,84,100,84.0
+STU0029,Programming,final,92,100,92.0
+STU0029,Data Structures,quiz,60,100,60.0
+STU0029,Data Structures,midterm,65,100,65.0
+STU0029,Data Structures,final,80,100,80.0
+STU0029,English,quiz,78,100,78.0
+STU0029,English,midterm,80,100,80.0
+STU0029,English,final,69,100,69.0
+STU0029,Statistics,quiz,90,100,90.0
+STU0029,Statistics,midterm,75,100,75.0
+STU0029,Statistics,final,64,100,64.0
+STU0030,Math,quiz,89,100,89.0
+STU0030,Math,midterm,81,100,81.0
+STU0030,Math,final,100,100,100.0
+STU0030,Physics,quiz,85,100,85.0
+STU0030,Physics,midterm,95,100,95.0
+STU0030,Physics,final,87,100,87.0
+STU0030,Programming,quiz,86,100,86.0
+STU0030,Programming,midterm,75,100,75.0
+STU0030,Programming,final,96,100,96.0
+STU0030,Data Structures,quiz,100,100,100.0
+STU0030,Data Structures,midterm,83,100,83.0
+STU0030,Data Structures,final,78,100,78.0
+STU0030,English,quiz,97,100,97.0
+STU0030,English,midterm,78,100,78.0
+STU0030,English,final,100,100,100.0
+STU0030,Statistics,quiz,83,100,83.0
+STU0030,Statistics,midterm,82,100,82.0
+STU0030,Statistics,final,93,100,93.0
+STU0031,Math,quiz,53,100,53.0
+STU0031,Math,midterm,56,100,56.0
+STU0031,Math,final,64,100,64.0
+STU0031,Physics,quiz,42,100,42.0
+STU0031,Physics,midterm,75,100,75.0
+STU0031,Physics,final,62,100,62.0
+STU0031,Programming,quiz,51,100,51.0
+STU0031,Programming,midterm,53,100,53.0
+STU0031,Programming,final,69,100,69.0
+STU0031,Data Structures,quiz,66,100,66.0
+STU0031,Data Structures,midterm,73,100,73.0
+STU0031,Data Structures,final,56,100,56.0
+STU0031,English,quiz,64,100,64.0
+STU0031,English,midterm,65,100,65.0
+STU0031,English,final,67,100,67.0
+STU0031,Statistics,quiz,71,100,71.0
+STU0031,Statistics,midterm,56,100,56.0
+STU0031,Statistics,final,61,100,61.0
+STU0032,Math,quiz,84,100,84.0
+STU0032,Math,midterm,88,100,88.0
+STU0032,Math,final,94,100,94.0
+STU0032,Physics,quiz,75,100,75.0
+STU0032,Physics,midterm,97,100,97.0
+STU0032,Physics,final,79,100,79.0
+STU0032,Programming,quiz,86,100,86.0
+STU0032,Programming,midterm,98,100,98.0
+STU0032,Programming,final,91,100,91.0
+STU0032,Data Structures,quiz,91,100,91.0
+STU0032,Data Structures,midterm,79,100,79.0
+STU0032,Data Structures,final,80,100,80.0
+STU0032,English,quiz,96,100,96.0
+STU0032,English,midterm,84,100,84.0
+STU0032,English,final,84,100,84.0
+STU0032,Statistics,quiz,96,100,96.0
+STU0032,Statistics,midterm,80,100,80.0
+STU0032,Statistics,final,91,100,91.0
+STU0033,Math,quiz,71,100,71.0
+STU0033,Math,midterm,70,100,70.0
+STU0033,Math,final,66,100,66.0
+STU0033,Physics,quiz,66,100,66.0
+STU0033,Physics,midterm,62,100,62.0
+STU0033,Physics,final,74,100,74.0
+STU0033,Programming,quiz,65,100,65.0
+STU0033,Programming,midterm,78,100,78.0
+STU0033,Programming,final,69,100,69.0
+STU0033,Data Structures,quiz,62,100,62.0
+STU0033,Data Structures,midterm,69,100,69.0
+STU0033,Data Structures,final,67,100,67.0
+STU0033,English,quiz,79,100,79.0
+STU0033,English,midterm,68,100,68.0
+STU0033,English,final,68,100,68.0
+STU0033,Statistics,quiz,82,100,82.0
+STU0033,Statistics,midterm,75,100,75.0
+STU0033,Statistics,final,84,100,84.0
+STU0034,Math,quiz,93,100,93.0
+STU0034,Math,midterm,75,100,75.0
+STU0034,Math,final,90,100,90.0
+STU0034,Physics,quiz,95,100,95.0
+STU0034,Physics,midterm,95,100,95.0
+STU0034,Physics,final,90,100,90.0
+STU0034,Programming,quiz,90,100,90.0
+STU0034,Programming,midterm,80,100,80.0
+STU0034,Programming,final,76,100,76.0
+STU0034,Data Structures,quiz,80,100,80.0
+STU0034,Data Structures,midterm,69,100,69.0
+STU0034,Data Structures,final,93,100,93.0
+STU0034,English,quiz,80,100,80.0
+STU0034,English,midterm,93,100,93.0
+STU0034,English,final,73,100,73.0
+STU0034,Statistics,quiz,91,100,91.0
+STU0034,Statistics,midterm,78,100,78.0
+STU0034,Statistics,final,72,100,72.0
+STU0035,Math,quiz,77,100,77.0
+STU0035,Math,midterm,73,100,73.0
+STU0035,Math,final,65,100,65.0
+STU0035,Physics,quiz,64,100,64.0
+STU0035,Physics,midterm,67,100,67.0
+STU0035,Physics,final,65,100,65.0
+STU0035,Programming,quiz,57,100,57.0
+STU0035,Programming,midterm,60,100,60.0
+STU0035,Programming,final,79,100,79.0
+STU0035,Data Structures,quiz,85,100,85.0
+STU0035,Data Structures,midterm,76,100,76.0
+STU0035,Data Structures,final,68,100,68.0
+STU0035,English,quiz,61,100,61.0
+STU0035,English,midterm,57,100,57.0
+STU0035,English,final,58,100,58.0
+STU0035,Statistics,quiz,59,100,59.0
+STU0035,Statistics,midterm,81,100,81.0
+STU0035,Statistics,final,78,100,78.0
+STU0036,Math,quiz,47,100,47.0
+STU0036,Math,midterm,33,100,33.0
+STU0036,Math,final,48,100,48.0
+STU0036,Physics,quiz,39,100,39.0
+STU0036,Physics,midterm,24,100,24.0
+STU0036,Physics,final,43,100,43.0
+STU0036,Programming,quiz,34,100,34.0
+STU0036,Programming,midterm,34,100,34.0
+STU0036,Programming,final,39,100,39.0
+STU0036,Data Structures,quiz,37,100,37.0
+STU0036,Data Structures,midterm,41,100,41.0
+STU0036,Data Structures,final,40,100,40.0
+STU0036,English,quiz,26,100,26.0
+STU0036,English,midterm,53,100,53.0
+STU0036,English,final,33,100,33.0
+STU0036,Statistics,quiz,33,100,33.0
+STU0036,Statistics,midterm,38,100,38.0
+STU0036,Statistics,final,40,100,40.0
+STU0037,Math,quiz,73,100,73.0
+STU0037,Math,midterm,64,100,64.0
+STU0037,Math,final,66,100,66.0
+STU0037,Physics,quiz,64,100,64.0
+STU0037,Physics,midterm,63,100,63.0
+STU0037,Physics,final,64,100,64.0
+STU0037,Programming,quiz,46,100,46.0
+STU0037,Programming,midterm,60,100,60.0
+STU0037,Programming,final,71,100,71.0
+STU0037,Data Structures,quiz,93,100,93.0
+STU0037,Data Structures,midterm,52,100,52.0
+STU0037,Data Structures,final,65,100,65.0
+STU0037,English,quiz,57,100,57.0
+STU0037,English,midterm,78,100,78.0
+STU0037,English,final,51,100,51.0
+STU0037,Statistics,quiz,67,100,67.0
+STU0037,Statistics,midterm,50,100,50.0
+STU0037,Statistics,final,59,100,59.0
+STU0038,Math,quiz,61,100,61.0
+STU0038,Math,midterm,69,100,69.0
+STU0038,Math,final,52,100,52.0
+STU0038,Physics,quiz,66,100,66.0
+STU0038,Physics,midterm,61,100,61.0
+STU0038,Physics,final,63,100,63.0
+STU0038,Programming,quiz,68,100,68.0
+STU0038,Programming,midterm,51,100,51.0
+STU0038,Programming,final,67,100,67.0
+STU0038,Data Structures,quiz,56,100,56.0
+STU0038,Data Structures,midterm,70,100,70.0
+STU0038,Data Structures,final,63,100,63.0
+STU0038,English,quiz,59,100,59.0
+STU0038,English,midterm,56,100,56.0
+STU0038,English,final,67,100,67.0
+STU0038,Statistics,quiz,71,100,71.0
+STU0038,Statistics,midterm,57,100,57.0
+STU0038,Statistics,final,52,100,52.0
+STU0039,Math,quiz,97,100,97.0
+STU0039,Math,midterm,80,100,80.0
+STU0039,Math,final,81,100,81.0
+STU0039,Physics,quiz,83,100,83.0
+STU0039,Physics,midterm,88,100,88.0
+STU0039,Physics,final,80,100,80.0
+STU0039,Programming,quiz,76,100,76.0
+STU0039,Programming,midterm,82,100,82.0
+STU0039,Programming,final,96,100,96.0
+STU0039,Data Structures,quiz,81,100,81.0
+STU0039,Data Structures,midterm,88,100,88.0
+STU0039,Data Structures,final,100,100,100.0
+STU0039,English,quiz,91,100,91.0
+STU0039,English,midterm,94,100,94.0
+STU0039,English,final,84,100,84.0
+STU0039,Statistics,quiz,100,100,100.0
+STU0039,Statistics,midterm,87,100,87.0
+STU0039,Statistics,final,89,100,89.0
+STU0040,Math,quiz,60,100,60.0
+STU0040,Math,midterm,48,100,48.0
+STU0040,Math,final,50,100,50.0
+STU0040,Physics,quiz,48,100,48.0
+STU0040,Physics,midterm,48,100,48.0
+STU0040,Physics,final,53,100,53.0
+STU0040,Programming,quiz,54,100,54.0
+STU0040,Programming,midterm,45,100,45.0
+STU0040,Programming,final,44,100,44.0
+STU0040,Data Structures,quiz,45,100,45.0
+STU0040,Data Structures,midterm,39,100,39.0
+STU0040,Data Structures,final,37,100,37.0
+STU0040,English,quiz,52,100,52.0
+STU0040,English,midterm,57,100,57.0
+STU0040,English,final,57,100,57.0
+STU0040,Statistics,quiz,31,100,31.0
+STU0040,Statistics,midterm,48,100,48.0
+STU0040,Statistics,final,41,100,41.0
+STU0041,Math,quiz,98,100,98.0
+STU0041,Math,midterm,93,100,93.0
+STU0041,Math,final,100,100,100.0
+STU0041,Physics,quiz,97,100,97.0
+STU0041,Physics,midterm,82,100,82.0
+STU0041,Physics,final,89,100,89.0
+STU0041,Programming,quiz,97,100,97.0
+STU0041,Programming,midterm,97,100,97.0
+STU0041,Programming,final,85,100,85.0
+STU0041,Data Structures,quiz,84,100,84.0
+STU0041,Data Structures,midterm,97,100,97.0
+STU0041,Data Structures,final,85,100,85.0
+STU0041,English,quiz,83,100,83.0
+STU0041,English,midterm,93,100,93.0
+STU0041,English,final,93,100,93.0
+STU0041,Statistics,quiz,90,100,90.0
+STU0041,Statistics,midterm,91,100,91.0
+STU0041,Statistics,final,97,100,97.0
+STU0042,Math,quiz,43,100,43.0
+STU0042,Math,midterm,50,100,50.0
+STU0042,Math,final,46,100,46.0
+STU0042,Physics,quiz,50,100,50.0
+STU0042,Physics,midterm,56,100,56.0
+STU0042,Physics,final,56,100,56.0
+STU0042,Programming,quiz,59,100,59.0
+STU0042,Programming,midterm,56,100,56.0
+STU0042,Programming,final,51,100,51.0
+STU0042,Data Structures,quiz,46,100,46.0
+STU0042,Data Structures,midterm,46,100,46.0
+STU0042,Data Structures,final,42,100,42.0
+STU0042,English,quiz,49,100,49.0
+STU0042,English,midterm,55,100,55.0
+STU0042,English,final,43,100,43.0
+STU0042,Statistics,quiz,49,100,49.0
+STU0042,Statistics,midterm,44,100,44.0
+STU0042,Statistics,final,51,100,51.0
+STU0043,Math,quiz,60,100,60.0
+STU0043,Math,midterm,58,100,58.0
+STU0043,Math,final,59,100,59.0
+STU0043,Physics,quiz,68,100,68.0
+STU0043,Physics,midterm,63,100,63.0
+STU0043,Physics,final,61,100,61.0
+STU0043,Programming,quiz,66,100,66.0
+STU0043,Programming,midterm,61,100,61.0
+STU0043,Programming,final,73,100,73.0
+STU0043,Data Structures,quiz,56,100,56.0
+STU0043,Data Structures,midterm,63,100,63.0
+STU0043,Data Structures,final,53,100,53.0
+STU0043,English,quiz,61,100,61.0
+STU0043,English,midterm,51,100,51.0
+STU0043,English,final,70,100,70.0
+STU0043,Statistics,quiz,70,100,70.0
+STU0043,Statistics,midterm,70,100,70.0
+STU0043,Statistics,final,64,100,64.0
+STU0044,Math,quiz,58,100,58.0
+STU0044,Math,midterm,59,100,59.0
+STU0044,Math,final,77,100,77.0
+STU0044,Physics,quiz,77,100,77.0
+STU0044,Physics,midterm,66,100,66.0
+STU0044,Physics,final,61,100,61.0
+STU0044,Programming,quiz,76,100,76.0
+STU0044,Programming,midterm,60,100,60.0
+STU0044,Programming,final,67,100,67.0
+STU0044,Data Structures,quiz,76,100,76.0
+STU0044,Data Structures,midterm,58,100,58.0
+STU0044,Data Structures,final,72,100,72.0
+STU0044,English,quiz,69,100,69.0
+STU0044,English,midterm,65,100,65.0
+STU0044,English,final,57,100,57.0
+STU0044,Statistics,quiz,59,100,59.0
+STU0044,Statistics,midterm,67,100,67.0
+STU0044,Statistics,final,54,100,54.0
+STU0045,Math,quiz,78,100,78.0
+STU0045,Math,midterm,81,100,81.0
+STU0045,Math,final,85,100,85.0
+STU0045,Physics,quiz,66,100,66.0
+STU0045,Physics,midterm,88,100,88.0
+STU0045,Physics,final,91,100,91.0
+STU0045,Programming,quiz,80,100,80.0
+STU0045,Programming,midterm,69,100,69.0
+STU0045,Programming,final,74,100,74.0
+STU0045,Data Structures,quiz,77,100,77.0
+STU0045,Data Structures,midterm,79,100,79.0
+STU0045,Data Structures,final,77,100,77.0
+STU0045,English,quiz,79,100,79.0
+STU0045,English,midterm,76,100,76.0
+STU0045,English,final,79,100,79.0
+STU0045,Statistics,quiz,73,100,73.0
+STU0045,Statistics,midterm,74,100,74.0
+STU0045,Statistics,final,72,100,72.0
+STU0046,Math,quiz,89,100,89.0
+STU0046,Math,midterm,86,100,86.0
+STU0046,Math,final,78,100,78.0
+STU0046,Physics,quiz,84,100,84.0
+STU0046,Physics,midterm,80,100,80.0
+STU0046,Physics,final,75,100,75.0
+STU0046,Programming,quiz,62,100,62.0
+STU0046,Programming,midterm,72,100,72.0
+STU0046,Programming,final,71,100,71.0
+STU0046,Data Structures,quiz,65,100,65.0
+STU0046,Data Structures,midterm,62,100,62.0
+STU0046,Data Structures,final,78,100,78.0
+STU0046,English,quiz,76,100,76.0
+STU0046,English,midterm,64,100,64.0
+STU0046,English,final,68,100,68.0
+STU0046,Statistics,quiz,83,100,83.0
+STU0046,Statistics,midterm,67,100,67.0
+STU0046,Statistics,final,75,100,75.0
+STU0047,Math,quiz,70,100,70.0
+STU0047,Math,midterm,76,100,76.0
+STU0047,Math,final,65,100,65.0
+STU0047,Physics,quiz,73,100,73.0
+STU0047,Physics,midterm,73,100,73.0
+STU0047,Physics,final,74,100,74.0
+STU0047,Programming,quiz,72,100,72.0
+STU0047,Programming,midterm,75,100,75.0
+STU0047,Programming,final,89,100,89.0
+STU0047,Data Structures,quiz,92,100,92.0
+STU0047,Data Structures,midterm,67,100,67.0
+STU0047,Data Structures,final,53,100,53.0
+STU0047,English,quiz,77,100,77.0
+STU0047,English,midterm,73,100,73.0
+STU0047,English,final,80,100,80.0
+STU0047,Statistics,quiz,74,100,74.0
+STU0047,Statistics,midterm,72,100,72.0
+STU0047,Statistics,final,81,100,81.0
+STU0048,Math,quiz,59,100,59.0
+STU0048,Math,midterm,38,100,38.0
+STU0048,Math,final,42,100,42.0
+STU0048,Physics,quiz,48,100,48.0
+STU0048,Physics,midterm,50,100,50.0
+STU0048,Physics,final,47,100,47.0
+STU0048,Programming,quiz,52,100,52.0
+STU0048,Programming,midterm,57,100,57.0
+STU0048,Programming,final,63,100,63.0
+STU0048,Data Structures,quiz,54,100,54.0
+STU0048,Data Structures,midterm,42,100,42.0
+STU0048,Data Structures,final,48,100,48.0
+STU0048,English,quiz,48,100,48.0
+STU0048,English,midterm,53,100,53.0
+STU0048,English,final,52,100,52.0
+STU0048,Statistics,quiz,65,100,65.0
+STU0048,Statistics,midterm,45,100,45.0
+STU0048,Statistics,final,52,100,52.0
+STU0049,Math,quiz,98,100,98.0
+STU0049,Math,midterm,75,100,75.0
+STU0049,Math,final,81,100,81.0
+STU0049,Physics,quiz,72,100,72.0
+STU0049,Physics,midterm,80,100,80.0
+STU0049,Physics,final,73,100,73.0
+STU0049,Programming,quiz,88,100,88.0
+STU0049,Programming,midterm,81,100,81.0
+STU0049,Programming,final,72,100,72.0
+STU0049,Data Structures,quiz,86,100,86.0
+STU0049,Data Structures,midterm,81,100,81.0
+STU0049,Data Structures,final,87,100,87.0
+STU0049,English,quiz,70,100,70.0
+STU0049,English,midterm,82,100,82.0
+STU0049,English,final,86,100,86.0
+STU0049,Statistics,quiz,76,100,76.0
+STU0049,Statistics,midterm,69,100,69.0
+STU0049,Statistics,final,79,100,79.0
+STU0050,Math,quiz,92,100,92.0
+STU0050,Math,midterm,91,100,91.0
+STU0050,Math,final,78,100,78.0
+STU0050,Physics,quiz,72,100,72.0
+STU0050,Physics,midterm,78,100,78.0
+STU0050,Physics,final,78,100,78.0
+STU0050,Programming,quiz,85,100,85.0
+STU0050,Programming,midterm,81,100,81.0
+STU0050,Programming,final,76,100,76.0
+STU0050,Data Structures,quiz,91,100,91.0
+STU0050,Data Structures,midterm,83,100,83.0
+STU0050,Data Structures,final,85,100,85.0
+STU0050,English,quiz,68,100,68.0
+STU0050,English,midterm,62,100,62.0
+STU0050,English,final,70,100,70.0
+STU0050,Statistics,quiz,78,100,78.0
+STU0050,Statistics,midterm,86,100,86.0
+STU0050,Statistics,final,63,100,63.0
+STU0051,Math,quiz,100,100,100.0
+STU0051,Math,midterm,89,100,89.0
+STU0051,Math,final,99,100,99.0
+STU0051,Physics,quiz,81,100,81.0
+STU0051,Physics,midterm,92,100,92.0
+STU0051,Physics,final,88,100,88.0
+STU0051,Programming,quiz,94,100,94.0
+STU0051,Programming,midterm,86,100,86.0
+STU0051,Programming,final,92,100,92.0
+STU0051,Data Structures,quiz,97,100,97.0
+STU0051,Data Structures,midterm,83,100,83.0
+STU0051,Data Structures,final,90,100,90.0
+STU0051,English,quiz,73,100,73.0
+STU0051,English,midterm,93,100,93.0
+STU0051,English,final,100,100,100.0
+STU0051,Statistics,quiz,78,100,78.0
+STU0051,Statistics,midterm,87,100,87.0
+STU0051,Statistics,final,95,100,95.0
+STU0052,Math,quiz,42,100,42.0
+STU0052,Math,midterm,43,100,43.0
+STU0052,Math,final,39,100,39.0
+STU0052,Physics,quiz,39,100,39.0
+STU0052,Physics,midterm,41,100,41.0
+STU0052,Physics,final,42,100,42.0
+STU0052,Programming,quiz,32,100,32.0
+STU0052,Programming,midterm,41,100,41.0
+STU0052,Programming,final,54,100,54.0
+STU0052,Data Structures,quiz,39,100,39.0
+STU0052,Data Structures,midterm,32,100,32.0
+STU0052,Data Structures,final,41,100,41.0
+STU0052,English,quiz,36,100,36.0
+STU0052,English,midterm,31,100,31.0
+STU0052,English,final,43,100,43.0
+STU0052,Statistics,quiz,36,100,36.0
+STU0052,Statistics,midterm,37,100,37.0
+STU0052,Statistics,final,43,100,43.0
+STU0053,Math,quiz,66,100,66.0
+STU0053,Math,midterm,65,100,65.0
+STU0053,Math,final,84,100,84.0
+STU0053,Physics,quiz,63,100,63.0
+STU0053,Physics,midterm,71,100,71.0
+STU0053,Physics,final,64,100,64.0
+STU0053,Programming,quiz,75,100,75.0
+STU0053,Programming,midterm,82,100,82.0
+STU0053,Programming,final,79,100,79.0
+STU0053,Data Structures,quiz,98,100,98.0
+STU0053,Data Structures,midterm,87,100,87.0
+STU0053,Data Structures,final,71,100,71.0
+STU0053,English,quiz,69,100,69.0
+STU0053,English,midterm,100,100,100.0
+STU0053,English,final,87,100,87.0
+STU0053,Statistics,quiz,83,100,83.0
+STU0053,Statistics,midterm,79,100,79.0
+STU0053,Statistics,final,81,100,81.0
+STU0054,Math,quiz,78,100,78.0
+STU0054,Math,midterm,91,100,91.0
+STU0054,Math,final,90,100,90.0
+STU0054,Physics,quiz,83,100,83.0
+STU0054,Physics,midterm,86,100,86.0
+STU0054,Physics,final,100,100,100.0
+STU0054,Programming,quiz,89,100,89.0
+STU0054,Programming,midterm,100,100,100.0
+STU0054,Programming,final,76,100,76.0
+STU0054,Data Structures,quiz,86,100,86.0
+STU0054,Data Structures,midterm,78,100,78.0
+STU0054,Data Structures,final,80,100,80.0
+STU0054,English,quiz,83,100,83.0
+STU0054,English,midterm,92,100,92.0
+STU0054,English,final,92,100,92.0
+STU0054,Statistics,quiz,84,100,84.0
+STU0054,Statistics,midterm,72,100,72.0
+STU0054,Statistics,final,100,100,100.0
+STU0055,Math,quiz,36,100,36.0
+STU0055,Math,midterm,30,100,30.0
+STU0055,Math,final,41,100,41.0
+STU0055,Physics,quiz,40,100,40.0
+STU0055,Physics,midterm,36,100,36.0
+STU0055,Physics,final,40,100,40.0
+STU0055,Programming,quiz,30,100,30.0
+STU0055,Programming,midterm,45,100,45.0
+STU0055,Programming,final,31,100,31.0
+STU0055,Data Structures,quiz,34,100,34.0
+STU0055,Data Structures,midterm,44,100,44.0
+STU0055,Data Structures,final,48,100,48.0
+STU0055,English,quiz,51,100,51.0
+STU0055,English,midterm,47,100,47.0
+STU0055,English,final,36,100,36.0
+STU0055,Statistics,quiz,26,100,26.0
+STU0055,Statistics,midterm,50,100,50.0
+STU0055,Statistics,final,50,100,50.0
+STU0056,Math,quiz,56,100,56.0
+STU0056,Math,midterm,69,100,69.0
+STU0056,Math,final,59,100,59.0
+STU0056,Physics,quiz,74,100,74.0
+STU0056,Physics,midterm,58,100,58.0
+STU0056,Physics,final,78,100,78.0
+STU0056,Programming,quiz,68,100,68.0
+STU0056,Programming,midterm,76,100,76.0
+STU0056,Programming,final,58,100,58.0
+STU0056,Data Structures,quiz,65,100,65.0
+STU0056,Data Structures,midterm,54,100,54.0
+STU0056,Data Structures,final,69,100,69.0
+STU0056,English,quiz,69,100,69.0
+STU0056,English,midterm,81,100,81.0
+STU0056,English,final,66,100,66.0
+STU0056,Statistics,quiz,68,100,68.0
+STU0056,Statistics,midterm,58,100,58.0
+STU0056,Statistics,final,66,100,66.0
+STU0057,Math,quiz,85,100,85.0
+STU0057,Math,midterm,89,100,89.0
+STU0057,Math,final,89,100,89.0
+STU0057,Physics,quiz,85,100,85.0
+STU0057,Physics,midterm,88,100,88.0
+STU0057,Physics,final,85,100,85.0
+STU0057,Programming,quiz,85,100,85.0
+STU0057,Programming,midterm,97,100,97.0
+STU0057,Programming,final,89,100,89.0
+STU0057,Data Structures,quiz,91,100,91.0
+STU0057,Data Structures,midterm,76,100,76.0
+STU0057,Data Structures,final,91,100,91.0
+STU0057,English,quiz,92,100,92.0
+STU0057,English,midterm,85,100,85.0
+STU0057,English,final,100,100,100.0
+STU0057,Statistics,quiz,70,100,70.0
+STU0057,Statistics,midterm,94,100,94.0
+STU0057,Statistics,final,94,100,94.0
+STU0058,Math,quiz,78,100,78.0
+STU0058,Math,midterm,75,100,75.0
+STU0058,Math,final,78,100,78.0
+STU0058,Physics,quiz,81,100,81.0
+STU0058,Physics,midterm,68,100,68.0
+STU0058,Physics,final,76,100,76.0
+STU0058,Programming,quiz,72,100,72.0
+STU0058,Programming,midterm,65,100,65.0
+STU0058,Programming,final,79,100,79.0
+STU0058,Data Structures,quiz,69,100,69.0
+STU0058,Data Structures,midterm,62,100,62.0
+STU0058,Data Structures,final,69,100,69.0
+STU0058,English,quiz,67,100,67.0
+STU0058,English,midterm,82,100,82.0
+STU0058,English,final,75,100,75.0
+STU0058,Statistics,quiz,85,100,85.0
+STU0058,Statistics,midterm,68,100,68.0
+STU0058,Statistics,final,81,100,81.0
+STU0059,Math,quiz,100,100,100.0
+STU0059,Math,midterm,100,100,100.0
+STU0059,Math,final,100,100,100.0
+STU0059,Physics,quiz,100,100,100.0
+STU0059,Physics,midterm,85,100,85.0
+STU0059,Physics,final,100,100,100.0
+STU0059,Programming,quiz,99,100,99.0
+STU0059,Programming,midterm,95,100,95.0
+STU0059,Programming,final,90,100,90.0
+STU0059,Data Structures,quiz,100,100,100.0
+STU0059,Data Structures,midterm,89,100,89.0
+STU0059,Data Structures,final,100,100,100.0
+STU0059,English,quiz,98,100,98.0
+STU0059,English,midterm,87,100,87.0
+STU0059,English,final,93,100,93.0
+STU0059,Statistics,quiz,94,100,94.0
+STU0059,Statistics,midterm,100,100,100.0
+STU0059,Statistics,final,90,100,90.0
+STU0060,Math,quiz,72,100,72.0
+STU0060,Math,midterm,68,100,68.0
+STU0060,Math,final,77,100,77.0
+STU0060,Physics,quiz,69,100,69.0
+STU0060,Physics,midterm,64,100,64.0
+STU0060,Physics,final,71,100,71.0
+STU0060,Programming,quiz,70,100,70.0
+STU0060,Programming,midterm,68,100,68.0
+STU0060,Programming,final,68,100,68.0
+STU0060,Data Structures,quiz,82,100,82.0
+STU0060,Data Structures,midterm,70,100,70.0
+STU0060,Data Structures,final,64,100,64.0
+STU0060,English,quiz,69,100,69.0
+STU0060,English,midterm,73,100,73.0
+STU0060,English,final,62,100,62.0
+STU0060,Statistics,quiz,86,100,86.0
+STU0060,Statistics,midterm,80,100,80.0
+STU0060,Statistics,final,84,100,84.0
+STU0061,Math,quiz,87,100,87.0
+STU0061,Math,midterm,67,100,67.0
+STU0061,Math,final,96,100,96.0
+STU0061,Physics,quiz,76,100,76.0
+STU0061,Physics,midterm,77,100,77.0
+STU0061,Physics,final,85,100,85.0
+STU0061,Programming,quiz,94,100,94.0
+STU0061,Programming,midterm,92,100,92.0
+STU0061,Programming,final,91,100,91.0
+STU0061,Data Structures,quiz,81,100,81.0
+STU0061,Data Structures,midterm,81,100,81.0
+STU0061,Data Structures,final,86,100,86.0
+STU0061,English,quiz,82,100,82.0
+STU0061,English,midterm,90,100,90.0
+STU0061,English,final,90,100,90.0
+STU0061,Statistics,quiz,88,100,88.0
+STU0061,Statistics,midterm,63,100,63.0
+STU0061,Statistics,final,84,100,84.0
+STU0062,Math,quiz,86,100,86.0
+STU0062,Math,midterm,88,100,88.0
+STU0062,Math,final,81,100,81.0
+STU0062,Physics,quiz,76,100,76.0
+STU0062,Physics,midterm,91,100,91.0
+STU0062,Physics,final,84,100,84.0
+STU0062,Programming,quiz,91,100,91.0
+STU0062,Programming,midterm,81,100,81.0
+STU0062,Programming,final,98,100,98.0
+STU0062,Data Structures,quiz,95,100,95.0
+STU0062,Data Structures,midterm,89,100,89.0
+STU0062,Data Structures,final,85,100,85.0
+STU0062,English,quiz,94,100,94.0
+STU0062,English,midterm,90,100,90.0
+STU0062,English,final,89,100,89.0
+STU0062,Statistics,quiz,95,100,95.0
+STU0062,Statistics,midterm,98,100,98.0
+STU0062,Statistics,final,77,100,77.0
+STU0063,Math,quiz,83,100,83.0
+STU0063,Math,midterm,85,100,85.0
+STU0063,Math,final,79,100,79.0
+STU0063,Physics,quiz,91,100,91.0
+STU0063,Physics,midterm,96,100,96.0
+STU0063,Physics,final,91,100,91.0
+STU0063,Programming,quiz,87,100,87.0
+STU0063,Programming,midterm,100,100,100.0
+STU0063,Programming,final,92,100,92.0
+STU0063,Data Structures,quiz,94,100,94.0
+STU0063,Data Structures,midterm,100,100,100.0
+STU0063,Data Structures,final,90,100,90.0
+STU0063,English,quiz,100,100,100.0
+STU0063,English,midterm,88,100,88.0
+STU0063,English,final,100,100,100.0
+STU0063,Statistics,quiz,83,100,83.0
+STU0063,Statistics,midterm,95,100,95.0
+STU0063,Statistics,final,86,100,86.0
+STU0064,Math,quiz,78,100,78.0
+STU0064,Math,midterm,65,100,65.0
+STU0064,Math,final,71,100,71.0
+STU0064,Physics,quiz,63,100,63.0
+STU0064,Physics,midterm,76,100,76.0
+STU0064,Physics,final,63,100,63.0
+STU0064,Programming,quiz,82,100,82.0
+STU0064,Programming,midterm,61,100,61.0
+STU0064,Programming,final,58,100,58.0
+STU0064,Data Structures,quiz,76,100,76.0
+STU0064,Data Structures,midterm,64,100,64.0
+STU0064,Data Structures,final,69,100,69.0
+STU0064,English,quiz,66,100,66.0
+STU0064,English,midterm,58,100,58.0
+STU0064,English,final,68,100,68.0
+STU0064,Statistics,quiz,79,100,79.0
+STU0064,Statistics,midterm,77,100,77.0
+STU0064,Statistics,final,71,100,71.0
+STU0065,Math,quiz,100,100,100.0
+STU0065,Math,midterm,86,100,86.0
+STU0065,Math,final,92,100,92.0
+STU0065,Physics,quiz,98,100,98.0
+STU0065,Physics,midterm,94,100,94.0
+STU0065,Physics,final,93,100,93.0
+STU0065,Programming,quiz,85,100,85.0
+STU0065,Programming,midterm,78,100,78.0
+STU0065,Programming,final,100,100,100.0
+STU0065,Data Structures,quiz,97,100,97.0
+STU0065,Data Structures,midterm,100,100,100.0
+STU0065,Data Structures,final,91,100,91.0
+STU0065,English,quiz,89,100,89.0
+STU0065,English,midterm,95,100,95.0
+STU0065,English,final,100,100,100.0
+STU0065,Statistics,quiz,93,100,93.0
+STU0065,Statistics,midterm,100,100,100.0
+STU0065,Statistics,final,87,100,87.0
+STU0066,Math,quiz,71,100,71.0
+STU0066,Math,midterm,72,100,72.0
+STU0066,Math,final,82,100,82.0
+STU0066,Physics,quiz,74,100,74.0
+STU0066,Physics,midterm,87,100,87.0
+STU0066,Physics,final,62,100,62.0
+STU0066,Programming,quiz,74,100,74.0
+STU0066,Programming,midterm,74,100,74.0
+STU0066,Programming,final,78,100,78.0
+STU0066,Data Structures,quiz,66,100,66.0
+STU0066,Data Structures,midterm,86,100,86.0
+STU0066,Data Structures,final,73,100,73.0
+STU0066,English,quiz,64,100,64.0
+STU0066,English,midterm,73,100,73.0
+STU0066,English,final,70,100,70.0
+STU0066,Statistics,quiz,95,100,95.0
+STU0066,Statistics,midterm,81,100,81.0
+STU0066,Statistics,final,73,100,73.0
+STU0067,Math,quiz,71,100,71.0
+STU0067,Math,midterm,79,100,79.0
+STU0067,Math,final,80,100,80.0
+STU0067,Physics,quiz,48,100,48.0
+STU0067,Physics,midterm,77,100,77.0
+STU0067,Physics,final,72,100,72.0
+STU0067,Programming,quiz,61,100,61.0
+STU0067,Programming,midterm,79,100,79.0
+STU0067,Programming,final,90,100,90.0
+STU0067,Data Structures,quiz,76,100,76.0
+STU0067,Data Structures,midterm,80,100,80.0
+STU0067,Data Structures,final,86,100,86.0
+STU0067,English,quiz,65,100,65.0
+STU0067,English,midterm,57,100,57.0
+STU0067,English,final,77,100,77.0
+STU0067,Statistics,quiz,70,100,70.0
+STU0067,Statistics,midterm,61,100,61.0
+STU0067,Statistics,final,71,100,71.0
+STU0068,Math,quiz,70,100,70.0
+STU0068,Math,midterm,63,100,63.0
+STU0068,Math,final,58,100,58.0
+STU0068,Physics,quiz,63,100,63.0
+STU0068,Physics,midterm,65,100,65.0
+STU0068,Physics,final,49,100,49.0
+STU0068,Programming,quiz,64,100,64.0
+STU0068,Programming,midterm,54,100,54.0
+STU0068,Programming,final,70,100,70.0
+STU0068,Data Structures,quiz,52,100,52.0
+STU0068,Data Structures,midterm,73,100,73.0
+STU0068,Data Structures,final,61,100,61.0
+STU0068,English,quiz,60,100,60.0
+STU0068,English,midterm,67,100,67.0
+STU0068,English,final,58,100,58.0
+STU0068,Statistics,quiz,67,100,67.0
+STU0068,Statistics,midterm,59,100,59.0
+STU0068,Statistics,final,60,100,60.0
+STU0069,Math,quiz,80,100,80.0
+STU0069,Math,midterm,68,100,68.0
+STU0069,Math,final,67,100,67.0
+STU0069,Physics,quiz,79,100,79.0
+STU0069,Physics,midterm,77,100,77.0
+STU0069,Physics,final,79,100,79.0
+STU0069,Programming,quiz,80,100,80.0
+STU0069,Programming,midterm,78,100,78.0
+STU0069,Programming,final,82,100,82.0
+STU0069,Data Structures,quiz,78,100,78.0
+STU0069,Data Structures,midterm,61,100,61.0
+STU0069,Data Structures,final,63,100,63.0
+STU0069,English,quiz,93,100,93.0
+STU0069,English,midterm,77,100,77.0
+STU0069,English,final,85,100,85.0
+STU0069,Statistics,quiz,74,100,74.0
+STU0069,Statistics,midterm,77,100,77.0
+STU0069,Statistics,final,74,100,74.0
+STU0070,Math,quiz,99,100,99.0
+STU0070,Math,midterm,82,100,82.0
+STU0070,Math,final,75,100,75.0
+STU0070,Physics,quiz,66,100,66.0
+STU0070,Physics,midterm,95,100,95.0
+STU0070,Physics,final,78,100,78.0
+STU0070,Programming,quiz,86,100,86.0
+STU0070,Programming,midterm,87,100,87.0
+STU0070,Programming,final,76,100,76.0
+STU0070,Data Structures,quiz,85,100,85.0
+STU0070,Data Structures,midterm,75,100,75.0
+STU0070,Data Structures,final,72,100,72.0
+STU0070,English,quiz,89,100,89.0
+STU0070,English,midterm,78,100,78.0
+STU0070,English,final,84,100,84.0
+STU0070,Statistics,quiz,83,100,83.0
+STU0070,Statistics,midterm,85,100,85.0
+STU0070,Statistics,final,67,100,67.0
+STU0071,Math,quiz,87,100,87.0
+STU0071,Math,midterm,89,100,89.0
+STU0071,Math,final,85,100,85.0
+STU0071,Physics,quiz,95,100,95.0
+STU0071,Physics,midterm,100,100,100.0
+STU0071,Physics,final,100,100,100.0
+STU0071,Programming,quiz,89,100,89.0
+STU0071,Programming,midterm,94,100,94.0
+STU0071,Programming,final,95,100,95.0
+STU0071,Data Structures,quiz,97,100,97.0
+STU0071,Data Structures,midterm,85,100,85.0
+STU0071,Data Structures,final,100,100,100.0
+STU0071,English,quiz,99,100,99.0
+STU0071,English,midterm,99,100,99.0
+STU0071,English,final,100,100,100.0
+STU0071,Statistics,quiz,96,100,96.0
+STU0071,Statistics,midterm,83,100,83.0
+STU0071,Statistics,final,91,100,91.0
+STU0072,Math,quiz,86,100,86.0
+STU0072,Math,midterm,100,100,100.0
+STU0072,Math,final,98,100,98.0
+STU0072,Physics,quiz,99,100,99.0
+STU0072,Physics,midterm,100,100,100.0
+STU0072,Physics,final,96,100,96.0
+STU0072,Programming,quiz,97,100,97.0
+STU0072,Programming,midterm,100,100,100.0
+STU0072,Programming,final,85,100,85.0
+STU0072,Data Structures,quiz,97,100,97.0
+STU0072,Data Structures,midterm,80,100,80.0
+STU0072,Data Structures,final,95,100,95.0
+STU0072,English,quiz,100,100,100.0
+STU0072,English,midterm,100,100,100.0
+STU0072,English,final,95,100,95.0
+STU0072,Statistics,quiz,100,100,100.0
+STU0072,Statistics,midterm,91,100,91.0
+STU0072,Statistics,final,99,100,99.0
+STU0073,Math,quiz,100,100,100.0
+STU0073,Math,midterm,100,100,100.0
+STU0073,Math,final,99,100,99.0
+STU0073,Physics,quiz,100,100,100.0
+STU0073,Physics,midterm,91,100,91.0
+STU0073,Physics,final,92,100,92.0
+STU0073,Programming,quiz,100,100,100.0
+STU0073,Programming,midterm,94,100,94.0
+STU0073,Programming,final,100,100,100.0
+STU0073,Data Structures,quiz,100,100,100.0
+STU0073,Data Structures,midterm,100,100,100.0
+STU0073,Data Structures,final,99,100,99.0
+STU0073,English,quiz,85,100,85.0
+STU0073,English,midterm,100,100,100.0
+STU0073,English,final,89,100,89.0
+STU0073,Statistics,quiz,95,100,95.0
+STU0073,Statistics,midterm,100,100,100.0
+STU0073,Statistics,final,100,100,100.0
+STU0074,Math,quiz,75,100,75.0
+STU0074,Math,midterm,75,100,75.0
+STU0074,Math,final,73,100,73.0
+STU0074,Physics,quiz,69,100,69.0
+STU0074,Physics,midterm,73,100,73.0
+STU0074,Physics,final,65,100,65.0
+STU0074,Programming,quiz,84,100,84.0
+STU0074,Programming,midterm,81,100,81.0
+STU0074,Programming,final,83,100,83.0
+STU0074,Data Structures,quiz,71,100,71.0
+STU0074,Data Structures,midterm,69,100,69.0
+STU0074,Data Structures,final,79,100,79.0
+STU0074,English,quiz,79,100,79.0
+STU0074,English,midterm,77,100,77.0
+STU0074,English,final,76,100,76.0
+STU0074,Statistics,quiz,92,100,92.0
+STU0074,Statistics,midterm,82,100,82.0
+STU0074,Statistics,final,94,100,94.0
+STU0075,Math,quiz,100,100,100.0
+STU0075,Math,midterm,100,100,100.0
+STU0075,Math,final,88,100,88.0
+STU0075,Physics,quiz,100,100,100.0
+STU0075,Physics,midterm,93,100,93.0
+STU0075,Physics,final,84,100,84.0
+STU0075,Programming,quiz,100,100,100.0
+STU0075,Programming,midterm,94,100,94.0
+STU0075,Programming,final,88,100,88.0
+STU0075,Data Structures,quiz,94,100,94.0
+STU0075,Data Structures,midterm,90,100,90.0
+STU0075,Data Structures,final,91,100,91.0
+STU0075,English,quiz,95,100,95.0
+STU0075,English,midterm,100,100,100.0
+STU0075,English,final,92,100,92.0
+STU0075,Statistics,quiz,100,100,100.0
+STU0075,Statistics,midterm,100,100,100.0
+STU0075,Statistics,final,100,100,100.0
+STU0076,Math,quiz,76,100,76.0
+STU0076,Math,midterm,70,100,70.0
+STU0076,Math,final,80,100,80.0
+STU0076,Physics,quiz,74,100,74.0
+STU0076,Physics,midterm,56,100,56.0
+STU0076,Physics,final,72,100,72.0
+STU0076,Programming,quiz,76,100,76.0
+STU0076,Programming,midterm,67,100,67.0
+STU0076,Programming,final,71,100,71.0
+STU0076,Data Structures,quiz,65,100,65.0
+STU0076,Data Structures,midterm,59,100,59.0
+STU0076,Data Structures,final,57,100,57.0
+STU0076,English,quiz,57,100,57.0
+STU0076,English,midterm,75,100,75.0
+STU0076,English,final,50,100,50.0
+STU0076,Statistics,quiz,64,100,64.0
+STU0076,Statistics,midterm,63,100,63.0
+STU0076,Statistics,final,67,100,67.0
+STU0077,Math,quiz,44,100,44.0
+STU0077,Math,midterm,62,100,62.0
+STU0077,Math,final,49,100,49.0
+STU0077,Physics,quiz,68,100,68.0
+STU0077,Physics,midterm,54,100,54.0
+STU0077,Physics,final,58,100,58.0
+STU0077,Programming,quiz,59,100,59.0
+STU0077,Programming,midterm,61,100,61.0
+STU0077,Programming,final,59,100,59.0
+STU0077,Data Structures,quiz,56,100,56.0
+STU0077,Data Structures,midterm,62,100,62.0
+STU0077,Data Structures,final,63,100,63.0
+STU0077,English,quiz,53,100,53.0
+STU0077,English,midterm,62,100,62.0
+STU0077,English,final,69,100,69.0
+STU0077,Statistics,quiz,65,100,65.0
+STU0077,Statistics,midterm,66,100,66.0
+STU0077,Statistics,final,60,100,60.0
+STU0078,Math,quiz,51,100,51.0
+STU0078,Math,midterm,52,100,52.0
+STU0078,Math,final,61,100,61.0
+STU0078,Physics,quiz,66,100,66.0
+STU0078,Physics,midterm,81,100,81.0
+STU0078,Physics,final,66,100,66.0
+STU0078,Programming,quiz,49,100,49.0
+STU0078,Programming,midterm,53,100,53.0
+STU0078,Programming,final,77,100,77.0
+STU0078,Data Structures,quiz,57,100,57.0
+STU0078,Data Structures,midterm,59,100,59.0
+STU0078,Data Structures,final,51,100,51.0
+STU0078,English,quiz,71,100,71.0
+STU0078,English,midterm,63,100,63.0
+STU0078,English,final,52,100,52.0
+STU0078,Statistics,quiz,51,100,51.0
+STU0078,Statistics,midterm,61,100,61.0
+STU0078,Statistics,final,59,100,59.0
+STU0079,Math,quiz,60,100,60.0
+STU0079,Math,midterm,58,100,58.0
+STU0079,Math,final,51,100,51.0
+STU0079,Physics,quiz,49,100,49.0
+STU0079,Physics,midterm,52,100,52.0
+STU0079,Physics,final,49,100,49.0
+STU0079,Programming,quiz,52,100,52.0
+STU0079,Programming,midterm,53,100,53.0
+STU0079,Programming,final,46,100,46.0
+STU0079,Data Structures,quiz,58,100,58.0
+STU0079,Data Structures,midterm,50,100,50.0
+STU0079,Data Structures,final,46,100,46.0
+STU0079,English,quiz,50,100,50.0
+STU0079,English,midterm,55,100,55.0
+STU0079,English,final,54,100,54.0
+STU0079,Statistics,quiz,57,100,57.0
+STU0079,Statistics,midterm,60,100,60.0
+STU0079,Statistics,final,64,100,64.0
+STU0080,Math,quiz,66,100,66.0
+STU0080,Math,midterm,56,100,56.0
+STU0080,Math,final,62,100,62.0
+STU0080,Physics,quiz,56,100,56.0
+STU0080,Physics,midterm,78,100,78.0
+STU0080,Physics,final,80,100,80.0
+STU0080,Programming,quiz,69,100,69.0
+STU0080,Programming,midterm,71,100,71.0
+STU0080,Programming,final,66,100,66.0
+STU0080,Data Structures,quiz,67,100,67.0
+STU0080,Data Structures,midterm,51,100,51.0
+STU0080,Data Structures,final,64,100,64.0
+STU0080,English,quiz,57,100,57.0
+STU0080,English,midterm,66,100,66.0
+STU0080,English,final,64,100,64.0
+STU0080,Statistics,quiz,80,100,80.0
+STU0080,Statistics,midterm,72,100,72.0
+STU0080,Statistics,final,66,100,66.0
+STU0081,Math,quiz,69,100,69.0
+STU0081,Math,midterm,85,100,85.0
+STU0081,Math,final,71,100,71.0
+STU0081,Physics,quiz,74,100,74.0
+STU0081,Physics,midterm,72,100,72.0
+STU0081,Physics,final,68,100,68.0
+STU0081,Programming,quiz,71,100,71.0
+STU0081,Programming,midterm,55,100,55.0
+STU0081,Programming,final,59,100,59.0
+STU0081,Data Structures,quiz,74,100,74.0
+STU0081,Data Structures,midterm,84,100,84.0
+STU0081,Data Structures,final,74,100,74.0
+STU0081,English,quiz,65,100,65.0
+STU0081,English,midterm,60,100,60.0
+STU0081,English,final,77,100,77.0
+STU0081,Statistics,quiz,67,100,67.0
+STU0081,Statistics,midterm,76,100,76.0
+STU0081,Statistics,final,74,100,74.0
+STU0082,Math,quiz,100,100,100.0
+STU0082,Math,midterm,97,100,97.0
+STU0082,Math,final,100,100,100.0
+STU0082,Physics,quiz,96,100,96.0
+STU0082,Physics,midterm,92,100,92.0
+STU0082,Physics,final,89,100,89.0
+STU0082,Programming,quiz,78,100,78.0
+STU0082,Programming,midterm,96,100,96.0
+STU0082,Programming,final,100,100,100.0
+STU0082,Data Structures,quiz,100,100,100.0
+STU0082,Data Structures,midterm,99,100,99.0
+STU0082,Data Structures,final,91,100,91.0
+STU0082,English,quiz,100,100,100.0
+STU0082,English,midterm,96,100,96.0
+STU0082,English,final,100,100,100.0
+STU0082,Statistics,quiz,89,100,89.0
+STU0082,Statistics,midterm,91,100,91.0
+STU0082,Statistics,final,90,100,90.0
+STU0083,Math,quiz,63,100,63.0
+STU0083,Math,midterm,67,100,67.0
+STU0083,Math,final,75,100,75.0
+STU0083,Physics,quiz,69,100,69.0
+STU0083,Physics,midterm,44,100,44.0
+STU0083,Physics,final,83,100,83.0
+STU0083,Programming,quiz,61,100,61.0
+STU0083,Programming,midterm,79,100,79.0
+STU0083,Programming,final,75,100,75.0
+STU0083,Data Structures,quiz,91,100,91.0
+STU0083,Data Structures,midterm,82,100,82.0
+STU0083,Data Structures,final,70,100,70.0
+STU0083,English,quiz,69,100,69.0
+STU0083,English,midterm,86,100,86.0
+STU0083,English,final,63,100,63.0
+STU0083,Statistics,quiz,76,100,76.0
+STU0083,Statistics,midterm,73,100,73.0
+STU0083,Statistics,final,72,100,72.0
+STU0084,Math,quiz,85,100,85.0
+STU0084,Math,midterm,84,100,84.0
+STU0084,Math,final,86,100,86.0
+STU0084,Physics,quiz,83,100,83.0
+STU0084,Physics,midterm,86,100,86.0
+STU0084,Physics,final,83,100,83.0
+STU0084,Programming,quiz,77,100,77.0
+STU0084,Programming,midterm,82,100,82.0
+STU0084,Programming,final,76,100,76.0
+STU0084,Data Structures,quiz,76,100,76.0
+STU0084,Data Structures,midterm,80,100,80.0
+STU0084,Data Structures,final,81,100,81.0
+STU0084,English,quiz,82,100,82.0
+STU0084,English,midterm,90,100,90.0
+STU0084,English,final,78,100,78.0
+STU0084,Statistics,quiz,84,100,84.0
+STU0084,Statistics,midterm,83,100,83.0
+STU0084,Statistics,final,77,100,77.0
+STU0085,Math,quiz,77,100,77.0
+STU0085,Math,midterm,84,100,84.0
+STU0085,Math,final,78,100,78.0
+STU0085,Physics,quiz,78,100,78.0
+STU0085,Physics,midterm,71,100,71.0
+STU0085,Physics,final,92,100,92.0
+STU0085,Programming,quiz,71,100,71.0
+STU0085,Programming,midterm,63,100,63.0
+STU0085,Programming,final,83,100,83.0
+STU0085,Data Structures,quiz,76,100,76.0
+STU0085,Data Structures,midterm,74,100,74.0
+STU0085,Data Structures,final,72,100,72.0
+STU0085,English,quiz,91,100,91.0
+STU0085,English,midterm,79,100,79.0
+STU0085,English,final,81,100,81.0
+STU0085,Statistics,quiz,78,100,78.0
+STU0085,Statistics,midterm,79,100,79.0
+STU0085,Statistics,final,88,100,88.0
+STU0086,Math,quiz,43,100,43.0
+STU0086,Math,midterm,34,100,34.0
+STU0086,Math,final,52,100,52.0
+STU0086,Physics,quiz,49,100,49.0
+STU0086,Physics,midterm,46,100,46.0
+STU0086,Physics,final,49,100,49.0
+STU0086,Programming,quiz,42,100,42.0
+STU0086,Programming,midterm,45,100,45.0
+STU0086,Programming,final,44,100,44.0
+STU0086,Data Structures,quiz,41,100,41.0
+STU0086,Data Structures,midterm,55,100,55.0
+STU0086,Data Structures,final,34,100,34.0
+STU0086,English,quiz,64,100,64.0
+STU0086,English,midterm,52,100,52.0
+STU0086,English,final,31,100,31.0
+STU0086,Statistics,quiz,44,100,44.0
+STU0086,Statistics,midterm,44,100,44.0
+STU0086,Statistics,final,48,100,48.0
+STU0087,Math,quiz,74,100,74.0
+STU0087,Math,midterm,83,100,83.0
+STU0087,Math,final,81,100,81.0
+STU0087,Physics,quiz,76,100,76.0
+STU0087,Physics,midterm,75,100,75.0
+STU0087,Physics,final,90,100,90.0
+STU0087,Programming,quiz,69,100,69.0
+STU0087,Programming,midterm,86,100,86.0
+STU0087,Programming,final,89,100,89.0
+STU0087,Data Structures,quiz,81,100,81.0
+STU0087,Data Structures,midterm,83,100,83.0
+STU0087,Data Structures,final,92,100,92.0
+STU0087,English,quiz,77,100,77.0
+STU0087,English,midterm,78,100,78.0
+STU0087,English,final,78,100,78.0
+STU0087,Statistics,quiz,92,100,92.0
+STU0087,Statistics,midterm,93,100,93.0
+STU0087,Statistics,final,71,100,71.0
+STU0088,Math,quiz,79,100,79.0
+STU0088,Math,midterm,78,100,78.0
+STU0088,Math,final,83,100,83.0
+STU0088,Physics,quiz,74,100,74.0
+STU0088,Physics,midterm,71,100,71.0
+STU0088,Physics,final,80,100,80.0
+STU0088,Programming,quiz,77,100,77.0
+STU0088,Programming,midterm,89,100,89.0
+STU0088,Programming,final,79,100,79.0
+STU0088,Data Structures,quiz,72,100,72.0
+STU0088,Data Structures,midterm,62,100,62.0
+STU0088,Data Structures,final,66,100,66.0
+STU0088,English,quiz,59,100,59.0
+STU0088,English,midterm,69,100,69.0
+STU0088,English,final,78,100,78.0
+STU0088,Statistics,quiz,71,100,71.0
+STU0088,Statistics,midterm,79,100,79.0
+STU0088,Statistics,final,74,100,74.0
+STU0089,Math,quiz,48,100,48.0
+STU0089,Math,midterm,52,100,52.0
+STU0089,Math,final,55,100,55.0
+STU0089,Physics,quiz,52,100,52.0
+STU0089,Physics,midterm,52,100,52.0
+STU0089,Physics,final,45,100,45.0
+STU0089,Programming,quiz,47,100,47.0
+STU0089,Programming,midterm,69,100,69.0
+STU0089,Programming,final,61,100,61.0
+STU0089,Data Structures,quiz,39,100,39.0
+STU0089,Data Structures,midterm,32,100,32.0
+STU0089,Data Structures,final,52,100,52.0
+STU0089,English,quiz,58,100,58.0
+STU0089,English,midterm,47,100,47.0
+STU0089,English,final,59,100,59.0
+STU0089,Statistics,quiz,51,100,51.0
+STU0089,Statistics,midterm,50,100,50.0
+STU0089,Statistics,final,57,100,57.0
+STU0090,Math,quiz,93,100,93.0
+STU0090,Math,midterm,95,100,95.0
+STU0090,Math,final,100,100,100.0
+STU0090,Physics,quiz,97,100,97.0
+STU0090,Physics,midterm,100,100,100.0
+STU0090,Physics,final,100,100,100.0
+STU0090,Programming,quiz,100,100,100.0
+STU0090,Programming,midterm,97,100,97.0
+STU0090,Programming,final,100,100,100.0
+STU0090,Data Structures,quiz,95,100,95.0
+STU0090,Data Structures,midterm,99,100,99.0
+STU0090,Data Structures,final,90,100,90.0
+STU0090,English,quiz,100,100,100.0
+STU0090,English,midterm,100,100,100.0
+STU0090,English,final,100,100,100.0
+STU0090,Statistics,quiz,100,100,100.0
+STU0090,Statistics,midterm,100,100,100.0
+STU0090,Statistics,final,98,100,98.0
+STU0091,Math,quiz,79,100,79.0
+STU0091,Math,midterm,94,100,94.0
+STU0091,Math,final,89,100,89.0
+STU0091,Physics,quiz,91,100,91.0
+STU0091,Physics,midterm,100,100,100.0
+STU0091,Physics,final,80,100,80.0
+STU0091,Programming,quiz,79,100,79.0
+STU0091,Programming,midterm,85,100,85.0
+STU0091,Programming,final,93,100,93.0
+STU0091,Data Structures,quiz,91,100,91.0
+STU0091,Data Structures,midterm,80,100,80.0
+STU0091,Data Structures,final,93,100,93.0
+STU0091,English,quiz,77,100,77.0
+STU0091,English,midterm,80,100,80.0
+STU0091,English,final,86,100,86.0
+STU0091,Statistics,quiz,82,100,82.0
+STU0091,Statistics,midterm,94,100,94.0
+STU0091,Statistics,final,89,100,89.0
+STU0092,Math,quiz,83,100,83.0
+STU0092,Math,midterm,67,100,67.0
+STU0092,Math,final,68,100,68.0
+STU0092,Physics,quiz,79,100,79.0
+STU0092,Physics,midterm,69,100,69.0
+STU0092,Physics,final,81,100,81.0
+STU0092,Programming,quiz,74,100,74.0
+STU0092,Programming,midterm,50,100,50.0
+STU0092,Programming,final,79,100,79.0
+STU0092,Data Structures,quiz,77,100,77.0
+STU0092,Data Structures,midterm,77,100,77.0
+STU0092,Data Structures,final,54,100,54.0
+STU0092,English,quiz,64,100,64.0
+STU0092,English,midterm,65,100,65.0
+STU0092,English,final,62,100,62.0
+STU0092,Statistics,quiz,83,100,83.0
+STU0092,Statistics,midterm,69,100,69.0
+STU0092,Statistics,final,69,100,69.0
+STU0093,Math,quiz,98,100,98.0
+STU0093,Math,midterm,98,100,98.0
+STU0093,Math,final,67,100,67.0
+STU0093,Physics,quiz,89,100,89.0
+STU0093,Physics,midterm,82,100,82.0
+STU0093,Physics,final,97,100,97.0
+STU0093,Programming,quiz,91,100,91.0
+STU0093,Programming,midterm,94,100,94.0
+STU0093,Programming,final,77,100,77.0
+STU0093,Data Structures,quiz,91,100,91.0
+STU0093,Data Structures,midterm,100,100,100.0
+STU0093,Data Structures,final,100,100,100.0
+STU0093,English,quiz,100,100,100.0
+STU0093,English,midterm,83,100,83.0
+STU0093,English,final,100,100,100.0
+STU0093,Statistics,quiz,100,100,100.0
+STU0093,Statistics,midterm,93,100,93.0
+STU0093,Statistics,final,78,100,78.0
+STU0094,Math,quiz,100,100,100.0
+STU0094,Math,midterm,94,100,94.0
+STU0094,Math,final,100,100,100.0
+STU0094,Physics,quiz,99,100,99.0
+STU0094,Physics,midterm,100,100,100.0
+STU0094,Physics,final,97,100,97.0
+STU0094,Programming,quiz,98,100,98.0
+STU0094,Programming,midterm,100,100,100.0
+STU0094,Programming,final,93,100,93.0
+STU0094,Data Structures,quiz,100,100,100.0
+STU0094,Data Structures,midterm,97,100,97.0
+STU0094,Data Structures,final,90,100,90.0
+STU0094,English,quiz,98,100,98.0
+STU0094,English,midterm,100,100,100.0
+STU0094,English,final,100,100,100.0
+STU0094,Statistics,quiz,100,100,100.0
+STU0094,Statistics,midterm,96,100,96.0
+STU0094,Statistics,final,91,100,91.0
+STU0095,Math,quiz,78,100,78.0
+STU0095,Math,midterm,71,100,71.0
+STU0095,Math,final,79,100,79.0
+STU0095,Physics,quiz,78,100,78.0
+STU0095,Physics,midterm,86,100,86.0
+STU0095,Physics,final,63,100,63.0
+STU0095,Programming,quiz,74,100,74.0
+STU0095,Programming,midterm,75,100,75.0
+STU0095,Programming,final,90,100,90.0
+STU0095,Data Structures,quiz,71,100,71.0
+STU0095,Data Structures,midterm,82,100,82.0
+STU0095,Data Structures,final,79,100,79.0
+STU0095,English,quiz,89,100,89.0
+STU0095,English,midterm,85,100,85.0
+STU0095,English,final,81,100,81.0
+STU0095,Statistics,quiz,76,100,76.0
+STU0095,Statistics,midterm,66,100,66.0
+STU0095,Statistics,final,82,100,82.0
+STU0096,Math,quiz,88,100,88.0
+STU0096,Math,midterm,71,100,71.0
+STU0096,Math,final,74,100,74.0
+STU0096,Physics,quiz,86,100,86.0
+STU0096,Physics,midterm,86,100,86.0
+STU0096,Physics,final,76,100,76.0
+STU0096,Programming,quiz,79,100,79.0
+STU0096,Programming,midterm,69,100,69.0
+STU0096,Programming,final,95,100,95.0
+STU0096,Data Structures,quiz,73,100,73.0
+STU0096,Data Structures,midterm,88,100,88.0
+STU0096,Data Structures,final,83,100,83.0
+STU0096,English,quiz,94,100,94.0
+STU0096,English,midterm,77,100,77.0
+STU0096,English,final,84,100,84.0
+STU0096,Statistics,quiz,70,100,70.0
+STU0096,Statistics,midterm,68,100,68.0
+STU0096,Statistics,final,89,100,89.0
+STU0097,Math,quiz,66,100,66.0
+STU0097,Math,midterm,78,100,78.0
+STU0097,Math,final,88,100,88.0
+STU0097,Physics,quiz,86,100,86.0
+STU0097,Physics,midterm,75,100,75.0
+STU0097,Physics,final,67,100,67.0
+STU0097,Programming,quiz,84,100,84.0
+STU0097,Programming,midterm,91,100,91.0
+STU0097,Programming,final,75,100,75.0
+STU0097,Data Structures,quiz,73,100,73.0
+STU0097,Data Structures,midterm,76,100,76.0
+STU0097,Data Structures,final,84,100,84.0
+STU0097,English,quiz,90,100,90.0
+STU0097,English,midterm,70,100,70.0
+STU0097,English,final,68,100,68.0
+STU0097,Statistics,quiz,99,100,99.0
+STU0097,Statistics,midterm,78,100,78.0
+STU0097,Statistics,final,82,100,82.0
+STU0098,Math,quiz,52,100,52.0
+STU0098,Math,midterm,62,100,62.0
+STU0098,Math,final,66,100,66.0
+STU0098,Physics,quiz,60,100,60.0
+STU0098,Physics,midterm,72,100,72.0
+STU0098,Physics,final,55,100,55.0
+STU0098,Programming,quiz,56,100,56.0
+STU0098,Programming,midterm,60,100,60.0
+STU0098,Programming,final,62,100,62.0
+STU0098,Data Structures,quiz,60,100,60.0
+STU0098,Data Structures,midterm,48,100,48.0
+STU0098,Data Structures,final,60,100,60.0
+STU0098,English,quiz,55,100,55.0
+STU0098,English,midterm,53,100,53.0
+STU0098,English,final,58,100,58.0
+STU0098,Statistics,quiz,50,100,50.0
+STU0098,Statistics,midterm,49,100,49.0
+STU0098,Statistics,final,37,100,37.0
+STU0099,Math,quiz,99,100,99.0
+STU0099,Math,midterm,90,100,90.0
+STU0099,Math,final,84,100,84.0
+STU0099,Physics,quiz,80,100,80.0
+STU0099,Physics,midterm,62,100,62.0
+STU0099,Physics,final,79,100,79.0
+STU0099,Programming,quiz,91,100,91.0
+STU0099,Programming,midterm,93,100,93.0
+STU0099,Programming,final,90,100,90.0
+STU0099,Data Structures,quiz,86,100,86.0
+STU0099,Data Structures,midterm,96,100,96.0
+STU0099,Data Structures,final,82,100,82.0
+STU0099,English,quiz,94,100,94.0
+STU0099,English,midterm,82,100,82.0
+STU0099,English,final,78,100,78.0
+STU0099,Statistics,quiz,77,100,77.0
+STU0099,Statistics,midterm,77,100,77.0
+STU0099,Statistics,final,90,100,90.0
+STU0100,Math,quiz,52,100,52.0
+STU0100,Math,midterm,50,100,50.0
+STU0100,Math,final,64,100,64.0
+STU0100,Physics,quiz,61,100,61.0
+STU0100,Physics,midterm,66,100,66.0
+STU0100,Physics,final,62,100,62.0
+STU0100,Programming,quiz,52,100,52.0
+STU0100,Programming,midterm,59,100,59.0
+STU0100,Programming,final,59,100,59.0
+STU0100,Data Structures,quiz,51,100,51.0
+STU0100,Data Structures,midterm,49,100,49.0
+STU0100,Data Structures,final,53,100,53.0
+STU0100,English,quiz,74,100,74.0
+STU0100,English,midterm,55,100,55.0
+STU0100,English,final,68,100,68.0
+STU0100,Statistics,quiz,54,100,54.0
+STU0100,Statistics,midterm,65,100,65.0
+STU0100,Statistics,final,65,100,65.0
+STU0101,Math,quiz,83,100,83.0
+STU0101,Math,midterm,78,100,78.0
+STU0101,Math,final,86,100,86.0
+STU0101,Physics,quiz,78,100,78.0
+STU0101,Physics,midterm,89,100,89.0
+STU0101,Physics,final,62,100,62.0
+STU0101,Programming,quiz,78,100,78.0
+STU0101,Programming,midterm,78,100,78.0
+STU0101,Programming,final,68,100,68.0
+STU0101,Data Structures,quiz,80,100,80.0
+STU0101,Data Structures,midterm,63,100,63.0
+STU0101,Data Structures,final,70,100,70.0
+STU0101,English,quiz,59,100,59.0
+STU0101,English,midterm,88,100,88.0
+STU0101,English,final,73,100,73.0
+STU0101,Statistics,quiz,93,100,93.0
+STU0101,Statistics,midterm,82,100,82.0
+STU0101,Statistics,final,79,100,79.0
+STU0102,Math,quiz,80,100,80.0
+STU0102,Math,midterm,76,100,76.0
+STU0102,Math,final,89,100,89.0
+STU0102,Physics,quiz,84,100,84.0
+STU0102,Physics,midterm,74,100,74.0
+STU0102,Physics,final,72,100,72.0
+STU0102,Programming,quiz,77,100,77.0
+STU0102,Programming,midterm,99,100,99.0
+STU0102,Programming,final,100,100,100.0
+STU0102,Data Structures,quiz,86,100,86.0
+STU0102,Data Structures,midterm,86,100,86.0
+STU0102,Data Structures,final,82,100,82.0
+STU0102,English,quiz,77,100,77.0
+STU0102,English,midterm,96,100,96.0
+STU0102,English,final,100,100,100.0
+STU0102,Statistics,quiz,77,100,77.0
+STU0102,Statistics,midterm,84,100,84.0
+STU0102,Statistics,final,81,100,81.0
+STU0103,Math,quiz,87,100,87.0
+STU0103,Math,midterm,100,100,100.0
+STU0103,Math,final,80,100,80.0
+STU0103,Physics,quiz,94,100,94.0
+STU0103,Physics,midterm,96,100,96.0
+STU0103,Physics,final,89,100,89.0
+STU0103,Programming,quiz,98,100,98.0
+STU0103,Programming,midterm,92,100,92.0
+STU0103,Programming,final,100,100,100.0
+STU0103,Data Structures,quiz,78,100,78.0
+STU0103,Data Structures,midterm,88,100,88.0
+STU0103,Data Structures,final,90,100,90.0
+STU0103,English,quiz,69,100,69.0
+STU0103,English,midterm,82,100,82.0
+STU0103,English,final,84,100,84.0
+STU0103,Statistics,quiz,98,100,98.0
+STU0103,Statistics,midterm,85,100,85.0
+STU0103,Statistics,final,84,100,84.0
+STU0104,Math,quiz,78,100,78.0
+STU0104,Math,midterm,58,100,58.0
+STU0104,Math,final,55,100,55.0
+STU0104,Physics,quiz,68,100,68.0
+STU0104,Physics,midterm,60,100,60.0
+STU0104,Physics,final,60,100,60.0
+STU0104,Programming,quiz,76,100,76.0
+STU0104,Programming,midterm,78,100,78.0
+STU0104,Programming,final,78,100,78.0
+STU0104,Data Structures,quiz,80,100,80.0
+STU0104,Data Structures,midterm,81,100,81.0
+STU0104,Data Structures,final,54,100,54.0
+STU0104,English,quiz,75,100,75.0
+STU0104,English,midterm,67,100,67.0
+STU0104,English,final,65,100,65.0
+STU0104,Statistics,quiz,76,100,76.0
+STU0104,Statistics,midterm,57,100,57.0
+STU0104,Statistics,final,57,100,57.0
+STU0105,Math,quiz,92,100,92.0
+STU0105,Math,midterm,91,100,91.0
+STU0105,Math,final,88,100,88.0
+STU0105,Physics,quiz,80,100,80.0
+STU0105,Physics,midterm,93,100,93.0
+STU0105,Physics,final,93,100,93.0
+STU0105,Programming,quiz,88,100,88.0
+STU0105,Programming,midterm,78,100,78.0
+STU0105,Programming,final,84,100,84.0
+STU0105,Data Structures,quiz,94,100,94.0
+STU0105,Data Structures,midterm,98,100,98.0
+STU0105,Data Structures,final,84,100,84.0
+STU0105,English,quiz,85,100,85.0
+STU0105,English,midterm,86,100,86.0
+STU0105,English,final,89,100,89.0
+STU0105,Statistics,quiz,82,100,82.0
+STU0105,Statistics,midterm,64,100,64.0
+STU0105,Statistics,final,97,100,97.0
+STU0106,Math,quiz,88,100,88.0
+STU0106,Math,midterm,69,100,69.0
+STU0106,Math,final,65,100,65.0
+STU0106,Physics,quiz,72,100,72.0
+STU0106,Physics,midterm,72,100,72.0
+STU0106,Physics,final,82,100,82.0
+STU0106,Programming,quiz,74,100,74.0
+STU0106,Programming,midterm,67,100,67.0
+STU0106,Programming,final,63,100,63.0
+STU0106,Data Structures,quiz,81,100,81.0
+STU0106,Data Structures,midterm,78,100,78.0
+STU0106,Data Structures,final,82,100,82.0
+STU0106,English,quiz,66,100,66.0
+STU0106,English,midterm,88,100,88.0
+STU0106,English,final,60,100,60.0
+STU0106,Statistics,quiz,79,100,79.0
+STU0106,Statistics,midterm,58,100,58.0
+STU0106,Statistics,final,67,100,67.0
+STU0107,Math,quiz,77,100,77.0
+STU0107,Math,midterm,71,100,71.0
+STU0107,Math,final,60,100,60.0
+STU0107,Physics,quiz,60,100,60.0
+STU0107,Physics,midterm,65,100,65.0
+STU0107,Physics,final,68,100,68.0
+STU0107,Programming,quiz,74,100,74.0
+STU0107,Programming,midterm,61,100,61.0
+STU0107,Programming,final,51,100,51.0
+STU0107,Data Structures,quiz,66,100,66.0
+STU0107,Data Structures,midterm,61,100,61.0
+STU0107,Data Structures,final,54,100,54.0
+STU0107,English,quiz,67,100,67.0
+STU0107,English,midterm,63,100,63.0
+STU0107,English,final,67,100,67.0
+STU0107,Statistics,quiz,57,100,57.0
+STU0107,Statistics,midterm,68,100,68.0
+STU0107,Statistics,final,54,100,54.0
+STU0108,Math,quiz,49,100,49.0
+STU0108,Math,midterm,54,100,54.0
+STU0108,Math,final,69,100,69.0
+STU0108,Physics,quiz,62,100,62.0
+STU0108,Physics,midterm,64,100,64.0
+STU0108,Physics,final,67,100,67.0
+STU0108,Programming,quiz,84,100,84.0
+STU0108,Programming,midterm,56,100,56.0
+STU0108,Programming,final,67,100,67.0
+STU0108,Data Structures,quiz,64,100,64.0
+STU0108,Data Structures,midterm,64,100,64.0
+STU0108,Data Structures,final,70,100,70.0
+STU0108,English,quiz,52,100,52.0
+STU0108,English,midterm,52,100,52.0
+STU0108,English,final,58,100,58.0
+STU0108,Statistics,quiz,54,100,54.0
+STU0108,Statistics,midterm,58,100,58.0
+STU0108,Statistics,final,68,100,68.0
+STU0109,Math,quiz,80,100,80.0
+STU0109,Math,midterm,82,100,82.0
+STU0109,Math,final,86,100,86.0
+STU0109,Physics,quiz,82,100,82.0
+STU0109,Physics,midterm,69,100,69.0
+STU0109,Physics,final,80,100,80.0
+STU0109,Programming,quiz,90,100,90.0
+STU0109,Programming,midterm,96,100,96.0
+STU0109,Programming,final,75,100,75.0
+STU0109,Data Structures,quiz,75,100,75.0
+STU0109,Data Structures,midterm,85,100,85.0
+STU0109,Data Structures,final,68,100,68.0
+STU0109,English,quiz,81,100,81.0
+STU0109,English,midterm,70,100,70.0
+STU0109,English,final,95,100,95.0
+STU0109,Statistics,quiz,78,100,78.0
+STU0109,Statistics,midterm,98,100,98.0
+STU0109,Statistics,final,93,100,93.0
+STU0110,Math,quiz,72,100,72.0
+STU0110,Math,midterm,68,100,68.0
+STU0110,Math,final,75,100,75.0
+STU0110,Physics,quiz,76,100,76.0
+STU0110,Physics,midterm,80,100,80.0
+STU0110,Physics,final,71,100,71.0
+STU0110,Programming,quiz,83,100,83.0
+STU0110,Programming,midterm,79,100,79.0
+STU0110,Programming,final,74,100,74.0
+STU0110,Data Structures,quiz,71,100,71.0
+STU0110,Data Structures,midterm,76,100,76.0
+STU0110,Data Structures,final,70,100,70.0
+STU0110,English,quiz,77,100,77.0
+STU0110,English,midterm,78,100,78.0
+STU0110,English,final,79,100,79.0
+STU0110,Statistics,quiz,91,100,91.0
+STU0110,Statistics,midterm,76,100,76.0
+STU0110,Statistics,final,85,100,85.0
+STU0111,Math,quiz,100,100,100.0
+STU0111,Math,midterm,96,100,96.0
+STU0111,Math,final,97,100,97.0
+STU0111,Physics,quiz,98,100,98.0
+STU0111,Physics,midterm,100,100,100.0
+STU0111,Physics,final,91,100,91.0
+STU0111,Programming,quiz,87,100,87.0
+STU0111,Programming,midterm,100,100,100.0
+STU0111,Programming,final,100,100,100.0
+STU0111,Data Structures,quiz,100,100,100.0
+STU0111,Data Structures,midterm,100,100,100.0
+STU0111,Data Structures,final,100,100,100.0
+STU0111,English,quiz,100,100,100.0
+STU0111,English,midterm,100,100,100.0
+STU0111,English,final,92,100,92.0
+STU0111,Statistics,quiz,90,100,90.0
+STU0111,Statistics,midterm,95,100,95.0
+STU0111,Statistics,final,98,100,98.0
+STU0112,Math,quiz,74,100,74.0
+STU0112,Math,midterm,61,100,61.0
+STU0112,Math,final,90,100,90.0
+STU0112,Physics,quiz,74,100,74.0
+STU0112,Physics,midterm,78,100,78.0
+STU0112,Physics,final,86,100,86.0
+STU0112,Programming,quiz,57,100,57.0
+STU0112,Programming,midterm,72,100,72.0
+STU0112,Programming,final,73,100,73.0
+STU0112,Data Structures,quiz,74,100,74.0
+STU0112,Data Structures,midterm,75,100,75.0
+STU0112,Data Structures,final,88,100,88.0
+STU0112,English,quiz,82,100,82.0
+STU0112,English,midterm,84,100,84.0
+STU0112,English,final,77,100,77.0
+STU0112,Statistics,quiz,65,100,65.0
+STU0112,Statistics,midterm,60,100,60.0
+STU0112,Statistics,final,64,100,64.0
+STU0113,Math,quiz,86,100,86.0
+STU0113,Math,midterm,83,100,83.0
+STU0113,Math,final,82,100,82.0
+STU0113,Physics,quiz,80,100,80.0
+STU0113,Physics,midterm,99,100,99.0
+STU0113,Physics,final,77,100,77.0
+STU0113,Programming,quiz,91,100,91.0
+STU0113,Programming,midterm,83,100,83.0
+STU0113,Programming,final,83,100,83.0
+STU0113,Data Structures,quiz,93,100,93.0
+STU0113,Data Structures,midterm,95,100,95.0
+STU0113,Data Structures,final,81,100,81.0
+STU0113,English,quiz,90,100,90.0
+STU0113,English,midterm,86,100,86.0
+STU0113,English,final,83,100,83.0
+STU0113,Statistics,quiz,85,100,85.0
+STU0113,Statistics,midterm,78,100,78.0
+STU0113,Statistics,final,81,100,81.0
+STU0114,Math,quiz,84,100,84.0
+STU0114,Math,midterm,96,100,96.0
+STU0114,Math,final,88,100,88.0
+STU0114,Physics,quiz,79,100,79.0
+STU0114,Physics,midterm,83,100,83.0
+STU0114,Physics,final,63,100,63.0
+STU0114,Programming,quiz,85,100,85.0
+STU0114,Programming,midterm,89,100,89.0
+STU0114,Programming,final,88,100,88.0
+STU0114,Data Structures,quiz,100,100,100.0
+STU0114,Data Structures,midterm,94,100,94.0
+STU0114,Data Structures,final,93,100,93.0
+STU0114,English,quiz,76,100,76.0
+STU0114,English,midterm,86,100,86.0
+STU0114,English,final,85,100,85.0
+STU0114,Statistics,quiz,83,100,83.0
+STU0114,Statistics,midterm,83,100,83.0
+STU0114,Statistics,final,74,100,74.0
+STU0115,Math,quiz,71,100,71.0
+STU0115,Math,midterm,88,100,88.0
+STU0115,Math,final,80,100,80.0
+STU0115,Physics,quiz,77,100,77.0
+STU0115,Physics,midterm,81,100,81.0
+STU0115,Physics,final,90,100,90.0
+STU0115,Programming,quiz,81,100,81.0
+STU0115,Programming,midterm,85,100,85.0
+STU0115,Programming,final,74,100,74.0
+STU0115,Data Structures,quiz,76,100,76.0
+STU0115,Data Structures,midterm,84,100,84.0
+STU0115,Data Structures,final,96,100,96.0
+STU0115,English,quiz,92,100,92.0
+STU0115,English,midterm,86,100,86.0
+STU0115,English,final,82,100,82.0
+STU0115,Statistics,quiz,92,100,92.0
+STU0115,Statistics,midterm,87,100,87.0
+STU0115,Statistics,final,63,100,63.0
+STU0116,Math,quiz,80,100,80.0
+STU0116,Math,midterm,91,100,91.0
+STU0116,Math,final,74,100,74.0
+STU0116,Physics,quiz,81,100,81.0
+STU0116,Physics,midterm,83,100,83.0
+STU0116,Physics,final,87,100,87.0
+STU0116,Programming,quiz,86,100,86.0
+STU0116,Programming,midterm,86,100,86.0
+STU0116,Programming,final,95,100,95.0
+STU0116,Data Structures,quiz,86,100,86.0
+STU0116,Data Structures,midterm,86,100,86.0
+STU0116,Data Structures,final,78,100,78.0
+STU0116,English,quiz,97,100,97.0
+STU0116,English,midterm,83,100,83.0
+STU0116,English,final,80,100,80.0
+STU0116,Statistics,quiz,90,100,90.0
+STU0116,Statistics,midterm,82,100,82.0
+STU0116,Statistics,final,84,100,84.0
+STU0117,Math,quiz,69,100,69.0
+STU0117,Math,midterm,64,100,64.0
+STU0117,Math,final,86,100,86.0
+STU0117,Physics,quiz,67,100,67.0
+STU0117,Physics,midterm,72,100,72.0
+STU0117,Physics,final,52,100,52.0
+STU0117,Programming,quiz,60,100,60.0
+STU0117,Programming,midterm,58,100,58.0
+STU0117,Programming,final,59,100,59.0
+STU0117,Data Structures,quiz,70,100,70.0
+STU0117,Data Structures,midterm,75,100,75.0
+STU0117,Data Structures,final,70,100,70.0
+STU0117,English,quiz,65,100,65.0
+STU0117,English,midterm,62,100,62.0
+STU0117,English,final,76,100,76.0
+STU0117,Statistics,quiz,84,100,84.0
+STU0117,Statistics,midterm,68,100,68.0
+STU0117,Statistics,final,75,100,75.0
+STU0118,Math,quiz,60,100,60.0
+STU0118,Math,midterm,63,100,63.0
+STU0118,Math,final,47,100,47.0
+STU0118,Physics,quiz,53,100,53.0
+STU0118,Physics,midterm,60,100,60.0
+STU0118,Physics,final,66,100,66.0
+STU0118,Programming,quiz,50,100,50.0
+STU0118,Programming,midterm,41,100,41.0
+STU0118,Programming,final,53,100,53.0
+STU0118,Data Structures,quiz,65,100,65.0
+STU0118,Data Structures,midterm,44,100,44.0
+STU0118,Data Structures,final,47,100,47.0
+STU0118,English,quiz,58,100,58.0
+STU0118,English,midterm,56,100,56.0
+STU0118,English,final,62,100,62.0
+STU0118,Statistics,quiz,47,100,47.0
+STU0118,Statistics,midterm,54,100,54.0
+STU0118,Statistics,final,66,100,66.0
+STU0119,Math,quiz,45,100,45.0
+STU0119,Math,midterm,66,100,66.0
+STU0119,Math,final,46,100,46.0
+STU0119,Physics,quiz,61,100,61.0
+STU0119,Physics,midterm,51,100,51.0
+STU0119,Physics,final,45,100,45.0
+STU0119,Programming,quiz,50,100,50.0
+STU0119,Programming,midterm,59,100,59.0
+STU0119,Programming,final,54,100,54.0
+STU0119,Data Structures,quiz,63,100,63.0
+STU0119,Data Structures,midterm,66,100,66.0
+STU0119,Data Structures,final,45,100,45.0
+STU0119,English,quiz,44,100,44.0
+STU0119,English,midterm,44,100,44.0
+STU0119,English,final,47,100,47.0
+STU0119,Statistics,quiz,63,100,63.0
+STU0119,Statistics,midterm,59,100,59.0
+STU0119,Statistics,final,50,100,50.0
+STU0120,Math,quiz,99,100,99.0
+STU0120,Math,midterm,100,100,100.0
+STU0120,Math,final,100,100,100.0
+STU0120,Physics,quiz,100,100,100.0
+STU0120,Physics,midterm,78,100,78.0
+STU0120,Physics,final,100,100,100.0
+STU0120,Programming,quiz,100,100,100.0
+STU0120,Programming,midterm,100,100,100.0
+STU0120,Programming,final,100,100,100.0
+STU0120,Data Structures,quiz,100,100,100.0
+STU0120,Data Structures,midterm,90,100,90.0
+STU0120,Data Structures,final,92,100,92.0
+STU0120,English,quiz,97,100,97.0
+STU0120,English,midterm,100,100,100.0
+STU0120,English,final,93,100,93.0
+STU0120,Statistics,quiz,100,100,100.0
+STU0120,Statistics,midterm,100,100,100.0
+STU0120,Statistics,final,100,100,100.0
+STU0121,Math,quiz,95,100,95.0
+STU0121,Math,midterm,81,100,81.0
+STU0121,Math,final,100,100,100.0
+STU0121,Physics,quiz,100,100,100.0
+STU0121,Physics,midterm,100,100,100.0
+STU0121,Physics,final,89,100,89.0
+STU0121,Programming,quiz,87,100,87.0
+STU0121,Programming,midterm,88,100,88.0
+STU0121,Programming,final,100,100,100.0
+STU0121,Data Structures,quiz,93,100,93.0
+STU0121,Data Structures,midterm,90,100,90.0
+STU0121,Data Structures,final,94,100,94.0
+STU0121,English,quiz,93,100,93.0
+STU0121,English,midterm,100,100,100.0
+STU0121,English,final,87,100,87.0
+STU0121,Statistics,quiz,100,100,100.0
+STU0121,Statistics,midterm,96,100,96.0
+STU0121,Statistics,final,100,100,100.0
+STU0122,Math,quiz,94,100,94.0
+STU0122,Math,midterm,82,100,82.0
+STU0122,Math,final,79,100,79.0
+STU0122,Physics,quiz,82,100,82.0
+STU0122,Physics,midterm,81,100,81.0
+STU0122,Physics,final,68,100,68.0
+STU0122,Programming,quiz,94,100,94.0
+STU0122,Programming,midterm,84,100,84.0
+STU0122,Programming,final,72,100,72.0
+STU0122,Data Structures,quiz,65,100,65.0
+STU0122,Data Structures,midterm,63,100,63.0
+STU0122,Data Structures,final,88,100,88.0
+STU0122,English,quiz,77,100,77.0
+STU0122,English,midterm,78,100,78.0
+STU0122,English,final,85,100,85.0
+STU0122,Statistics,quiz,77,100,77.0
+STU0122,Statistics,midterm,86,100,86.0
+STU0122,Statistics,final,82,100,82.0
+STU0123,Math,quiz,61,100,61.0
+STU0123,Math,midterm,49,100,49.0
+STU0123,Math,final,55,100,55.0
+STU0123,Physics,quiz,67,100,67.0
+STU0123,Physics,midterm,57,100,57.0
+STU0123,Physics,final,72,100,72.0
+STU0123,Programming,quiz,81,100,81.0
+STU0123,Programming,midterm,67,100,67.0
+STU0123,Programming,final,74,100,74.0
+STU0123,Data Structures,quiz,68,100,68.0
+STU0123,Data Structures,midterm,58,100,58.0
+STU0123,Data Structures,final,64,100,64.0
+STU0123,English,quiz,78,100,78.0
+STU0123,English,midterm,58,100,58.0
+STU0123,English,final,54,100,54.0
+STU0123,Statistics,quiz,53,100,53.0
+STU0123,Statistics,midterm,60,100,60.0
+STU0123,Statistics,final,54,100,54.0
+STU0124,Math,quiz,78,100,78.0
+STU0124,Math,midterm,67,100,67.0
+STU0124,Math,final,73,100,73.0
+STU0124,Physics,quiz,63,100,63.0
+STU0124,Physics,midterm,56,100,56.0
+STU0124,Physics,final,55,100,55.0
+STU0124,Programming,quiz,58,100,58.0
+STU0124,Programming,midterm,68,100,68.0
+STU0124,Programming,final,69,100,69.0
+STU0124,Data Structures,quiz,70,100,70.0
+STU0124,Data Structures,midterm,53,100,53.0
+STU0124,Data Structures,final,65,100,65.0
+STU0124,English,quiz,57,100,57.0
+STU0124,English,midterm,68,100,68.0
+STU0124,English,final,69,100,69.0
+STU0124,Statistics,quiz,56,100,56.0
+STU0124,Statistics,midterm,73,100,73.0
+STU0124,Statistics,final,84,100,84.0
+STU0125,Math,quiz,100,100,100.0
+STU0125,Math,midterm,98,100,98.0
+STU0125,Math,final,97,100,97.0
+STU0125,Physics,quiz,98,100,98.0
+STU0125,Physics,midterm,93,100,93.0
+STU0125,Physics,final,100,100,100.0
+STU0125,Programming,quiz,90,100,90.0
+STU0125,Programming,midterm,84,100,84.0
+STU0125,Programming,final,100,100,100.0
+STU0125,Data Structures,quiz,100,100,100.0
+STU0125,Data Structures,midterm,95,100,95.0
+STU0125,Data Structures,final,89,100,89.0
+STU0125,English,quiz,100,100,100.0
+STU0125,English,midterm,92,100,92.0
+STU0125,English,final,98,100,98.0
+STU0125,Statistics,quiz,100,100,100.0
+STU0125,Statistics,midterm,100,100,100.0
+STU0125,Statistics,final,89,100,89.0
+STU0126,Math,quiz,39,100,39.0
+STU0126,Math,midterm,51,100,51.0
+STU0126,Math,final,38,100,38.0
+STU0126,Physics,quiz,33,100,33.0
+STU0126,Physics,midterm,54,100,54.0
+STU0126,Physics,final,52,100,52.0
+STU0126,Programming,quiz,53,100,53.0
+STU0126,Programming,midterm,51,100,51.0
+STU0126,Programming,final,49,100,49.0
+STU0126,Data Structures,quiz,44,100,44.0
+STU0126,Data Structures,midterm,53,100,53.0
+STU0126,Data Structures,final,62,100,62.0
+STU0126,English,quiz,45,100,45.0
+STU0126,English,midterm,41,100,41.0
+STU0126,English,final,40,100,40.0
+STU0126,Statistics,quiz,42,100,42.0
+STU0126,Statistics,midterm,51,100,51.0
+STU0126,Statistics,final,32,100,32.0
+STU0127,Math,quiz,90,100,90.0
+STU0127,Math,midterm,91,100,91.0
+STU0127,Math,final,72,100,72.0
+STU0127,Physics,quiz,78,100,78.0
+STU0127,Physics,midterm,87,100,87.0
+STU0127,Physics,final,85,100,85.0
+STU0127,Programming,quiz,90,100,90.0
+STU0127,Programming,midterm,85,100,85.0
+STU0127,Programming,final,96,100,96.0
+STU0127,Data Structures,quiz,83,100,83.0
+STU0127,Data Structures,midterm,78,100,78.0
+STU0127,Data Structures,final,78,100,78.0
+STU0127,English,quiz,92,100,92.0
+STU0127,English,midterm,86,100,86.0
+STU0127,English,final,91,100,91.0
+STU0127,Statistics,quiz,91,100,91.0
+STU0127,Statistics,midterm,70,100,70.0
+STU0127,Statistics,final,77,100,77.0
+STU0128,Math,quiz,79,100,79.0
+STU0128,Math,midterm,80,100,80.0
+STU0128,Math,final,83,100,83.0
+STU0128,Physics,quiz,95,100,95.0
+STU0128,Physics,midterm,96,100,96.0
+STU0128,Physics,final,84,100,84.0
+STU0128,Programming,quiz,85,100,85.0
+STU0128,Programming,midterm,81,100,81.0
+STU0128,Programming,final,88,100,88.0
+STU0128,Data Structures,quiz,88,100,88.0
+STU0128,Data Structures,midterm,93,100,93.0
+STU0128,Data Structures,final,93,100,93.0
+STU0128,English,quiz,68,100,68.0
+STU0128,English,midterm,86,100,86.0
+STU0128,English,final,98,100,98.0
+STU0128,Statistics,quiz,83,100,83.0
+STU0128,Statistics,midterm,96,100,96.0
+STU0128,Statistics,final,84,100,84.0
+STU0129,Math,quiz,78,100,78.0
+STU0129,Math,midterm,67,100,67.0
+STU0129,Math,final,67,100,67.0
+STU0129,Physics,quiz,82,100,82.0
+STU0129,Physics,midterm,83,100,83.0
+STU0129,Physics,final,76,100,76.0
+STU0129,Programming,quiz,66,100,66.0
+STU0129,Programming,midterm,77,100,77.0
+STU0129,Programming,final,86,100,86.0
+STU0129,Data Structures,quiz,90,100,90.0
+STU0129,Data Structures,midterm,74,100,74.0
+STU0129,Data Structures,final,63,100,63.0
+STU0129,English,quiz,83,100,83.0
+STU0129,English,midterm,74,100,74.0
+STU0129,English,final,84,100,84.0
+STU0129,Statistics,quiz,78,100,78.0
+STU0129,Statistics,midterm,69,100,69.0
+STU0129,Statistics,final,77,100,77.0
+STU0130,Math,quiz,99,100,99.0
+STU0130,Math,midterm,88,100,88.0
+STU0130,Math,final,81,100,81.0
+STU0130,Physics,quiz,76,100,76.0
+STU0130,Physics,midterm,83,100,83.0
+STU0130,Physics,final,86,100,86.0
+STU0130,Programming,quiz,95,100,95.0
+STU0130,Programming,midterm,80,100,80.0
+STU0130,Programming,final,100,100,100.0
+STU0130,Data Structures,quiz,78,100,78.0
+STU0130,Data Structures,midterm,100,100,100.0
+STU0130,Data Structures,final,100,100,100.0
+STU0130,English,quiz,90,100,90.0
+STU0130,English,midterm,76,100,76.0
+STU0130,English,final,88,100,88.0
+STU0130,Statistics,quiz,86,100,86.0
+STU0130,Statistics,midterm,79,100,79.0
+STU0130,Statistics,final,91,100,91.0
+STU0131,Math,quiz,76,100,76.0
+STU0131,Math,midterm,77,100,77.0
+STU0131,Math,final,81,100,81.0
+STU0131,Physics,quiz,78,100,78.0
+STU0131,Physics,midterm,99,100,99.0
+STU0131,Physics,final,78,100,78.0
+STU0131,Programming,quiz,86,100,86.0
+STU0131,Programming,midterm,84,100,84.0
+STU0131,Programming,final,86,100,86.0
+STU0131,Data Structures,quiz,86,100,86.0
+STU0131,Data Structures,midterm,90,100,90.0
+STU0131,Data Structures,final,85,100,85.0
+STU0131,English,quiz,85,100,85.0
+STU0131,English,midterm,83,100,83.0
+STU0131,English,final,82,100,82.0
+STU0131,Statistics,quiz,75,100,75.0
+STU0131,Statistics,midterm,82,100,82.0
+STU0131,Statistics,final,85,100,85.0
+STU0132,Math,quiz,96,100,96.0
+STU0132,Math,midterm,94,100,94.0
+STU0132,Math,final,90,100,90.0
+STU0132,Physics,quiz,92,100,92.0
+STU0132,Physics,midterm,88,100,88.0
+STU0132,Physics,final,95,100,95.0
+STU0132,Programming,quiz,91,100,91.0
+STU0132,Programming,midterm,94,100,94.0
+STU0132,Programming,final,100,100,100.0
+STU0132,Data Structures,quiz,87,100,87.0
+STU0132,Data Structures,midterm,97,100,97.0
+STU0132,Data Structures,final,93,100,93.0
+STU0132,English,quiz,100,100,100.0
+STU0132,English,midterm,91,100,91.0
+STU0132,English,final,98,100,98.0
+STU0132,Statistics,quiz,92,100,92.0
+STU0132,Statistics,midterm,81,100,81.0
+STU0132,Statistics,final,88,100,88.0
+STU0133,Math,quiz,100,100,100.0
+STU0133,Math,midterm,92,100,92.0
+STU0133,Math,final,78,100,78.0
+STU0133,Physics,quiz,96,100,96.0
+STU0133,Physics,midterm,87,100,87.0
+STU0133,Physics,final,97,100,97.0
+STU0133,Programming,quiz,100,100,100.0
+STU0133,Programming,midterm,100,100,100.0
+STU0133,Programming,final,100,100,100.0
+STU0133,Data Structures,quiz,91,100,91.0
+STU0133,Data Structures,midterm,95,100,95.0
+STU0133,Data Structures,final,87,100,87.0
+STU0133,English,quiz,90,100,90.0
+STU0133,English,midterm,88,100,88.0
+STU0133,English,final,85,100,85.0
+STU0133,Statistics,quiz,100,100,100.0
+STU0133,Statistics,midterm,79,100,79.0
+STU0133,Statistics,final,100,100,100.0
+STU0134,Math,quiz,98,100,98.0
+STU0134,Math,midterm,92,100,92.0
+STU0134,Math,final,79,100,79.0
+STU0134,Physics,quiz,76,100,76.0
+STU0134,Physics,midterm,84,100,84.0
+STU0134,Physics,final,93,100,93.0
+STU0134,Programming,quiz,88,100,88.0
+STU0134,Programming,midterm,80,100,80.0
+STU0134,Programming,final,97,100,97.0
+STU0134,Data Structures,quiz,100,100,100.0
+STU0134,Data Structures,midterm,86,100,86.0
+STU0134,Data Structures,final,89,100,89.0
+STU0134,English,quiz,76,100,76.0
+STU0134,English,midterm,85,100,85.0
+STU0134,English,final,92,100,92.0
+STU0134,Statistics,quiz,91,100,91.0
+STU0134,Statistics,midterm,84,100,84.0
+STU0134,Statistics,final,86,100,86.0
+STU0135,Math,quiz,96,100,96.0
+STU0135,Math,midterm,97,100,97.0
+STU0135,Math,final,100,100,100.0
+STU0135,Physics,quiz,84,100,84.0
+STU0135,Physics,midterm,99,100,99.0
+STU0135,Physics,final,100,100,100.0
+STU0135,Programming,quiz,95,100,95.0
+STU0135,Programming,midterm,96,100,96.0
+STU0135,Programming,final,96,100,96.0
+STU0135,Data Structures,quiz,96,100,96.0
+STU0135,Data Structures,midterm,100,100,100.0
+STU0135,Data Structures,final,100,100,100.0
+STU0135,English,quiz,83,100,83.0
+STU0135,English,midterm,100,100,100.0
+STU0135,English,final,97,100,97.0
+STU0135,Statistics,quiz,100,100,100.0
+STU0135,Statistics,midterm,90,100,90.0
+STU0135,Statistics,final,93,100,93.0
+STU0136,Math,quiz,77,100,77.0
+STU0136,Math,midterm,82,100,82.0
+STU0136,Math,final,63,100,63.0
+STU0136,Physics,quiz,72,100,72.0
+STU0136,Physics,midterm,83,100,83.0
+STU0136,Physics,final,71,100,71.0
+STU0136,Programming,quiz,90,100,90.0
+STU0136,Programming,midterm,75,100,75.0
+STU0136,Programming,final,71,100,71.0
+STU0136,Data Structures,quiz,83,100,83.0
+STU0136,Data Structures,midterm,91,100,91.0
+STU0136,Data Structures,final,82,100,82.0
+STU0136,English,quiz,89,100,89.0
+STU0136,English,midterm,92,100,92.0
+STU0136,English,final,71,100,71.0
+STU0136,Statistics,quiz,86,100,86.0
+STU0136,Statistics,midterm,66,100,66.0
+STU0136,Statistics,final,82,100,82.0
+STU0137,Math,quiz,58,100,58.0
+STU0137,Math,midterm,69,100,69.0
+STU0137,Math,final,68,100,68.0
+STU0137,Physics,quiz,63,100,63.0
+STU0137,Physics,midterm,61,100,61.0
+STU0137,Physics,final,63,100,63.0
+STU0137,Programming,quiz,59,100,59.0
+STU0137,Programming,midterm,58,100,58.0
+STU0137,Programming,final,70,100,70.0
+STU0137,Data Structures,quiz,71,100,71.0
+STU0137,Data Structures,midterm,58,100,58.0
+STU0137,Data Structures,final,61,100,61.0
+STU0137,English,quiz,59,100,59.0
+STU0137,English,midterm,46,100,46.0
+STU0137,English,final,56,100,56.0
+STU0137,Statistics,quiz,72,100,72.0
+STU0137,Statistics,midterm,53,100,53.0
+STU0137,Statistics,final,76,100,76.0
+STU0138,Math,quiz,82,100,82.0
+STU0138,Math,midterm,76,100,76.0
+STU0138,Math,final,77,100,77.0
+STU0138,Physics,quiz,65,100,65.0
+STU0138,Physics,midterm,71,100,71.0
+STU0138,Physics,final,84,100,84.0
+STU0138,Programming,quiz,68,100,68.0
+STU0138,Programming,midterm,81,100,81.0
+STU0138,Programming,final,62,100,62.0
+STU0138,Data Structures,quiz,63,100,63.0
+STU0138,Data Structures,midterm,88,100,88.0
+STU0138,Data Structures,final,73,100,73.0
+STU0138,English,quiz,68,100,68.0
+STU0138,English,midterm,84,100,84.0
+STU0138,English,final,83,100,83.0
+STU0138,Statistics,quiz,80,100,80.0
+STU0138,Statistics,midterm,68,100,68.0
+STU0138,Statistics,final,70,100,70.0
+STU0139,Math,quiz,100,100,100.0
+STU0139,Math,midterm,100,100,100.0
+STU0139,Math,final,95,100,95.0
+STU0139,Physics,quiz,100,100,100.0
+STU0139,Physics,midterm,100,100,100.0
+STU0139,Physics,final,100,100,100.0
+STU0139,Programming,quiz,100,100,100.0
+STU0139,Programming,midterm,87,100,87.0
+STU0139,Programming,final,98,100,98.0
+STU0139,Data Structures,quiz,92,100,92.0
+STU0139,Data Structures,midterm,100,100,100.0
+STU0139,Data Structures,final,100,100,100.0
+STU0139,English,quiz,100,100,100.0
+STU0139,English,midterm,97,100,97.0
+STU0139,English,final,100,100,100.0
+STU0139,Statistics,quiz,100,100,100.0
+STU0139,Statistics,midterm,94,100,94.0
+STU0139,Statistics,final,90,100,90.0
+STU0140,Math,quiz,83,100,83.0
+STU0140,Math,midterm,100,100,100.0
+STU0140,Math,final,100,100,100.0
+STU0140,Physics,quiz,100,100,100.0
+STU0140,Physics,midterm,100,100,100.0
+STU0140,Physics,final,89,100,89.0
+STU0140,Programming,quiz,86,100,86.0
+STU0140,Programming,midterm,100,100,100.0
+STU0140,Programming,final,100,100,100.0
+STU0140,Data Structures,quiz,86,100,86.0
+STU0140,Data Structures,midterm,100,100,100.0
+STU0140,Data Structures,final,96,100,96.0
+STU0140,English,quiz,93,100,93.0
+STU0140,English,midterm,97,100,97.0
+STU0140,English,final,80,100,80.0
+STU0140,Statistics,quiz,95,100,95.0
+STU0140,Statistics,midterm,94,100,94.0
+STU0140,Statistics,final,100,100,100.0
+STU0141,Math,quiz,62,100,62.0
+STU0141,Math,midterm,69,100,69.0
+STU0141,Math,final,43,100,43.0
+STU0141,Physics,quiz,57,100,57.0
+STU0141,Physics,midterm,68,100,68.0
+STU0141,Physics,final,61,100,61.0
+STU0141,Programming,quiz,70,100,70.0
+STU0141,Programming,midterm,49,100,49.0
+STU0141,Programming,final,69,100,69.0
+STU0141,Data Structures,quiz,59,100,59.0
+STU0141,Data Structures,midterm,58,100,58.0
+STU0141,Data Structures,final,72,100,72.0
+STU0141,English,quiz,73,100,73.0
+STU0141,English,midterm,72,100,72.0
+STU0141,English,final,80,100,80.0
+STU0141,Statistics,quiz,74,100,74.0
+STU0141,Statistics,midterm,57,100,57.0
+STU0141,Statistics,final,65,100,65.0
+STU0142,Math,quiz,82,100,82.0
+STU0142,Math,midterm,100,100,100.0
+STU0142,Math,final,94,100,94.0
+STU0142,Physics,quiz,83,100,83.0
+STU0142,Physics,midterm,92,100,92.0
+STU0142,Physics,final,75,100,75.0
+STU0142,Programming,quiz,87,100,87.0
+STU0142,Programming,midterm,77,100,77.0
+STU0142,Programming,final,71,100,71.0
+STU0142,Data Structures,quiz,91,100,91.0
+STU0142,Data Structures,midterm,92,100,92.0
+STU0142,Data Structures,final,89,100,89.0
+STU0142,English,quiz,83,100,83.0
+STU0142,English,midterm,75,100,75.0
+STU0142,English,final,76,100,76.0
+STU0142,Statistics,quiz,77,100,77.0
+STU0142,Statistics,midterm,83,100,83.0
+STU0142,Statistics,final,94,100,94.0
+STU0143,Math,quiz,77,100,77.0
+STU0143,Math,midterm,55,100,55.0
+STU0143,Math,final,63,100,63.0
+STU0143,Physics,quiz,62,100,62.0
+STU0143,Physics,midterm,48,100,48.0
+STU0143,Physics,final,73,100,73.0
+STU0143,Programming,quiz,66,100,66.0
+STU0143,Programming,midterm,67,100,67.0
+STU0143,Programming,final,79,100,79.0
+STU0143,Data Structures,quiz,69,100,69.0
+STU0143,Data Structures,midterm,65,100,65.0
+STU0143,Data Structures,final,73,100,73.0
+STU0143,English,quiz,77,100,77.0
+STU0143,English,midterm,70,100,70.0
+STU0143,English,final,74,100,74.0
+STU0143,Statistics,quiz,67,100,67.0
+STU0143,Statistics,midterm,67,100,67.0
+STU0143,Statistics,final,69,100,69.0
+STU0144,Math,quiz,66,100,66.0
+STU0144,Math,midterm,67,100,67.0
+STU0144,Math,final,83,100,83.0
+STU0144,Physics,quiz,88,100,88.0
+STU0144,Physics,midterm,85,100,85.0
+STU0144,Physics,final,61,100,61.0
+STU0144,Programming,quiz,60,100,60.0
+STU0144,Programming,midterm,62,100,62.0
+STU0144,Programming,final,73,100,73.0
+STU0144,Data Structures,quiz,49,100,49.0
+STU0144,Data Structures,midterm,67,100,67.0
+STU0144,Data Structures,final,83,100,83.0
+STU0144,English,quiz,80,100,80.0
+STU0144,English,midterm,68,100,68.0
+STU0144,English,final,68,100,68.0
+STU0144,Statistics,quiz,76,100,76.0
+STU0144,Statistics,midterm,79,100,79.0
+STU0144,Statistics,final,68,100,68.0
+STU0145,Math,quiz,50,100,50.0
+STU0145,Math,midterm,48,100,48.0
+STU0145,Math,final,42,100,42.0
+STU0145,Physics,quiz,51,100,51.0
+STU0145,Physics,midterm,50,100,50.0
+STU0145,Physics,final,42,100,42.0
+STU0145,Programming,quiz,57,100,57.0
+STU0145,Programming,midterm,56,100,56.0
+STU0145,Programming,final,58,100,58.0
+STU0145,Data Structures,quiz,46,100,46.0
+STU0145,Data Structures,midterm,36,100,36.0
+STU0145,Data Structures,final,56,100,56.0
+STU0145,English,quiz,47,100,47.0
+STU0145,English,midterm,45,100,45.0
+STU0145,English,final,42,100,42.0
+STU0145,Statistics,quiz,50,100,50.0
+STU0145,Statistics,midterm,65,100,65.0
+STU0145,Statistics,final,48,100,48.0
+STU0146,Math,quiz,60,100,60.0
+STU0146,Math,midterm,74,100,74.0
+STU0146,Math,final,70,100,70.0
+STU0146,Physics,quiz,52,100,52.0
+STU0146,Physics,midterm,74,100,74.0
+STU0146,Physics,final,86,100,86.0
+STU0146,Programming,quiz,48,100,48.0
+STU0146,Programming,midterm,59,100,59.0
+STU0146,Programming,final,46,100,46.0
+STU0146,Data Structures,quiz,68,100,68.0
+STU0146,Data Structures,midterm,77,100,77.0
+STU0146,Data Structures,final,70,100,70.0
+STU0146,English,quiz,80,100,80.0
+STU0146,English,midterm,75,100,75.0
+STU0146,English,final,82,100,82.0
+STU0146,Statistics,quiz,78,100,78.0
+STU0146,Statistics,midterm,65,100,65.0
+STU0146,Statistics,final,69,100,69.0
+STU0147,Math,quiz,93,100,93.0
+STU0147,Math,midterm,98,100,98.0
+STU0147,Math,final,100,100,100.0
+STU0147,Physics,quiz,99,100,99.0
+STU0147,Physics,midterm,100,100,100.0
+STU0147,Physics,final,97,100,97.0
+STU0147,Programming,quiz,92,100,92.0
+STU0147,Programming,midterm,93,100,93.0
+STU0147,Programming,final,100,100,100.0
+STU0147,Data Structures,quiz,88,100,88.0
+STU0147,Data Structures,midterm,98,100,98.0
+STU0147,Data Structures,final,100,100,100.0
+STU0147,English,quiz,100,100,100.0
+STU0147,English,midterm,99,100,99.0
+STU0147,English,final,99,100,99.0
+STU0147,Statistics,quiz,91,100,91.0
+STU0147,Statistics,midterm,93,100,93.0
+STU0147,Statistics,final,98,100,98.0
+STU0148,Math,quiz,75,100,75.0
+STU0148,Math,midterm,81,100,81.0
+STU0148,Math,final,74,100,74.0
+STU0148,Physics,quiz,84,100,84.0
+STU0148,Physics,midterm,86,100,86.0
+STU0148,Physics,final,80,100,80.0
+STU0148,Programming,quiz,83,100,83.0
+STU0148,Programming,midterm,65,100,65.0
+STU0148,Programming,final,64,100,64.0
+STU0148,Data Structures,quiz,77,100,77.0
+STU0148,Data Structures,midterm,63,100,63.0
+STU0148,Data Structures,final,71,100,71.0
+STU0148,English,quiz,79,100,79.0
+STU0148,English,midterm,85,100,85.0
+STU0148,English,final,71,100,71.0
+STU0148,Statistics,quiz,68,100,68.0
+STU0148,Statistics,midterm,76,100,76.0
+STU0148,Statistics,final,65,100,65.0
+STU0149,Math,quiz,75,100,75.0
+STU0149,Math,midterm,76,100,76.0
+STU0149,Math,final,76,100,76.0
+STU0149,Physics,quiz,77,100,77.0
+STU0149,Physics,midterm,69,100,69.0
+STU0149,Physics,final,70,100,70.0
+STU0149,Programming,quiz,70,100,70.0
+STU0149,Programming,midterm,63,100,63.0
+STU0149,Programming,final,79,100,79.0
+STU0149,Data Structures,quiz,83,100,83.0
+STU0149,Data Structures,midterm,82,100,82.0
+STU0149,Data Structures,final,74,100,74.0
+STU0149,English,quiz,70,100,70.0
+STU0149,English,midterm,82,100,82.0
+STU0149,English,final,81,100,81.0
+STU0149,Statistics,quiz,78,100,78.0
+STU0149,Statistics,midterm,90,100,90.0
+STU0149,Statistics,final,76,100,76.0
+STU0150,Math,quiz,56,100,56.0
+STU0150,Math,midterm,55,100,55.0
+STU0150,Math,final,46,100,46.0
+STU0150,Physics,quiz,63,100,63.0
+STU0150,Physics,midterm,57,100,57.0
+STU0150,Physics,final,62,100,62.0
+STU0150,Programming,quiz,73,100,73.0
+STU0150,Programming,midterm,55,100,55.0
+STU0150,Programming,final,39,100,39.0
+STU0150,Data Structures,quiz,62,100,62.0
+STU0150,Data Structures,midterm,59,100,59.0
+STU0150,Data Structures,final,52,100,52.0
+STU0150,English,quiz,61,100,61.0
+STU0150,English,midterm,64,100,64.0
+STU0150,English,final,50,100,50.0
+STU0150,Statistics,quiz,56,100,56.0
+STU0150,Statistics,midterm,70,100,70.0
+STU0150,Statistics,final,52,100,52.0
+STU0151,Math,quiz,99,100,99.0
+STU0151,Math,midterm,77,100,77.0
+STU0151,Math,final,87,100,87.0
+STU0151,Physics,quiz,100,100,100.0
+STU0151,Physics,midterm,100,100,100.0
+STU0151,Physics,final,87,100,87.0
+STU0151,Programming,quiz,99,100,99.0
+STU0151,Programming,midterm,95,100,95.0
+STU0151,Programming,final,100,100,100.0
+STU0151,Data Structures,quiz,89,100,89.0
+STU0151,Data Structures,midterm,100,100,100.0
+STU0151,Data Structures,final,93,100,93.0
+STU0151,English,quiz,100,100,100.0
+STU0151,English,midterm,99,100,99.0
+STU0151,English,final,96,100,96.0
+STU0151,Statistics,quiz,100,100,100.0
+STU0151,Statistics,midterm,99,100,99.0
+STU0151,Statistics,final,97,100,97.0
+STU0152,Math,quiz,97,100,97.0
+STU0152,Math,midterm,100,100,100.0
+STU0152,Math,final,100,100,100.0
+STU0152,Physics,quiz,92,100,92.0
+STU0152,Physics,midterm,97,100,97.0
+STU0152,Physics,final,91,100,91.0
+STU0152,Programming,quiz,99,100,99.0
+STU0152,Programming,midterm,95,100,95.0
+STU0152,Programming,final,100,100,100.0
+STU0152,Data Structures,quiz,100,100,100.0
+STU0152,Data Structures,midterm,92,100,92.0
+STU0152,Data Structures,final,99,100,99.0
+STU0152,English,quiz,100,100,100.0
+STU0152,English,midterm,98,100,98.0
+STU0152,English,final,94,100,94.0
+STU0152,Statistics,quiz,91,100,91.0
+STU0152,Statistics,midterm,100,100,100.0
+STU0152,Statistics,final,100,100,100.0
+STU0153,Math,quiz,78,100,78.0
+STU0153,Math,midterm,85,100,85.0
+STU0153,Math,final,56,100,56.0
+STU0153,Physics,quiz,90,100,90.0
+STU0153,Physics,midterm,78,100,78.0
+STU0153,Physics,final,81,100,81.0
+STU0153,Programming,quiz,77,100,77.0
+STU0153,Programming,midterm,91,100,91.0
+STU0153,Programming,final,71,100,71.0
+STU0153,Data Structures,quiz,91,100,91.0
+STU0153,Data Structures,midterm,83,100,83.0
+STU0153,Data Structures,final,84,100,84.0
+STU0153,English,quiz,77,100,77.0
+STU0153,English,midterm,69,100,69.0
+STU0153,English,final,87,100,87.0
+STU0153,Statistics,quiz,82,100,82.0
+STU0153,Statistics,midterm,90,100,90.0
+STU0153,Statistics,final,78,100,78.0
+STU0154,Math,quiz,66,100,66.0
+STU0154,Math,midterm,80,100,80.0
+STU0154,Math,final,84,100,84.0
+STU0154,Physics,quiz,69,100,69.0
+STU0154,Physics,midterm,63,100,63.0
+STU0154,Physics,final,75,100,75.0
+STU0154,Programming,quiz,67,100,67.0
+STU0154,Programming,midterm,74,100,74.0
+STU0154,Programming,final,67,100,67.0
+STU0154,Data Structures,quiz,81,100,81.0
+STU0154,Data Structures,midterm,63,100,63.0
+STU0154,Data Structures,final,73,100,73.0
+STU0154,English,quiz,65,100,65.0
+STU0154,English,midterm,67,100,67.0
+STU0154,English,final,66,100,66.0
+STU0154,Statistics,quiz,75,100,75.0
+STU0154,Statistics,midterm,76,100,76.0
+STU0154,Statistics,final,73,100,73.0
+STU0155,Math,quiz,86,100,86.0
+STU0155,Math,midterm,88,100,88.0
+STU0155,Math,final,94,100,94.0
+STU0155,Physics,quiz,94,100,94.0
+STU0155,Physics,midterm,65,100,65.0
+STU0155,Physics,final,84,100,84.0
+STU0155,Programming,quiz,85,100,85.0
+STU0155,Programming,midterm,92,100,92.0
+STU0155,Programming,final,86,100,86.0
+STU0155,Data Structures,quiz,92,100,92.0
+STU0155,Data Structures,midterm,78,100,78.0
+STU0155,Data Structures,final,89,100,89.0
+STU0155,English,quiz,94,100,94.0
+STU0155,English,midterm,75,100,75.0
+STU0155,English,final,100,100,100.0
+STU0155,Statistics,quiz,96,100,96.0
+STU0155,Statistics,midterm,87,100,87.0
+STU0155,Statistics,final,80,100,80.0
+STU0156,Math,quiz,77,100,77.0
+STU0156,Math,midterm,79,100,79.0
+STU0156,Math,final,82,100,82.0
+STU0156,Physics,quiz,91,100,91.0
+STU0156,Physics,midterm,75,100,75.0
+STU0156,Physics,final,83,100,83.0
+STU0156,Programming,quiz,68,100,68.0
+STU0156,Programming,midterm,75,100,75.0
+STU0156,Programming,final,82,100,82.0
+STU0156,Data Structures,quiz,84,100,84.0
+STU0156,Data Structures,midterm,72,100,72.0
+STU0156,Data Structures,final,75,100,75.0
+STU0156,English,quiz,90,100,90.0
+STU0156,English,midterm,88,100,88.0
+STU0156,English,final,80,100,80.0
+STU0156,Statistics,quiz,61,100,61.0
+STU0156,Statistics,midterm,99,100,99.0
+STU0156,Statistics,final,78,100,78.0
+STU0157,Math,quiz,33,100,33.0
+STU0157,Math,midterm,31,100,31.0
+STU0157,Math,final,39,100,39.0
+STU0157,Physics,quiz,39,100,39.0
+STU0157,Physics,midterm,43,100,43.0
+STU0157,Physics,final,28,100,28.0
+STU0157,Programming,quiz,33,100,33.0
+STU0157,Programming,midterm,52,100,52.0
+STU0157,Programming,final,37,100,37.0
+STU0157,Data Structures,quiz,34,100,34.0
+STU0157,Data Structures,midterm,28,100,28.0
+STU0157,Data Structures,final,40,100,40.0
+STU0157,English,quiz,44,100,44.0
+STU0157,English,midterm,43,100,43.0
+STU0157,English,final,34,100,34.0
+STU0157,Statistics,quiz,39,100,39.0
+STU0157,Statistics,midterm,49,100,49.0
+STU0157,Statistics,final,44,100,44.0
+STU0158,Math,quiz,76,100,76.0
+STU0158,Math,midterm,61,100,61.0
+STU0158,Math,final,84,100,84.0
+STU0158,Physics,quiz,88,100,88.0
+STU0158,Physics,midterm,73,100,73.0
+STU0158,Physics,final,82,100,82.0
+STU0158,Programming,quiz,80,100,80.0
+STU0158,Programming,midterm,83,100,83.0
+STU0158,Programming,final,77,100,77.0
+STU0158,Data Structures,quiz,92,100,92.0
+STU0158,Data Structures,midterm,83,100,83.0
+STU0158,Data Structures,final,75,100,75.0
+STU0158,English,quiz,89,100,89.0
+STU0158,English,midterm,72,100,72.0
+STU0158,English,final,92,100,92.0
+STU0158,Statistics,quiz,90,100,90.0
+STU0158,Statistics,midterm,93,100,93.0
+STU0158,Statistics,final,81,100,81.0
+STU0159,Math,quiz,62,100,62.0
+STU0159,Math,midterm,67,100,67.0
+STU0159,Math,final,65,100,65.0
+STU0159,Physics,quiz,61,100,61.0
+STU0159,Physics,midterm,61,100,61.0
+STU0159,Physics,final,63,100,63.0
+STU0159,Programming,quiz,57,100,57.0
+STU0159,Programming,midterm,71,100,71.0
+STU0159,Programming,final,65,100,65.0
+STU0159,Data Structures,quiz,63,100,63.0
+STU0159,Data Structures,midterm,57,100,57.0
+STU0159,Data Structures,final,57,100,57.0
+STU0159,English,quiz,81,100,81.0
+STU0159,English,midterm,61,100,61.0
+STU0159,English,final,71,100,71.0
+STU0159,Statistics,quiz,67,100,67.0
+STU0159,Statistics,midterm,44,100,44.0
+STU0159,Statistics,final,80,100,80.0
+STU0160,Math,quiz,95,100,95.0
+STU0160,Math,midterm,83,100,83.0
+STU0160,Math,final,89,100,89.0
+STU0160,Physics,quiz,80,100,80.0
+STU0160,Physics,midterm,100,100,100.0
+STU0160,Physics,final,82,100,82.0
+STU0160,Programming,quiz,85,100,85.0
+STU0160,Programming,midterm,84,100,84.0
+STU0160,Programming,final,90,100,90.0
+STU0160,Data Structures,quiz,100,100,100.0
+STU0160,Data Structures,midterm,100,100,100.0
+STU0160,Data Structures,final,86,100,86.0
+STU0160,English,quiz,92,100,92.0
+STU0160,English,midterm,90,100,90.0
+STU0160,English,final,82,100,82.0
+STU0160,Statistics,quiz,100,100,100.0
+STU0160,Statistics,midterm,100,100,100.0
+STU0160,Statistics,final,91,100,91.0
+STU0161,Math,quiz,100,100,100.0
+STU0161,Math,midterm,98,100,98.0
+STU0161,Math,final,89,100,89.0
+STU0161,Physics,quiz,91,100,91.0
+STU0161,Physics,midterm,100,100,100.0
+STU0161,Physics,final,81,100,81.0
+STU0161,Programming,quiz,100,100,100.0
+STU0161,Programming,midterm,87,100,87.0
+STU0161,Programming,final,100,100,100.0
+STU0161,Data Structures,quiz,88,100,88.0
+STU0161,Data Structures,midterm,91,100,91.0
+STU0161,Data Structures,final,88,100,88.0
+STU0161,English,quiz,84,100,84.0
+STU0161,English,midterm,86,100,86.0
+STU0161,English,final,99,100,99.0
+STU0161,Statistics,quiz,70,100,70.0
+STU0161,Statistics,midterm,78,100,78.0
+STU0161,Statistics,final,83,100,83.0
+STU0162,Math,quiz,68,100,68.0
+STU0162,Math,midterm,89,100,89.0
+STU0162,Math,final,87,100,87.0
+STU0162,Physics,quiz,81,100,81.0
+STU0162,Physics,midterm,71,100,71.0
+STU0162,Physics,final,87,100,87.0
+STU0162,Programming,quiz,64,100,64.0
+STU0162,Programming,midterm,94,100,94.0
+STU0162,Programming,final,71,100,71.0
+STU0162,Data Structures,quiz,74,100,74.0
+STU0162,Data Structures,midterm,73,100,73.0
+STU0162,Data Structures,final,68,100,68.0
+STU0162,English,quiz,92,100,92.0
+STU0162,English,midterm,83,100,83.0
+STU0162,English,final,86,100,86.0
+STU0162,Statistics,quiz,67,100,67.0
+STU0162,Statistics,midterm,78,100,78.0
+STU0162,Statistics,final,81,100,81.0
+STU0163,Math,quiz,76,100,76.0
+STU0163,Math,midterm,65,100,65.0
+STU0163,Math,final,83,100,83.0
+STU0163,Physics,quiz,75,100,75.0
+STU0163,Physics,midterm,66,100,66.0
+STU0163,Physics,final,59,100,59.0
+STU0163,Programming,quiz,79,100,79.0
+STU0163,Programming,midterm,94,100,94.0
+STU0163,Programming,final,66,100,66.0
+STU0163,Data Structures,quiz,75,100,75.0
+STU0163,Data Structures,midterm,83,100,83.0
+STU0163,Data Structures,final,64,100,64.0
+STU0163,English,quiz,70,100,70.0
+STU0163,English,midterm,67,100,67.0
+STU0163,English,final,82,100,82.0
+STU0163,Statistics,quiz,85,100,85.0
+STU0163,Statistics,midterm,75,100,75.0
+STU0163,Statistics,final,67,100,67.0
+STU0164,Math,quiz,70,100,70.0
+STU0164,Math,midterm,68,100,68.0
+STU0164,Math,final,66,100,66.0
+STU0164,Physics,quiz,73,100,73.0
+STU0164,Physics,midterm,78,100,78.0
+STU0164,Physics,final,77,100,77.0
+STU0164,Programming,quiz,73,100,73.0
+STU0164,Programming,midterm,74,100,74.0
+STU0164,Programming,final,73,100,73.0
+STU0164,Data Structures,quiz,63,100,63.0
+STU0164,Data Structures,midterm,75,100,75.0
+STU0164,Data Structures,final,69,100,69.0
+STU0164,English,quiz,63,100,63.0
+STU0164,English,midterm,76,100,76.0
+STU0164,English,final,69,100,69.0
+STU0164,Statistics,quiz,75,100,75.0
+STU0164,Statistics,midterm,80,100,80.0
+STU0164,Statistics,final,66,100,66.0
+STU0165,Math,quiz,100,100,100.0
+STU0165,Math,midterm,85,100,85.0
+STU0165,Math,final,100,100,100.0
+STU0165,Physics,quiz,89,100,89.0
+STU0165,Physics,midterm,95,100,95.0
+STU0165,Physics,final,100,100,100.0
+STU0165,Programming,quiz,98,100,98.0
+STU0165,Programming,midterm,90,100,90.0
+STU0165,Programming,final,100,100,100.0
+STU0165,Data Structures,quiz,100,100,100.0
+STU0165,Data Structures,midterm,94,100,94.0
+STU0165,Data Structures,final,95,100,95.0
+STU0165,English,quiz,96,100,96.0
+STU0165,English,midterm,98,100,98.0
+STU0165,English,final,84,100,84.0
+STU0165,Statistics,quiz,98,100,98.0
+STU0165,Statistics,midterm,100,100,100.0
+STU0165,Statistics,final,92,100,92.0
+STU0166,Math,quiz,73,100,73.0
+STU0166,Math,midterm,68,100,68.0
+STU0166,Math,final,82,100,82.0
+STU0166,Physics,quiz,87,100,87.0
+STU0166,Physics,midterm,87,100,87.0
+STU0166,Physics,final,68,100,68.0
+STU0166,Programming,quiz,82,100,82.0
+STU0166,Programming,midterm,89,100,89.0
+STU0166,Programming,final,82,100,82.0
+STU0166,Data Structures,quiz,81,100,81.0
+STU0166,Data Structures,midterm,74,100,74.0
+STU0166,Data Structures,final,79,100,79.0
+STU0166,English,quiz,87,100,87.0
+STU0166,English,midterm,80,100,80.0
+STU0166,English,final,68,100,68.0
+STU0166,Statistics,quiz,74,100,74.0
+STU0166,Statistics,midterm,87,100,87.0
+STU0166,Statistics,final,80,100,80.0
+STU0167,Math,quiz,96,100,96.0
+STU0167,Math,midterm,91,100,91.0
+STU0167,Math,final,100,100,100.0
+STU0167,Physics,quiz,100,100,100.0
+STU0167,Physics,midterm,100,100,100.0
+STU0167,Physics,final,100,100,100.0
+STU0167,Programming,quiz,92,100,92.0
+STU0167,Programming,midterm,91,100,91.0
+STU0167,Programming,final,94,100,94.0
+STU0167,Data Structures,quiz,95,100,95.0
+STU0167,Data Structures,midterm,100,100,100.0
+STU0167,Data Structures,final,100,100,100.0
+STU0167,English,quiz,99,100,99.0
+STU0167,English,midterm,84,100,84.0
+STU0167,English,final,82,100,82.0
+STU0167,Statistics,quiz,97,100,97.0
+STU0167,Statistics,midterm,100,100,100.0
+STU0167,Statistics,final,95,100,95.0
+STU0168,Math,quiz,87,100,87.0
+STU0168,Math,midterm,63,100,63.0
+STU0168,Math,final,62,100,62.0
+STU0168,Physics,quiz,66,100,66.0
+STU0168,Physics,midterm,66,100,66.0
+STU0168,Physics,final,76,100,76.0
+STU0168,Programming,quiz,68,100,68.0
+STU0168,Programming,midterm,59,100,59.0
+STU0168,Programming,final,79,100,79.0
+STU0168,Data Structures,quiz,57,100,57.0
+STU0168,Data Structures,midterm,63,100,63.0
+STU0168,Data Structures,final,58,100,58.0
+STU0168,English,quiz,73,100,73.0
+STU0168,English,midterm,73,100,73.0
+STU0168,English,final,87,100,87.0
+STU0168,Statistics,quiz,79,100,79.0
+STU0168,Statistics,midterm,83,100,83.0
+STU0168,Statistics,final,74,100,74.0
+STU0169,Math,quiz,53,100,53.0
+STU0169,Math,midterm,62,100,62.0
+STU0169,Math,final,66,100,66.0
+STU0169,Physics,quiz,67,100,67.0
+STU0169,Physics,midterm,58,100,58.0
+STU0169,Physics,final,65,100,65.0
+STU0169,Programming,quiz,54,100,54.0
+STU0169,Programming,midterm,53,100,53.0
+STU0169,Programming,final,52,100,52.0
+STU0169,Data Structures,quiz,61,100,61.0
+STU0169,Data Structures,midterm,52,100,52.0
+STU0169,Data Structures,final,58,100,58.0
+STU0169,English,quiz,69,100,69.0
+STU0169,English,midterm,53,100,53.0
+STU0169,English,final,57,100,57.0
+STU0169,Statistics,quiz,62,100,62.0
+STU0169,Statistics,midterm,63,100,63.0
+STU0169,Statistics,final,57,100,57.0
+STU0170,Math,quiz,60,100,60.0
+STU0170,Math,midterm,58,100,58.0
+STU0170,Math,final,63,100,63.0
+STU0170,Physics,quiz,53,100,53.0
+STU0170,Physics,midterm,49,100,49.0
+STU0170,Physics,final,48,100,48.0
+STU0170,Programming,quiz,56,100,56.0
+STU0170,Programming,midterm,50,100,50.0
+STU0170,Programming,final,49,100,49.0
+STU0170,Data Structures,quiz,50,100,50.0
+STU0170,Data Structures,midterm,48,100,48.0
+STU0170,Data Structures,final,55,100,55.0
+STU0170,English,quiz,42,100,42.0
+STU0170,English,midterm,56,100,56.0
+STU0170,English,final,59,100,59.0
+STU0170,Statistics,quiz,49,100,49.0
+STU0170,Statistics,midterm,69,100,69.0
+STU0170,Statistics,final,54,100,54.0
+STU0171,Math,quiz,45,100,45.0
+STU0171,Math,midterm,55,100,55.0
+STU0171,Math,final,58,100,58.0
+STU0171,Physics,quiz,61,100,61.0
+STU0171,Physics,midterm,55,100,55.0
+STU0171,Physics,final,49,100,49.0
+STU0171,Programming,quiz,48,100,48.0
+STU0171,Programming,midterm,52,100,52.0
+STU0171,Programming,final,53,100,53.0
+STU0171,Data Structures,quiz,48,100,48.0
+STU0171,Data Structures,midterm,51,100,51.0
+STU0171,Data Structures,final,62,100,62.0
+STU0171,English,quiz,70,100,70.0
+STU0171,English,midterm,63,100,63.0
+STU0171,English,final,68,100,68.0
+STU0171,Statistics,quiz,65,100,65.0
+STU0171,Statistics,midterm,64,100,64.0
+STU0171,Statistics,final,54,100,54.0
+STU0172,Math,quiz,79,100,79.0
+STU0172,Math,midterm,74,100,74.0
+STU0172,Math,final,76,100,76.0
+STU0172,Physics,quiz,78,100,78.0
+STU0172,Physics,midterm,83,100,83.0
+STU0172,Physics,final,81,100,81.0
+STU0172,Programming,quiz,76,100,76.0
+STU0172,Programming,midterm,78,100,78.0
+STU0172,Programming,final,81,100,81.0
+STU0172,Data Structures,quiz,83,100,83.0
+STU0172,Data Structures,midterm,65,100,65.0
+STU0172,Data Structures,final,69,100,69.0
+STU0172,English,quiz,86,100,86.0
+STU0172,English,midterm,77,100,77.0
+STU0172,English,final,74,100,74.0
+STU0172,Statistics,quiz,75,100,75.0
+STU0172,Statistics,midterm,75,100,75.0
+STU0172,Statistics,final,82,100,82.0
+STU0173,Math,quiz,62,100,62.0
+STU0173,Math,midterm,71,100,71.0
+STU0173,Math,final,73,100,73.0
+STU0173,Physics,quiz,74,100,74.0
+STU0173,Physics,midterm,72,100,72.0
+STU0173,Physics,final,75,100,75.0
+STU0173,Programming,quiz,66,100,66.0
+STU0173,Programming,midterm,63,100,63.0
+STU0173,Programming,final,90,100,90.0
+STU0173,Data Structures,quiz,68,100,68.0
+STU0173,Data Structures,midterm,69,100,69.0
+STU0173,Data Structures,final,76,100,76.0
+STU0173,English,quiz,83,100,83.0
+STU0173,English,midterm,66,100,66.0
+STU0173,English,final,63,100,63.0
+STU0173,Statistics,quiz,61,100,61.0
+STU0173,Statistics,midterm,83,100,83.0
+STU0173,Statistics,final,62,100,62.0
+STU0174,Math,quiz,74,100,74.0
+STU0174,Math,midterm,66,100,66.0
+STU0174,Math,final,62,100,62.0
+STU0174,Physics,quiz,72,100,72.0
+STU0174,Physics,midterm,66,100,66.0
+STU0174,Physics,final,68,100,68.0
+STU0174,Programming,quiz,90,100,90.0
+STU0174,Programming,midterm,77,100,77.0
+STU0174,Programming,final,81,100,81.0
+STU0174,Data Structures,quiz,81,100,81.0
+STU0174,Data Structures,midterm,73,100,73.0
+STU0174,Data Structures,final,70,100,70.0
+STU0174,English,quiz,76,100,76.0
+STU0174,English,midterm,75,100,75.0
+STU0174,English,final,69,100,69.0
+STU0174,Statistics,quiz,75,100,75.0
+STU0174,Statistics,midterm,68,100,68.0
+STU0174,Statistics,final,73,100,73.0
+STU0175,Math,quiz,81,100,81.0
+STU0175,Math,midterm,73,100,73.0
+STU0175,Math,final,64,100,64.0
+STU0175,Physics,quiz,76,100,76.0
+STU0175,Physics,midterm,98,100,98.0
+STU0175,Physics,final,81,100,81.0
+STU0175,Programming,quiz,89,100,89.0
+STU0175,Programming,midterm,66,100,66.0
+STU0175,Programming,final,75,100,75.0
+STU0175,Data Structures,quiz,72,100,72.0
+STU0175,Data Structures,midterm,82,100,82.0
+STU0175,Data Structures,final,100,100,100.0
+STU0175,English,quiz,87,100,87.0
+STU0175,English,midterm,97,100,97.0
+STU0175,English,final,81,100,81.0
+STU0175,Statistics,quiz,94,100,94.0
+STU0175,Statistics,midterm,100,100,100.0
+STU0175,Statistics,final,82,100,82.0
+STU0176,Math,quiz,64,100,64.0
+STU0176,Math,midterm,58,100,58.0
+STU0176,Math,final,66,100,66.0
+STU0176,Physics,quiz,69,100,69.0
+STU0176,Physics,midterm,84,100,84.0
+STU0176,Physics,final,58,100,58.0
+STU0176,Programming,quiz,69,100,69.0
+STU0176,Programming,midterm,54,100,54.0
+STU0176,Programming,final,65,100,65.0
+STU0176,Data Structures,quiz,71,100,71.0
+STU0176,Data Structures,midterm,72,100,72.0
+STU0176,Data Structures,final,73,100,73.0
+STU0176,English,quiz,71,100,71.0
+STU0176,English,midterm,73,100,73.0
+STU0176,English,final,68,100,68.0
+STU0176,Statistics,quiz,60,100,60.0
+STU0176,Statistics,midterm,53,100,53.0
+STU0176,Statistics,final,64,100,64.0
+STU0177,Math,quiz,77,100,77.0
+STU0177,Math,midterm,88,100,88.0
+STU0177,Math,final,78,100,78.0
+STU0177,Physics,quiz,77,100,77.0
+STU0177,Physics,midterm,82,100,82.0
+STU0177,Physics,final,76,100,76.0
+STU0177,Programming,quiz,85,100,85.0
+STU0177,Programming,midterm,94,100,94.0
+STU0177,Programming,final,96,100,96.0
+STU0177,Data Structures,quiz,79,100,79.0
+STU0177,Data Structures,midterm,81,100,81.0
+STU0177,Data Structures,final,91,100,91.0
+STU0177,English,quiz,77,100,77.0
+STU0177,English,midterm,84,100,84.0
+STU0177,English,final,69,100,69.0
+STU0177,Statistics,quiz,76,100,76.0
+STU0177,Statistics,midterm,88,100,88.0
+STU0177,Statistics,final,73,100,73.0
+STU0178,Math,quiz,98,100,98.0
+STU0178,Math,midterm,87,100,87.0
+STU0178,Math,final,100,100,100.0
+STU0178,Physics,quiz,100,100,100.0
+STU0178,Physics,midterm,100,100,100.0
+STU0178,Physics,final,100,100,100.0
+STU0178,Programming,quiz,100,100,100.0
+STU0178,Programming,midterm,100,100,100.0
+STU0178,Programming,final,95,100,95.0
+STU0178,Data Structures,quiz,100,100,100.0
+STU0178,Data Structures,midterm,100,100,100.0
+STU0178,Data Structures,final,100,100,100.0
+STU0178,English,quiz,81,100,81.0
+STU0178,English,midterm,95,100,95.0
+STU0178,English,final,91,100,91.0
+STU0178,Statistics,quiz,100,100,100.0
+STU0178,Statistics,midterm,83,100,83.0
+STU0178,Statistics,final,83,100,83.0
+STU0179,Math,quiz,46,100,46.0
+STU0179,Math,midterm,34,100,34.0
+STU0179,Math,final,30,100,30.0
+STU0179,Physics,quiz,32,100,32.0
+STU0179,Physics,midterm,30,100,30.0
+STU0179,Physics,final,37,100,37.0
+STU0179,Programming,quiz,24,100,24.0
+STU0179,Programming,midterm,31,100,31.0
+STU0179,Programming,final,31,100,31.0
+STU0179,Data Structures,quiz,21,100,21.0
+STU0179,Data Structures,midterm,39,100,39.0
+STU0179,Data Structures,final,26,100,26.0
+STU0179,English,quiz,37,100,37.0
+STU0179,English,midterm,30,100,30.0
+STU0179,English,final,42,100,42.0
+STU0179,Statistics,quiz,21,100,21.0
+STU0179,Statistics,midterm,20,100,20.0
+STU0179,Statistics,final,22,100,22.0
+STU0180,Math,quiz,100,100,100.0
+STU0180,Math,midterm,100,100,100.0
+STU0180,Math,final,100,100,100.0
+STU0180,Physics,quiz,81,100,81.0
+STU0180,Physics,midterm,100,100,100.0
+STU0180,Physics,final,74,100,74.0
+STU0180,Programming,quiz,100,100,100.0
+STU0180,Programming,midterm,100,100,100.0
+STU0180,Programming,final,99,100,99.0
+STU0180,Data Structures,quiz,100,100,100.0
+STU0180,Data Structures,midterm,100,100,100.0
+STU0180,Data Structures,final,93,100,93.0
+STU0180,English,quiz,100,100,100.0
+STU0180,English,midterm,98,100,98.0
+STU0180,English,final,100,100,100.0
+STU0180,Statistics,quiz,99,100,99.0
+STU0180,Statistics,midterm,93,100,93.0
+STU0180,Statistics,final,87,100,87.0
+STU0181,Math,quiz,78,100,78.0
+STU0181,Math,midterm,100,100,100.0
+STU0181,Math,final,90,100,90.0
+STU0181,Physics,quiz,96,100,96.0
+STU0181,Physics,midterm,100,100,100.0
+STU0181,Physics,final,89,100,89.0
+STU0181,Programming,quiz,88,100,88.0
+STU0181,Programming,midterm,92,100,92.0
+STU0181,Programming,final,94,100,94.0
+STU0181,Data Structures,quiz,100,100,100.0
+STU0181,Data Structures,midterm,100,100,100.0
+STU0181,Data Structures,final,98,100,98.0
+STU0181,English,quiz,100,100,100.0
+STU0181,English,midterm,92,100,92.0
+STU0181,English,final,96,100,96.0
+STU0181,Statistics,quiz,91,100,91.0
+STU0181,Statistics,midterm,83,100,83.0
+STU0181,Statistics,final,100,100,100.0
+STU0182,Math,quiz,47,100,47.0
+STU0182,Math,midterm,43,100,43.0
+STU0182,Math,final,43,100,43.0
+STU0182,Physics,quiz,31,100,31.0
+STU0182,Physics,midterm,35,100,35.0
+STU0182,Physics,final,45,100,45.0
+STU0182,Programming,quiz,38,100,38.0
+STU0182,Programming,midterm,41,100,41.0
+STU0182,Programming,final,42,100,42.0
+STU0182,Data Structures,quiz,37,100,37.0
+STU0182,Data Structures,midterm,35,100,35.0
+STU0182,Data Structures,final,30,100,30.0
+STU0182,English,quiz,41,100,41.0
+STU0182,English,midterm,48,100,48.0
+STU0182,English,final,29,100,29.0
+STU0182,Statistics,quiz,42,100,42.0
+STU0182,Statistics,midterm,45,100,45.0
+STU0182,Statistics,final,35,100,35.0
+STU0183,Math,quiz,100,100,100.0
+STU0183,Math,midterm,90,100,90.0
+STU0183,Math,final,93,100,93.0
+STU0183,Physics,quiz,92,100,92.0
+STU0183,Physics,midterm,79,100,79.0
+STU0183,Physics,final,100,100,100.0
+STU0183,Programming,quiz,86,100,86.0
+STU0183,Programming,midterm,92,100,92.0
+STU0183,Programming,final,98,100,98.0
+STU0183,Data Structures,quiz,100,100,100.0
+STU0183,Data Structures,midterm,85,100,85.0
+STU0183,Data Structures,final,90,100,90.0
+STU0183,English,quiz,100,100,100.0
+STU0183,English,midterm,97,100,97.0
+STU0183,English,final,99,100,99.0
+STU0183,Statistics,quiz,85,100,85.0
+STU0183,Statistics,midterm,90,100,90.0
+STU0183,Statistics,final,92,100,92.0
+STU0184,Math,quiz,70,100,70.0
+STU0184,Math,midterm,64,100,64.0
+STU0184,Math,final,73,100,73.0
+STU0184,Physics,quiz,88,100,88.0
+STU0184,Physics,midterm,78,100,78.0
+STU0184,Physics,final,88,100,88.0
+STU0184,Programming,quiz,79,100,79.0
+STU0184,Programming,midterm,71,100,71.0
+STU0184,Programming,final,87,100,87.0
+STU0184,Data Structures,quiz,79,100,79.0
+STU0184,Data Structures,midterm,85,100,85.0
+STU0184,Data Structures,final,69,100,69.0
+STU0184,English,quiz,85,100,85.0
+STU0184,English,midterm,86,100,86.0
+STU0184,English,final,79,100,79.0
+STU0184,Statistics,quiz,71,100,71.0
+STU0184,Statistics,midterm,77,100,77.0
+STU0184,Statistics,final,82,100,82.0
+STU0185,Math,quiz,68,100,68.0
+STU0185,Math,midterm,70,100,70.0
+STU0185,Math,final,74,100,74.0
+STU0185,Physics,quiz,60,100,60.0
+STU0185,Physics,midterm,56,100,56.0
+STU0185,Physics,final,65,100,65.0
+STU0185,Programming,quiz,63,100,63.0
+STU0185,Programming,midterm,72,100,72.0
+STU0185,Programming,final,57,100,57.0
+STU0185,Data Structures,quiz,74,100,74.0
+STU0185,Data Structures,midterm,76,100,76.0
+STU0185,Data Structures,final,66,100,66.0
+STU0185,English,quiz,66,100,66.0
+STU0185,English,midterm,59,100,59.0
+STU0185,English,final,61,100,61.0
+STU0185,Statistics,quiz,62,100,62.0
+STU0185,Statistics,midterm,77,100,77.0
+STU0185,Statistics,final,65,100,65.0
+STU0186,Math,quiz,69,100,69.0
+STU0186,Math,midterm,81,100,81.0
+STU0186,Math,final,86,100,86.0
+STU0186,Physics,quiz,79,100,79.0
+STU0186,Physics,midterm,91,100,91.0
+STU0186,Physics,final,86,100,86.0
+STU0186,Programming,quiz,71,100,71.0
+STU0186,Programming,midterm,75,100,75.0
+STU0186,Programming,final,81,100,81.0
+STU0186,Data Structures,quiz,66,100,66.0
+STU0186,Data Structures,midterm,82,100,82.0
+STU0186,Data Structures,final,65,100,65.0
+STU0186,English,quiz,88,100,88.0
+STU0186,English,midterm,87,100,87.0
+STU0186,English,final,83,100,83.0
+STU0186,Statistics,quiz,74,100,74.0
+STU0186,Statistics,midterm,81,100,81.0
+STU0186,Statistics,final,75,100,75.0
+STU0187,Math,quiz,46,100,46.0
+STU0187,Math,midterm,52,100,52.0
+STU0187,Math,final,60,100,60.0
+STU0187,Physics,quiz,55,100,55.0
+STU0187,Physics,midterm,66,100,66.0
+STU0187,Physics,final,60,100,60.0
+STU0187,Programming,quiz,60,100,60.0
+STU0187,Programming,midterm,41,100,41.0
+STU0187,Programming,final,52,100,52.0
+STU0187,Data Structures,quiz,46,100,46.0
+STU0187,Data Structures,midterm,53,100,53.0
+STU0187,Data Structures,final,49,100,49.0
+STU0187,English,quiz,51,100,51.0
+STU0187,English,midterm,63,100,63.0
+STU0187,English,final,58,100,58.0
+STU0187,Statistics,quiz,62,100,62.0
+STU0187,Statistics,midterm,42,100,42.0
+STU0187,Statistics,final,55,100,55.0
+STU0188,Math,quiz,100,100,100.0
+STU0188,Math,midterm,100,100,100.0
+STU0188,Math,final,87,100,87.0
+STU0188,Physics,quiz,97,100,97.0
+STU0188,Physics,midterm,100,100,100.0
+STU0188,Physics,final,98,100,98.0
+STU0188,Programming,quiz,92,100,92.0
+STU0188,Programming,midterm,87,100,87.0
+STU0188,Programming,final,92,100,92.0
+STU0188,Data Structures,quiz,86,100,86.0
+STU0188,Data Structures,midterm,100,100,100.0
+STU0188,Data Structures,final,100,100,100.0
+STU0188,English,quiz,89,100,89.0
+STU0188,English,midterm,100,100,100.0
+STU0188,English,final,100,100,100.0
+STU0188,Statistics,quiz,99,100,99.0
+STU0188,Statistics,midterm,87,100,87.0
+STU0188,Statistics,final,100,100,100.0
+STU0189,Math,quiz,86,100,86.0
+STU0189,Math,midterm,85,100,85.0
+STU0189,Math,final,82,100,82.0
+STU0189,Physics,quiz,87,100,87.0
+STU0189,Physics,midterm,91,100,91.0
+STU0189,Physics,final,100,100,100.0
+STU0189,Programming,quiz,87,100,87.0
+STU0189,Programming,midterm,99,100,99.0
+STU0189,Programming,final,89,100,89.0
+STU0189,Data Structures,quiz,86,100,86.0
+STU0189,Data Structures,midterm,88,100,88.0
+STU0189,Data Structures,final,77,100,77.0
+STU0189,English,quiz,89,100,89.0
+STU0189,English,midterm,71,100,71.0
+STU0189,English,final,80,100,80.0
+STU0189,Statistics,quiz,87,100,87.0
+STU0189,Statistics,midterm,96,100,96.0
+STU0189,Statistics,final,98,100,98.0
+STU0190,Math,quiz,89,100,89.0
+STU0190,Math,midterm,92,100,92.0
+STU0190,Math,final,99,100,99.0
+STU0190,Physics,quiz,80,100,80.0
+STU0190,Physics,midterm,94,100,94.0
+STU0190,Physics,final,85,100,85.0
+STU0190,Programming,quiz,90,100,90.0
+STU0190,Programming,midterm,87,100,87.0
+STU0190,Programming,final,95,100,95.0
+STU0190,Data Structures,quiz,96,100,96.0
+STU0190,Data Structures,midterm,98,100,98.0
+STU0190,Data Structures,final,94,100,94.0
+STU0190,English,quiz,93,100,93.0
+STU0190,English,midterm,100,100,100.0
+STU0190,English,final,79,100,79.0
+STU0190,Statistics,quiz,100,100,100.0
+STU0190,Statistics,midterm,89,100,89.0
+STU0190,Statistics,final,96,100,96.0
+STU0191,Math,quiz,83,100,83.0
+STU0191,Math,midterm,80,100,80.0
+STU0191,Math,final,89,100,89.0
+STU0191,Physics,quiz,94,100,94.0
+STU0191,Physics,midterm,89,100,89.0
+STU0191,Physics,final,81,100,81.0
+STU0191,Programming,quiz,100,100,100.0
+STU0191,Programming,midterm,95,100,95.0
+STU0191,Programming,final,93,100,93.0
+STU0191,Data Structures,quiz,83,100,83.0
+STU0191,Data Structures,midterm,81,100,81.0
+STU0191,Data Structures,final,83,100,83.0
+STU0191,English,quiz,94,100,94.0
+STU0191,English,midterm,78,100,78.0
+STU0191,English,final,77,100,77.0
+STU0191,Statistics,quiz,90,100,90.0
+STU0191,Statistics,midterm,88,100,88.0
+STU0191,Statistics,final,79,100,79.0
+STU0192,Math,quiz,46,100,46.0
+STU0192,Math,midterm,66,100,66.0
+STU0192,Math,final,57,100,57.0
+STU0192,Physics,quiz,43,100,43.0
+STU0192,Physics,midterm,44,100,44.0
+STU0192,Physics,final,51,100,51.0
+STU0192,Programming,quiz,60,100,60.0
+STU0192,Programming,midterm,59,100,59.0
+STU0192,Programming,final,63,100,63.0
+STU0192,Data Structures,quiz,42,100,42.0
+STU0192,Data Structures,midterm,56,100,56.0
+STU0192,Data Structures,final,66,100,66.0
+STU0192,English,quiz,65,100,65.0
+STU0192,English,midterm,57,100,57.0
+STU0192,English,final,73,100,73.0
+STU0192,Statistics,quiz,59,100,59.0
+STU0192,Statistics,midterm,63,100,63.0
+STU0192,Statistics,final,55,100,55.0
+STU0193,Math,quiz,72,100,72.0
+STU0193,Math,midterm,71,100,71.0
+STU0193,Math,final,79,100,79.0
+STU0193,Physics,quiz,76,100,76.0
+STU0193,Physics,midterm,64,100,64.0
+STU0193,Physics,final,70,100,70.0
+STU0193,Programming,quiz,75,100,75.0
+STU0193,Programming,midterm,84,100,84.0
+STU0193,Programming,final,78,100,78.0
+STU0193,Data Structures,quiz,77,100,77.0
+STU0193,Data Structures,midterm,70,100,70.0
+STU0193,Data Structures,final,78,100,78.0
+STU0193,English,quiz,88,100,88.0
+STU0193,English,midterm,79,100,79.0
+STU0193,English,final,66,100,66.0
+STU0193,Statistics,quiz,68,100,68.0
+STU0193,Statistics,midterm,83,100,83.0
+STU0193,Statistics,final,76,100,76.0
+STU0194,Math,quiz,87,100,87.0
+STU0194,Math,midterm,83,100,83.0
+STU0194,Math,final,92,100,92.0
+STU0194,Physics,quiz,85,100,85.0
+STU0194,Physics,midterm,86,100,86.0
+STU0194,Physics,final,81,100,81.0
+STU0194,Programming,quiz,95,100,95.0
+STU0194,Programming,midterm,86,100,86.0
+STU0194,Programming,final,92,100,92.0
+STU0194,Data Structures,quiz,78,100,78.0
+STU0194,Data Structures,midterm,100,100,100.0
+STU0194,Data Structures,final,98,100,98.0
+STU0194,English,quiz,72,100,72.0
+STU0194,English,midterm,81,100,81.0
+STU0194,English,final,91,100,91.0
+STU0194,Statistics,quiz,77,100,77.0
+STU0194,Statistics,midterm,86,100,86.0
+STU0194,Statistics,final,91,100,91.0
+STU0195,Math,quiz,53,100,53.0
+STU0195,Math,midterm,59,100,59.0
+STU0195,Math,final,49,100,49.0
+STU0195,Physics,quiz,36,100,36.0
+STU0195,Physics,midterm,62,100,62.0
+STU0195,Physics,final,62,100,62.0
+STU0195,Programming,quiz,74,100,74.0
+STU0195,Programming,midterm,37,100,37.0
+STU0195,Programming,final,60,100,60.0
+STU0195,Data Structures,quiz,39,100,39.0
+STU0195,Data Structures,midterm,68,100,68.0
+STU0195,Data Structures,final,58,100,58.0
+STU0195,English,quiz,47,100,47.0
+STU0195,English,midterm,60,100,60.0
+STU0195,English,final,50,100,50.0
+STU0195,Statistics,quiz,57,100,57.0
+STU0195,Statistics,midterm,56,100,56.0
+STU0195,Statistics,final,68,100,68.0
+STU0196,Math,quiz,100,100,100.0
+STU0196,Math,midterm,90,100,90.0
+STU0196,Math,final,100,100,100.0
+STU0196,Physics,quiz,98,100,98.0
+STU0196,Physics,midterm,84,100,84.0
+STU0196,Physics,final,89,100,89.0
+STU0196,Programming,quiz,100,100,100.0
+STU0196,Programming,midterm,98,100,98.0
+STU0196,Programming,final,100,100,100.0
+STU0196,Data Structures,quiz,93,100,93.0
+STU0196,Data Structures,midterm,91,100,91.0
+STU0196,Data Structures,final,95,100,95.0
+STU0196,English,quiz,93,100,93.0
+STU0196,English,midterm,83,100,83.0
+STU0196,English,final,87,100,87.0
+STU0196,Statistics,quiz,100,100,100.0
+STU0196,Statistics,midterm,92,100,92.0
+STU0196,Statistics,final,95,100,95.0
+STU0197,Math,quiz,73,100,73.0
+STU0197,Math,midterm,74,100,74.0
+STU0197,Math,final,80,100,80.0
+STU0197,Physics,quiz,62,100,62.0
+STU0197,Physics,midterm,76,100,76.0
+STU0197,Physics,final,77,100,77.0
+STU0197,Programming,quiz,79,100,79.0
+STU0197,Programming,midterm,60,100,60.0
+STU0197,Programming,final,73,100,73.0
+STU0197,Data Structures,quiz,85,100,85.0
+STU0197,Data Structures,midterm,70,100,70.0
+STU0197,Data Structures,final,75,100,75.0
+STU0197,English,quiz,77,100,77.0
+STU0197,English,midterm,63,100,63.0
+STU0197,English,final,86,100,86.0
+STU0197,Statistics,quiz,75,100,75.0
+STU0197,Statistics,midterm,75,100,75.0
+STU0197,Statistics,final,58,100,58.0
+STU0198,Math,quiz,75,100,75.0
+STU0198,Math,midterm,73,100,73.0
+STU0198,Math,final,82,100,82.0
+STU0198,Physics,quiz,66,100,66.0
+STU0198,Physics,midterm,61,100,61.0
+STU0198,Physics,final,63,100,63.0
+STU0198,Programming,quiz,65,100,65.0
+STU0198,Programming,midterm,60,100,60.0
+STU0198,Programming,final,79,100,79.0
+STU0198,Data Structures,quiz,79,100,79.0
+STU0198,Data Structures,midterm,67,100,67.0
+STU0198,Data Structures,final,65,100,65.0
+STU0198,English,quiz,54,100,54.0
+STU0198,English,midterm,74,100,74.0
+STU0198,English,final,82,100,82.0
+STU0198,Statistics,quiz,63,100,63.0
+STU0198,Statistics,midterm,68,100,68.0
+STU0198,Statistics,final,72,100,72.0
+STU0199,Math,quiz,100,100,100.0
+STU0199,Math,midterm,90,100,90.0
+STU0199,Math,final,90,100,90.0
+STU0199,Physics,quiz,90,100,90.0
+STU0199,Physics,midterm,77,100,77.0
+STU0199,Physics,final,77,100,77.0
+STU0199,Programming,quiz,82,100,82.0
+STU0199,Programming,midterm,97,100,97.0
+STU0199,Programming,final,86,100,86.0
+STU0199,Data Structures,quiz,84,100,84.0
+STU0199,Data Structures,midterm,84,100,84.0
+STU0199,Data Structures,final,88,100,88.0
+STU0199,English,quiz,100,100,100.0
+STU0199,English,midterm,87,100,87.0
+STU0199,English,final,82,100,82.0
+STU0199,Statistics,quiz,89,100,89.0
+STU0199,Statistics,midterm,100,100,100.0
+STU0199,Statistics,final,85,100,85.0
+STU0200,Math,quiz,79,100,79.0
+STU0200,Math,midterm,85,100,85.0
+STU0200,Math,final,90,100,90.0
+STU0200,Physics,quiz,94,100,94.0
+STU0200,Physics,midterm,97,100,97.0
+STU0200,Physics,final,80,100,80.0
+STU0200,Programming,quiz,81,100,81.0
+STU0200,Programming,midterm,86,100,86.0
+STU0200,Programming,final,94,100,94.0
+STU0200,Data Structures,quiz,79,100,79.0
+STU0200,Data Structures,midterm,84,100,84.0
+STU0200,Data Structures,final,84,100,84.0
+STU0200,English,quiz,96,100,96.0
+STU0200,English,midterm,93,100,93.0
+STU0200,English,final,96,100,96.0
+STU0200,Statistics,quiz,100,100,100.0
+STU0200,Statistics,midterm,86,100,86.0
+STU0200,Statistics,final,79,100,79.0

@@ -1,0 +1,201 @@
+student_id,name,age,gender,department,enrollment_year,email,gender_encoded,dept_encoded
+STU0001,Allison Hill,23,Male,Civil Engineering,2022,hannahbrewer@example.com,0,0
+STU0002,Noah Rhodes,20,Female,Electronics,2021,fmcguire@example.com,1,2
+STU0003,Angie Henderson,21,Male,Physics,2024,richardsanchez@example.net,0,4
+STU0004,Daniel Wagner,23,Female,Electronics,2023,thomas85@example.com,1,2
+STU0005,Cristian Santos,19,Female,Civil Engineering,2022,michael74@example.com,1,0
+STU0006,Connie Lawrence,24,Male,Mathematics,2024,jerry35@example.org,0,3
+STU0007,Abigail Shaffer,21,Male,Electronics,2021,jamesrodgers@example.com,0,2
+STU0008,Gina Moore,21,Female,Mathematics,2023,tina34@example.org,1,3
+STU0009,Gabrielle Davis,23,Male,Physics,2021,harry08@example.org,0,4
+STU0010,Ryan Munoz,18,Male,Computer Science,2023,brandon08@example.com,0,1
+STU0011,Monica Herrera,19,Male,Physics,2021,danamullins@example.org,0,4
+STU0012,Jamie Arnold,23,Male,Electronics,2021,andrewstaylor@example.com,0,2
+STU0013,Lisa Hensley,19,Female,Mathematics,2021,jack04@example.com,1,3
+STU0014,Michele Williams,19,Female,Mathematics,2023,shortrichard@example.org,1,3
+STU0015,Dylan Miller,24,Female,Civil Engineering,2023,hernandezlisa@example.com,1,0
+STU0016,Brian Ramirez,21,Female,Mathematics,2023,mcknightdavid@example.com,1,3
+STU0017,Holly Wood,20,Female,Civil Engineering,2024,kimberlyjames@example.com,1,0
+STU0018,Derek Zuniga,24,Male,Computer Science,2022,michelle64@example.net,0,1
+STU0019,Lisa Jackson,24,Female,Electronics,2022,lynchjody@example.org,1,2
+STU0020,Carla Gray,19,Female,Civil Engineering,2024,josephmiller@example.org,1,0
+STU0021,Margaret Hawkins DDS,22,Female,Computer Science,2022,andreamoore@example.com,1,1
+STU0022,Patty Perez,21,Female,Mathematics,2024,enorris@example.com,1,3
+STU0023,Ethan Adams,18,Male,Mathematics,2021,halljasmine@example.net,0,3
+STU0024,Tommy Walter,24,Male,Computer Science,2024,ojones@example.com,0,1
+STU0025,Matthew Foster,20,Male,Mathematics,2021,ronaldstephens@example.net,0,3
+STU0026,Judy Baker,22,Male,Computer Science,2024,rebekahserrano@example.org,0,1
+STU0027,Justin Baker,22,Female,Civil Engineering,2023,martinkyle@example.net,1,0
+STU0028,Stephanie Ross,18,Female,Civil Engineering,2024,scott74@example.net,1,0
+STU0029,Zachary Hicks,24,Male,Computer Science,2021,gbender@example.net,0,1
+STU0030,Anthony Rodriguez,20,Female,Civil Engineering,2023,mkim@example.org,1,0
+STU0031,Rebecca Henderson,21,Male,Civil Engineering,2024,mnavarro@example.com,0,0
+STU0032,James Ferrell,17,Male,Civil Engineering,2023,davissuzanne@example.net,0,0
+STU0033,Tricia Valencia,20,Male,Physics,2023,keyemily@example.com,0,4
+STU0034,Nathan Maldonado,18,Male,Electronics,2023,hinesgregory@example.net,0,2
+STU0035,Debra Davidson,22,Female,Mathematics,2023,lmoon@example.net,1,3
+STU0036,Jeffrey Chavez,21,Male,Physics,2023,fwalters@example.org,0,4
+STU0037,Sherri Baker,20,Female,Civil Engineering,2023,vbailey@example.com,1,0
+STU0038,Cassandra Gaines,17,Female,Computer Science,2024,hodgemark@example.net,1,1
+STU0039,Elizabeth Fowler,17,Male,Civil Engineering,2021,zroberts@example.net,0,0
+STU0040,Brittany Farmer,19,Other,Electronics,2022,gibsonleonard@example.com,2,2
+STU0041,Paula Moreno,19,Other,Civil Engineering,2024,cordovarichard@example.net,2,0
+STU0042,Fred Smith,23,Male,Computer Science,2024,sandovalamy@example.com,0,1
+STU0043,Sherry Decker,18,Female,Electronics,2023,lopezmichael@example.com,1,2
+STU0044,Anthony Humphrey,24,Male,Civil Engineering,2023,nwolf@example.com,0,0
+STU0045,Angelica Tucker,20,Male,Electronics,2022,sarakim@example.net,0,2
+STU0046,Philip Cannon,20,Male,Mathematics,2021,omartinez@example.net,0,3
+STU0047,John Pierce,24,Female,Mathematics,2023,jennifercollins@example.org,1,3
+STU0048,Shane Henderson,23,Female,Civil Engineering,2022,hdavis@example.com,1,0
+STU0049,Joshua Blair,22,Male,Electronics,2023,hollanderic@example.net,0,2
+STU0050,Eric Carney,22,Male,Computer Science,2021,william46@example.com,0,1
+STU0051,Jessica Holmes,23,Female,Civil Engineering,2024,jsanchez@example.org,1,0
+STU0052,Danny Morgan,22,Male,Mathematics,2024,mlee@example.net,0,3
+STU0053,Crystal Robinson,19,Male,Mathematics,2023,michellehill@example.com,0,3
+STU0054,Mark Perez,20,Female,Civil Engineering,2023,sarah84@example.org,1,0
+STU0055,Shannon Jones,23,Other,Electronics,2022,jessica99@example.net,2,2
+STU0056,Michael Lewis,20,Male,Mathematics,2024,cgrimes@example.net,0,3
+STU0057,Timothy Duncan,24,Female,Electronics,2023,jreed@example.net,1,2
+STU0058,Richard Aguirre,17,Female,Mathematics,2021,ugibson@example.org,1,3
+STU0059,Brent Jordan,19,Male,Mathematics,2024,ashleyhall@example.com,0,3
+STU0060,John Daniel,21,Female,Physics,2024,floresthomas@example.com,1,4
+STU0061,Victoria Garcia,19,Male,Mathematics,2024,ymcneil@example.net,0,3
+STU0062,Gerald Hensley,23,Female,Computer Science,2023,tylerjohnson@example.net,1,1
+STU0063,Connor West,21,Female,Civil Engineering,2023,molly71@example.net,1,0
+STU0064,Donald Wright,17,Female,Civil Engineering,2022,jsmith@example.com,1,0
+STU0065,Jessica Callahan,23,Male,Electronics,2024,charlesharrington@example.com,0,2
+STU0066,Amber Kidd,18,Female,Mathematics,2024,cindy61@example.com,1,3
+STU0067,Tracy House,20,Male,Computer Science,2021,ofinley@example.net,0,1
+STU0068,Carol Tucker,17,Male,Electronics,2021,cbrennan@example.net,0,2
+STU0069,James Brown,20,Male,Physics,2022,younggabrielle@example.com,0,4
+STU0070,William Baker,22,Female,Electronics,2024,juliehamilton@example.org,1,2
+STU0071,Jordan Henderson,18,Female,Electronics,2024,wallaceheather@example.org,1,2
+STU0072,Whitney Peters,18,Male,Mathematics,2021,nguyenbrian@example.com,0,3
+STU0073,Brittney Phillips,17,Female,Physics,2023,ryan38@example.com,1,4
+STU0074,Lauren Daniels,18,Male,Electronics,2022,georgemiller@example.com,0,2
+STU0075,Amy Silva,21,Female,Computer Science,2024,tyleraguilar@example.org,1,1
+STU0076,Sarah Moore,18,Male,Computer Science,2024,dlittle@example.com,0,1
+STU0077,Angela Lopez,20,Female,Civil Engineering,2024,nolansteven@example.com,1,0
+STU0078,Megan Young,20,Male,Physics,2023,charleslandry@example.net,0,4
+STU0079,Steve Sanchez,23,Female,Physics,2022,danielle64@example.com,1,4
+STU0080,Lisa Barnes,20,Male,Civil Engineering,2022,james67@example.org,0,0
+STU0081,Kelly Donovan,23,Male,Electronics,2021,patrickhoward@example.com,0,2
+STU0082,Mike Allen,20,Male,Physics,2024,andrew64@example.org,0,4
+STU0083,Michael Evans,21,Female,Computer Science,2024,lozanojulie@example.com,1,1
+STU0084,Paul Jones,24,Female,Computer Science,2024,catherinegomez@example.net,1,1
+STU0085,Zachary Ferrell,23,Male,Mathematics,2024,christinebyrd@example.net,0,3
+STU0086,Daniel Baker,19,Female,Physics,2023,courtneyberger@example.net,1,4
+STU0087,Shirley Suarez,22,Female,Electronics,2024,parkerscott@example.net,1,2
+STU0088,Christopher Bass,17,Female,Civil Engineering,2024,jessica14@example.com,1,0
+STU0089,Lisa Archer,20,Female,Civil Engineering,2024,ithompson@example.net,1,0
+STU0090,Aimee Montoya,18,Male,Electronics,2022,alyssa42@example.com,0,2
+STU0091,Matthew Mcmillan,24,Male,Mathematics,2023,scoffey@example.net,0,3
+STU0092,Brian Rodriguez,20,Female,Civil Engineering,2021,linda71@example.org,1,0
+STU0093,Denise Jacobs,18,Female,Physics,2024,michelleramsey@example.com,1,4
+STU0094,Christina Walters,22,Female,Mathematics,2023,christopher60@example.com,1,3
+STU0095,John Whitehead,22,Male,Physics,2022,gibsonemily@example.net,0,4
+STU0096,Anna Henderson,22,Male,Computer Science,2023,brenda51@example.net,0,1
+STU0097,Aaron Wise,18,Female,Mathematics,2023,thomasharvey@example.net,1,3
+STU0098,Deborah Figueroa,20,Female,Civil Engineering,2022,rose31@example.net,1,0
+STU0099,Jessica Smith,22,Female,Mathematics,2021,tblankenship@example.net,1,3
+STU0100,Stephen Mckee,21,Female,Mathematics,2023,cwilson@example.org,1,3
+STU0101,Sandra Aguilar,23,Female,Mathematics,2023,wendy11@example.org,1,3
+STU0102,Cameron Parker,18,Male,Mathematics,2024,paulwatson@example.net,0,3
+STU0103,Rebecca Valencia,18,Male,Physics,2023,umatthews@example.org,0,4
+STU0104,Christine Wright,20,Female,Computer Science,2024,fpena@example.net,1,1
+STU0105,Richard Henson,18,Female,Electronics,2023,rcrosby@example.org,1,2
+STU0106,Marc Moore,18,Male,Mathematics,2023,jeff73@example.com,0,3
+STU0107,Sharon Cherry,22,Male,Civil Engineering,2024,pollardmichael@example.net,0,0
+STU0108,Sierra Johnson,20,Female,Mathematics,2022,bruce43@example.org,1,3
+STU0109,Evelyn Galvan,22,Male,Civil Engineering,2021,ndavis@example.net,0,0
+STU0110,Sharon Cochran,23,Male,Physics,2021,williamsmatthew@example.org,0,4
+STU0111,Richard Rodriguez,24,Female,Civil Engineering,2024,caseyhubbard@example.org,1,0
+STU0112,Shannon Walker,23,Female,Electronics,2023,lisahall@example.org,1,2
+STU0113,Julia Torres,24,Female,Computer Science,2023,ramireztracey@example.org,1,1
+STU0114,Crystal Johnson,22,Male,Civil Engineering,2022,lauren10@example.org,0,0
+STU0115,Garrett Lin,23,Female,Civil Engineering,2021,howardkristina@example.net,1,0
+STU0116,Diana May,20,Male,Computer Science,2021,alfred40@example.org,0,1
+STU0117,William Herrera,17,Male,Electronics,2022,vfox@example.org,0,2
+STU0118,Ashley Waller,22,Female,Mathematics,2023,xwest@example.net,1,3
+STU0119,Victor Baker,24,Female,Civil Engineering,2022,hayesjeffrey@example.net,1,0
+STU0120,Jeffrey Chandler,21,Female,Computer Science,2022,acostaregina@example.net,1,1
+STU0121,Larry Dixon,24,Female,Physics,2024,stephen00@example.com,1,4
+STU0122,Kenneth Scott,21,Female,Computer Science,2022,gsimmons@example.com,1,1
+STU0123,April Frost,18,Male,Physics,2023,fjones@example.com,0,4
+STU0124,Michelle Harmon,23,Male,Electronics,2024,cameronhill@example.net,0,2
+STU0125,Helen Jones,21,Male,Mathematics,2022,oscar98@example.com,0,3
+STU0126,Erin Edwards,24,Male,Computer Science,2023,bwagner@example.org,0,1
+STU0127,Michelle Evans,18,Other,Civil Engineering,2024,farrelldebra@example.net,2,0
+STU0128,Jason Powell,17,Male,Electronics,2024,russellbeasley@example.com,0,2
+STU0129,Cameron Fisher,20,Female,Computer Science,2021,maria66@example.net,1,1
+STU0130,Megan Orr,20,Female,Civil Engineering,2024,edwardslarry@example.com,1,0
+STU0131,Elizabeth Kelley,20,Female,Computer Science,2023,stephanie71@example.org,1,1
+STU0132,Dustin Jordan,21,Female,Physics,2022,daviscolin@example.net,1,4
+STU0133,Mary Marshall,17,Female,Computer Science,2023,lisa80@example.net,1,1
+STU0134,Daniel Kennedy,21,Female,Computer Science,2024,elizabeth65@example.net,1,1
+STU0135,Rebecca Jackson,23,Male,Computer Science,2023,uparrish@example.org,0,1
+STU0136,Jose Schultz,21,Female,Electronics,2022,caroline51@example.net,1,2
+STU0137,Robert Potter,17,Male,Computer Science,2023,ericolson@example.org,0,1
+STU0138,Courtney Gonzalez,17,Male,Civil Engineering,2022,megan51@example.com,0,0
+STU0139,David Alvarez,23,Female,Physics,2021,lindsaybruce@example.net,1,4
+STU0140,Angel Perry,17,Male,Physics,2021,lynchdiane@example.net,0,4
+STU0141,Cheyenne Horton,24,Female,Computer Science,2021,anthony44@example.com,1,1
+STU0142,David Douglas Jr.,17,Female,Electronics,2021,adam29@example.net,1,2
+STU0143,Patricia Rodriguez,20,Female,Electronics,2021,vjones@example.net,1,2
+STU0144,Christopher Rubio,24,Male,Civil Engineering,2023,davisalyssa@example.com,0,0
+STU0145,Amber Wright,24,Male,Computer Science,2021,kchavez@example.com,0,1
+STU0146,Joyce Solis,23,Female,Physics,2022,jennifer99@example.org,1,4
+STU0147,Victoria Larson,19,Male,Electronics,2024,moorekaren@example.org,0,2
+STU0148,Stephanie Salazar,19,Other,Computer Science,2023,nelsonebony@example.com,2,1
+STU0149,Kathy Rivas,17,Other,Electronics,2023,nperry@example.net,2,2
+STU0150,Stephanie Manning,24,Female,Electronics,2021,reeddaniel@example.net,1,2
+STU0151,David Wright,19,Male,Physics,2021,trose@example.org,0,4
+STU0152,Pamela Boyd,19,Male,Mathematics,2021,randallgreene@example.org,0,3
+STU0153,Denise Jones,17,Female,Civil Engineering,2021,kevinclark@example.org,1,0
+STU0154,Devon Flores,19,Male,Civil Engineering,2022,keith10@example.com,0,0
+STU0155,Brenda Hall,21,Male,Physics,2021,ythompson@example.net,0,4
+STU0156,Michelle Brown,18,Female,Electronics,2021,vincentwhitaker@example.com,1,2
+STU0157,Joshua Perry,23,Female,Computer Science,2021,sandersjudy@example.com,1,1
+STU0158,Jason Stein,18,Female,Electronics,2023,stevenschristian@example.com,1,2
+STU0159,Melissa Gates,17,Female,Physics,2022,tberry@example.net,1,4
+STU0160,Jamie Smith,20,Male,Civil Engineering,2022,zroberts@example.org,0,0
+STU0161,Paul Castaneda,23,Female,Electronics,2023,george97@example.net,1,2
+STU0162,Jennifer Adkins,17,Other,Civil Engineering,2023,christopher13@example.com,2,0
+STU0163,Lindsey Walker,24,Male,Computer Science,2021,zwarren@example.com,0,1
+STU0164,Jeffrey Johnson,20,Female,Civil Engineering,2024,jeffrey21@example.net,1,0
+STU0165,Michael Powell,18,Female,Civil Engineering,2023,schmidtjames@example.com,1,0
+STU0166,John Anderson,17,Female,Mathematics,2021,jessica23@example.org,1,3
+STU0167,Alyssa Long,24,Female,Mathematics,2024,jonathanthompson@example.org,1,3
+STU0168,Alyssa Day,23,Female,Mathematics,2024,thompsonkendra@example.com,1,3
+STU0169,Joel Williams,23,Male,Civil Engineering,2021,wwebster@example.net,0,0
+STU0170,Daniel Murphy,22,Male,Physics,2022,kmaldonado@example.net,0,4
+STU0171,Jamie Walton,24,Female,Civil Engineering,2024,michelle52@example.com,1,0
+STU0172,Darlene Miller,21,Female,Physics,2023,harrisoncrystal@example.com,1,4
+STU0173,Joshua Cooke,19,Female,Physics,2021,bellcharles@example.com,1,4
+STU0174,Matthew Harrington,20,Female,Mathematics,2022,xjohnson@example.com,1,3
+STU0175,Nicole Herring,24,Female,Electronics,2022,newmantiffany@example.org,1,2
+STU0176,Alex Hernandez,22,Female,Computer Science,2023,jford@example.net,1,1
+STU0177,Michael Elliott,19,Female,Mathematics,2023,colelisa@example.net,1,3
+STU0178,Michael Wang,19,Female,Mathematics,2022,marcalvarez@example.org,1,3
+STU0179,Lawrence Adkins,17,Female,Electronics,2023,hayeslisa@example.com,1,2
+STU0180,Robert Oconnell,19,Female,Computer Science,2023,wagnergerald@example.org,1,1
+STU0181,Alexander Collins,21,Female,Civil Engineering,2021,hritter@example.net,1,0
+STU0182,Tina Sanders,23,Male,Civil Engineering,2022,michaelhardin@example.com,0,0
+STU0183,Angela Vaughn,22,Male,Mathematics,2023,rschroeder@example.net,0,3
+STU0184,Ashley Barton,19,Male,Computer Science,2024,mccormickdeborah@example.org,0,1
+STU0185,Lindsay Martinez,17,Female,Mathematics,2023,cody64@example.com,1,3
+STU0186,Dr. Hannah Patterson,21,Male,Physics,2023,mathewaguilar@example.org,0,4
+STU0187,Jonathan Peterson,18,Male,Mathematics,2021,kyle62@example.net,0,3
+STU0188,Samantha Garcia,23,Female,Mathematics,2022,collinsnicholas@example.com,1,3
+STU0189,Madison Poole,23,Male,Civil Engineering,2023,elizabethcalderon@example.net,0,0
+STU0190,Jessica Gross,22,Female,Civil Engineering,2022,lucasrodney@example.com,1,0
+STU0191,Debra Morton,23,Male,Civil Engineering,2022,coxhenry@example.org,0,0
+STU0192,Karen Graham,19,Male,Physics,2022,stacey73@example.org,0,4
+STU0193,Debra Christian,17,Female,Civil Engineering,2021,ericphillips@example.org,1,0
+STU0194,Angelica Keith,23,Male,Computer Science,2022,stanleynancy@example.net,0,1
+STU0195,John Bishop,23,Male,Electronics,2022,carlamoore@example.org,0,2
+STU0196,Allen Rosales,18,Female,Computer Science,2022,jenniferwilliams@example.com,1,1
+STU0197,Daniel Salinas,18,Female,Computer Science,2021,tarabishop@example.net,1,1
+STU0198,Spencer Haynes,20,Male,Civil Engineering,2024,pyoung@example.com,0,0
+STU0199,Adam Vaughan,21,Female,Electronics,2023,mmckee@example.com,1,2
+STU0200,Nathan Freeman,19,Male,Electronics,2023,smurray@example.com,0,2

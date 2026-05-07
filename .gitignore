@@ -1,0 +1,51 @@
+# Project folder
+slis/
+
+# Node modules
+node_modules/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Model files
+# *.pkl
+# *.joblib
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Build/dist
+build/
+dist/
+
+# Temporary files
+temp/
+tmp/
