@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-const API = '';  // CRA proxy handles /students → localhost:8000
+const API = 'https://student-learning-intelligence-system.onrender.com';  // CRA proxy handles /students → localhost:8000
 
 /* ── Global CSS ───────────────────────────────────────────────────── */
 const globalCSS = `
